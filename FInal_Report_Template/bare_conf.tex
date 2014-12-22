@@ -554,6 +554,7 @@ Give this definition of a complex event, we are now able to find multi-event epi
 \par\quad push $(e_{i},t_{i})$ to valid\_times$\left [ j \right ]$
 \par\quad end if  end for
 \par
+
 5. find combinations of $(e_{i},t_{i}), i=1,...,m$ that either $q$ 
 \par\quad or complements of $q$ is satisfied
 \par\quad If $q$ is satisfied, push that to 
@@ -565,9 +566,11 @@ Give this definition of a complex event, we are now able to find multi-event epi
 \par\quad end if
 \vspace{1.2mm}
 \par
+
 After we have defined the multi-event episode, we are able to define a specific event set with a single symbol. For example, if we would like to check the inner relationship between two stocks that "high price and low price has a negative relationship
 within a week's period", we are able to define this episode as event "a" and its counterexample as event "b". The algorithm we use for encoding is as follows,
 \par
+
 \vspace{0.6mm}
 1. Read episode 
 \par\quad $E=\left \{ (e_{1},t_{1}),..,(e_{l},t_{l}) \right \}$, $\forall i=(1,2,...,l)$
@@ -630,12 +633,14 @@ Specifically, the Jaro string comparator is
 \vspace{1.2mm}
 \par Two characters are considered in common only if they are no further apart than $L/2-1$ where $L = \max(\left | s_{1} \right |,\left |s_{2}  \right |)$.
 \par
+
 Jaro–Winkler distance uses a prefix scale $p$ which gives more favourable ratings to strings that match from the beginning for a set prefix length $\ell$. Given two strings $s_{1}$ and $s_{2}$, their Jaro–Winkler distance $d_{w}$ is:
 \par\quad $d_{w}=d_{j}+(\ell p(1-d_{j}))$
 \par where
 \par\quad $\ell$ is the length of common prefix at the start of the string up to a maximum of 4 characters
 \par\quad $p$ is a constant scaling factor for how much the score is adjusted upwards for having common prefixes
 \par 
+
 In our preparation work, we encode the episode we want to check as a string, of which the length is the time window. we have realized Jaro\_Winkle algorothm, we are able to check whether $s_{j}$ is a member of episode description or its complement by doing the following:
 \vspace{1.2mm}
 \par\quad if $s_{j}=string\_episode$
@@ -647,9 +652,11 @@ In our preparation work, we encode the episode we want to check as a string, of 
 \par\quad end if
 \vspace{1.2mm}
 \par
+
 After we look deeper into our encoding process and analyze the experimental result,we notice that the condition $e_{i}$ belongs to neither a member of episode description nor its complement will bring a considerable impact on checking the similarity when we increase the window length such like episode "In a 2 week period, trading volume will follow the move of open price". Also considering the property of JarO\_Winkle algorithm, we do the following change to our encoding algorithm:
 \vspace{1.2mm}
 \par
+
 1. Read episode 
 \par\quad $E=\left \{ (e_{1},t_{1}),..,(e_{l},t_{l}) \right \}$, $\forall i=(1,2,...,l)$
 2. $B=\emptyset$
@@ -801,7 +808,7 @@ We are now able to use rather complex episodes for our stock market evaluation. 
 \par 
 As discussed before, our system is able to recommend 5 most similar stocks for investors based on user defined episode criterion. In our following experiment, we set our basic episode "high price will have a positive relationship with open price in a $k$ day period", and we set different $k$ value and training data space to see the performance of our recommendation. With this criterion, similarity between stock A and stock B implies that their three day following patterns are similar. So if short trading on A is profitable, we can expect a profitable trading on B soon after.\\
 \par 
-In our experiment, we randomly pick stock JSM for further evaluation.Because of space constraint, we give a representation of the most similar 3 stocks. We first choose 50 days data as our training data and set the time window $k=$ 3.The open and high price of JSM in the last 50 days is shown in Figure 11. \\
+In our experiment, we randomly pick stock JSM for further evaluation.Because of space constraint, we give a representation of the most similar 3 stocks. We first choose 50 days data as our training data and set the time window $k=$ 3.The open and high price of JSM in the last 50 days is shown in Figure 10. \\
 \par
 \vspace{2mm}
  \begin{figure}[!h]
@@ -813,7 +820,7 @@ In our experiment, we randomly pick stock JSM for further evaluation.Because of 
 
 \vspace{1mm}
 \par
-Our recommendation result are stock IEP, CTRP and BDSI, as shown in Figure 2, Figure 3 and Figure 4. As we can clearly see from the figures, stock IEP and JSM shows high cirrelation, their trend line suggests a good similarity. Also, if we look at some specific area in the figures around 2014/10/20, 2014/11/17 and 2014/12/8, we will find that the trend of our recommended stocks all have similar trend as our selected stock, which means that our recommendation is helpful in deciding similar stocks.\\
+Our recommendation result are stock IEP, CTRP and BDSI, as shown in Figure 11, Figure 12 and Figure 13. As we can clearly see from the figures, stock IEP and JSM shows high cirrelation, their trend line suggests a good similarity. Also, if we look at some specific area in the figures around 2014/10/20, 2014/11/17 and 2014/12/8, we will find that the trend of our recommended stocks all have similar trend as our selected stock, which means that our recommendation is helpful in deciding similar stocks.\\
 \par
 \vspace{2mm}
  \begin{figure}[!h]
@@ -843,7 +850,7 @@ Our recommendation result are stock IEP, CTRP and BDSI, as shown in Figure 2, Fi
 
 \vspace{1mm}
 \par
-Next, we set a $k=$ 7 time window, which means that we are going to evaluation similarity between two stocks in a longer period. First we keep the 50 date training dataset and get stock CZNC, OCLR and STRM as JSM's most similar stocks, shown in Figure 5, 6 and 7.
+Next, we set a $k=$ 7 time window, which means that we are going to evaluation similarity between two stocks in a longer period. First we keep the 50 date training dataset and get stock CZNC, OCLR and STRM as JSM's most similar stocks, shown in Figure 14, 15 and 16.
 \par
  \begin{figure}[!h]
 \vspace{2mm}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.5)  22 DEC 2014 01:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.5)  22 DEC 2014 01:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -473,18 +473,18 @@ Missing character: There is no ã in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 
-Overfull \hbox (4.23216pt too wide) in paragraph at lines 563--564
+Overfull \hbox (4.23216pt too wide) in paragraph at lines 564--565
 [] \OT1/ptm/m/n/10 com-ple-men-tary[]episode$\OT1/cmr/m/n/10 [$\OT1/ptm/m/n/10 
 complementary[]episode[]index$\OT1/cmr/m/n/10 ]$ 
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 589--590
+Underfull \hbox (badness 1721) in paragraph at lines 592--593
 \OT1/ptm/m/n/10 into a string sim-i-lar-ity check-ing.After we've got two
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 589--590
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
 
  []
 
@@ -500,10 +500,10 @@ Missing character: There is no “ in font ptmr7t!
 File: figures/UI_overview.jpg Graphic file (type jpg)
 
 <use figures/UI_overview.jpg>
-Package pdftex.def Info: figures/UI_overview.jpg used on input line 685.
+Package pdftex.def Info: figures/UI_overview.jpg used on input line 692.
 (pdftex.def)             Requested size: 252.94499pt x 148.18074pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 685--686
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 692--693
  [][] 
  []
 
@@ -511,25 +511,25 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 685--686
 File: figures/drop_down_button.jpg Graphic file (type jpg)
 
 <use figures/drop_down_button.jpg>
-Package pdftex.def Info: figures/drop_down_button.jpg used on input line 698.
+Package pdftex.def Info: figures/drop_down_button.jpg used on input line 705.
 (pdftex.def)             Requested size: 252.94499pt x 136.47095pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 698--699
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 705--706
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--712
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
 
  []
 
 
-Underfull \hbox (badness 4403) in paragraph at lines 713--714
+Underfull \hbox (badness 4403) in paragraph at lines 720--721
 []\OT1/ptm/m/n/10 The sys-tem rec-om-mends 5 stocks with high-est
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 713--714
+Underfull \hbox (badness 10000) in paragraph at lines 720--721
 
  []
 
@@ -537,10 +537,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 713--714
 File: figures/recommendation.jpg Graphic file (type jpg)
 
 <use figures/recommendation.jpg>
-Package pdftex.def Info: figures/recommendation.jpg used on input line 717.
+Package pdftex.def Info: figures/recommendation.jpg used on input line 724.
 (pdftex.def)             Requested size: 252.94499pt x 138.74579pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 717--718
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 724--725
  [][] 
  []
 
@@ -548,10 +548,10 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 717--718
 File: figures/search_button.jpg Graphic file (type jpg)
 
 <use figures/search_button.jpg>
-Package pdftex.def Info: figures/search_button.jpg used on input line 729.
+Package pdftex.def Info: figures/search_button.jpg used on input line 736.
 (pdftex.def)             Requested size: 252.94499pt x 79.6639pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 729--730
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 736--737
  [][] 
  []
 
@@ -559,10 +559,10 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 729--730
 File: figures/info_button.png Graphic file (type png)
 
 <use figures/info_button.png>
-Package pdftex.def Info: figures/info_button.png used on input line 745.
+Package pdftex.def Info: figures/info_button.png used on input line 752.
 (pdftex.def)             Requested size: 252.94499pt x 102.79988pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 745--746
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 752--753
  [][] 
  []
 
@@ -573,10 +573,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/line_chart.png Graphic file (type png)
 
 <use figures/line_chart.png>
-Package pdftex.def Info: figures/line_chart.png used on input line 753.
+Package pdftex.def Info: figures/line_chart.png used on input line 760.
 (pdftex.def)             Requested size: 252.94499pt x 129.81145pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 753--754
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 760--761
  [][] 
  []
 
@@ -584,81 +584,81 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 753--754
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 758--759
+Underfull \hbox (badness 10000) in paragraph at lines 765--766
 
  []
 
 [5 <./figures/UI_overview.jpg> <./figures/drop_down_button.jpg> <./figures/reco
 mmendation.jpg> <./figures/search_button.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 775--776
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--780
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 782--783
 
  []
 
 
-Overfull \hbox (3.19589pt too wide) in paragraph at lines 785--786
+Underfull \hbox (badness 10000) in paragraph at lines 785--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--790
+
+ []
+
+
+Overfull \hbox (3.19589pt too wide) in paragraph at lines 792--793
 []\OT1/ptm/m/n/10 var cell=document.getElementById("t02").rows[a].cells; 
  []
 
 
-Overfull \hbox (11.3963pt too wide) in paragraph at lines 789--790
+Overfull \hbox (11.3963pt too wide) in paragraph at lines 796--797
 []\OT1/ptm/m/n/10 We use xml-http.open("GET","http://localhost/plot[]400[]30 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--790
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
 \OT1/ptm/m/n/10 0.php?symbol="+value,true) func-tion to call the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--790
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 799--800
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
 
  []
 
 [6 <./figures/info_button.png> <./figures/line_chart.png>]
-Underfull \hbox (badness 1616) in paragraph at lines 802--803
+Underfull \hbox (badness 1616) in paragraph at lines 809--810
 \OT1/ptm/m/n/10 of our rec-om-men-da-tion. With this cri-te-rion, sim-i-lar-ity
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--803
+Underfull \hbox (badness 10000) in paragraph at lines 809--810
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 804--805
+Underfull \hbox (badness 10000) in paragraph at lines 811--812
 
  []
 
 <figures/JSM.png, id=45, 378.66469pt x 259.7203pt>
 File: figures/JSM.png Graphic file (type png)
  <use figures/JSM.png>
-Package pdftex.def Info: figures/JSM.png used on input line 808.
+Package pdftex.def Info: figures/JSM.png used on input line 815.
 (pdftex.def)             Requested size: 216.81pt x 148.70789pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--817
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
 
  []
 
 <figures/IEP.png, id=46, 377.15906pt x 258.9675pt>
 File: figures/IEP.png Graphic file (type png)
  <use figures/IEP.png>
-Package pdftex.def Info: figures/IEP.png used on input line 820.
+Package pdftex.def Info: figures/IEP.png used on input line 827.
 (pdftex.def)             Requested size: 216.81pt x 148.86562pt.
 
 
@@ -667,7 +667,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/CTRP.png, id=47, 377.91188pt x 258.21469pt>
 File: figures/CTRP.png Graphic file (type png)
  <use figures/CTRP.png>
-Package pdftex.def Info: figures/CTRP.png used on input line 829.
+Package pdftex.def Info: figures/CTRP.png used on input line 836.
 (pdftex.def)             Requested size: 216.81pt x 148.13737pt.
 
 
@@ -676,7 +676,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/BDSI.png, id=48, 379.4175pt x 257.46187pt>
 File: figures/BDSI.png Graphic file (type png)
  <use figures/BDSI.png>
-Package pdftex.def Info: figures/BDSI.png used on input line 838.
+Package pdftex.def Info: figures/BDSI.png used on input line 845.
 (pdftex.def)             Requested size: 216.81pt x 147.12405pt.
 
 
@@ -685,7 +685,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/CZNC.png, id=49, 380.92313pt x 257.46187pt>
 File: figures/CZNC.png Graphic file (type png)
  <use figures/CZNC.png>
-Package pdftex.def Info: figures/CZNC.png used on input line 850.
+Package pdftex.def Info: figures/CZNC.png used on input line 857.
 (pdftex.def)             Requested size: 216.81pt x 146.53871pt.
 
 
@@ -694,7 +694,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/STRM.png, id=50, 380.92313pt x 256.70906pt>
 File: figures/STRM.png Graphic file (type png)
  <use figures/STRM.png>
-Package pdftex.def Info: figures/STRM.png used on input line 859.
+Package pdftex.def Info: figures/STRM.png used on input line 866.
 (pdftex.def)             Requested size: 216.81pt x 146.11023pt.
 
 
@@ -703,14 +703,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/OCLR.png, id=51, 379.4175pt x 258.9675pt>
 File: figures/OCLR.png Graphic file (type png)
  <use figures/OCLR.png>
-Package pdftex.def Info: figures/OCLR.png used on input line 868.
+Package pdftex.def Info: figures/OCLR.png used on input line 875.
 (pdftex.def)             Requested size: 216.81pt x 147.98444pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 876--877
+Underfull \hbox (badness 10000) in paragraph at lines 883--884
 
  []
 
@@ -719,7 +719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 876--877
 File: figures/SPAR.png Graphic file (type png)
 
 <use figures/SPAR.png>
-Package pdftex.def Info: figures/SPAR.png used on input line 880.
+Package pdftex.def Info: figures/SPAR.png used on input line 887.
 (pdftex.def)             Requested size: 216.81pt x 146.5527pt.
 
 
@@ -728,7 +728,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/CIFC.png, id=61, 379.4175pt x 256.70906pt>
 File: figures/CIFC.png Graphic file (type png)
  <use figures/CIFC.png>
-Package pdftex.def Info: figures/CIFC.png used on input line 889.
+Package pdftex.def Info: figures/CIFC.png used on input line 896.
 (pdftex.def)             Requested size: 216.81pt x 146.69388pt.
 
 
@@ -737,49 +737,34 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/PLAB.png, id=62, 378.66469pt x 255.95625pt>
 File: figures/PLAB.png Graphic file (type png)
  <use figures/PLAB.png>
-Package pdftex.def Info: figures/PLAB.png used on input line 898.
+Package pdftex.def Info: figures/PLAB.png used on input line 905.
 (pdftex.def)             Requested size: 216.81pt x 146.5527pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--907
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
 
  []
 
 [8 <./figures/CZNC.png> <./figures/STRM.png> <./figures/OCLR.png> <./figures/SP
 AR.png> <./figures/CIFC.png> <./figures/PLAB.png>]
-Underfull \hbox (badness 1688) in paragraph at lines 911--912
+Underfull \hbox (badness 1688) in paragraph at lines 918--919
 \OT1/ptm/m/n/10 frame-work for mul-ti-ple events to pre-dict two stocks'
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 911--912
+Underfull \hbox (badness 2846) in paragraph at lines 918--919
 \OT1/ptm/m/n/10 ob-jec-tive stocks from the screen-ing re-sults by three
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 911--912
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
 
  []
 
-** WARNING: Ignoring useless \section in Appendix (line 1013).
-
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1016
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
-
- []
-
-
-Underfull \hbox (badness 5954) in paragraph at lines 1022--1023
-[]\OT1/ptm/m/n/10 The project doc-u-ment has three fold-ers: J2EE
- []
-
+** WARNING: Ignoring useless \section in Appendix (line 1020).
 
 Underfull \hbox (badness 10000) in paragraph at lines 1022--1023
 
@@ -791,42 +776,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 1027--1028
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1036
+Underfull \hbox (badness 5954) in paragraph at lines 1029--1030
+[]\OT1/ptm/m/n/10 The project doc-u-ment has three fold-ers: J2EE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
 
  []
 
 <figures/j2ee.jpg, id=72, 390.45876pt x 315.1775pt>
 File: figures/j2ee.jpg Graphic file (type jpg)
  <use figures/j2ee.jpg>
-Package pdftex.def Info: figures/j2ee.jpg used on input line 1039.
+Package pdftex.def Info: figures/j2ee.jpg used on input line 1046.
 (pdftex.def)             Requested size: 252.94499pt x 204.17522pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 1039--1040
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 1046--1047
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1046
+Underfull \hbox (badness 10000) in paragraph at lines 1051--1053
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1049--1050
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
 
  []
 
 [9 <./figures/j2ee.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1053--1054
+Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
 
  []
 
 <figures/server.jpg, id=76, 698.61pt x 195.73125pt>
 File: figures/server.jpg Graphic file (type jpg)
  <use figures/server.jpg>
-Package pdftex.def Info: figures/server.jpg used on input line 1057.
+Package pdftex.def Info: figures/server.jpg used on input line 1064.
 (pdftex.def)             Requested size: 252.94499pt x 70.86937pt.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 1057--1058
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 1064--1065
  [][] 
  []
 
@@ -879,7 +879,7 @@ nts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb
 8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (10 pages, 986185 bytes).
+Output written on bare_conf.pdf (10 pages, 986187 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
