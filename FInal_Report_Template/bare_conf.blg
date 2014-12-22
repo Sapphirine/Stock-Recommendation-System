@@ -42,45 +42,45 @@ while executing---line 1090 of file plain.bst
 Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
 while executing---line 1090 of file plain.bst
 Warning--can't use both volume and number fields in Mining
-You've used 11 entries,
+You've used 12 entries,
             2118 wiz_defined-function locations,
-            570 strings with 5945 characters,
-and the built_in function-call counts, 3807 in all, are:
-= -- 375
-> -- 160
+            575 strings with 6103 characters,
+and the built_in function-call counts, 4171 in all, are:
+= -- 412
+> -- 178
 < -- 6
-+ -- 65
-- -- 52
-* -- 237
-:= -- 609
-add.period$ -- 36
-call.type$ -- 11
-change.case$ -- 53
++ -- 72
+- -- 58
+* -- 268
+:= -- 670
+add.period$ -- 39
+call.type$ -- 12
+change.case$ -- 59
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 170
-empty$ -- 317
-format.name$ -- 52
-if$ -- 831
+cite$ -- 15
+duplicate$ -- 181
+empty$ -- 344
+format.name$ -- 58
+if$ -- 904
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 16
-newline$ -- 57
-num.names$ -- 22
-pop$ -- 85
+int.to.str$ -- 12
+missing$ -- 17
+newline$ -- 62
+num.names$ -- 24
+pop$ -- 89
 preamble$ -- 1
-purify$ -- 48
+purify$ -- 53
 quote$ -- 0
-skip$ -- 113
+skip$ -- 120
 stack$ -- 0
-substring$ -- 200
-swap$ -- 51
+substring$ -- 230
+swap$ -- 52
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 34
+type$ -- 38
 warning$ -- 3
-while$ -- 37
-width$ -- 13
-write$ -- 122
+while$ -- 41
+width$ -- 14
+write$ -- 133
 (There were 18 error messages)

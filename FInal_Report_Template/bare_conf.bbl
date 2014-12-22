@@ -39,6 +39,11 @@ Jan Komorowski and Jan Zytkow.
 \newblock {\em Principles of data mining and knowledge discovery}.
 \newblock Springer, 1997.
 
+\bibitem{algorithm}
+Heikki Mannila, Hannu Toivonen, and A~Inkeri Verkamo.
+\newblock Discovery of frequent episodes in event sequences.
+\newblock {\em Data Mining and Knowledge Discovery}, 1(3):259--289, 1997.
+
 \bibitem{Similarity}
 Daniel S. Kaster Caetano Traina~Jr. Marcos Vinicius Naves~Bedo, Davi Pereira
   dos~Santos.
