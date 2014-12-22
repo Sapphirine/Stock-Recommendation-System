@@ -1,0 +1,2959 @@
+"AAIT","iShares MSCI All ",33.99,+0.3658,33.0542,N/A,N/A
+"AAL","American Airlines",43.53,+4.8639,38.6761,43.25,44.49
+"AAME","Atlantic American",3.80,-0.0728,3.8928,3.71,3.88
+"AAOI","Applied Optoelect",12.49,-1.8222,14.3222,12.36,12.84
+"AAON","AAON, Inc.",20.71,+1.6403,19.0697,20.58,20.8725
+"AAPL","Apple Inc.",116.26,+10.657,105.603,116.07,117.57
+"AAVL","Avalanche Biotech",35.03,+2.0153,33.0747,33.231,35.38
+"AAWW","Atlas Air Worldwi",44.10,+7.6717,36.4283,43.11,44.18
+"AAXJ","iShares MSCI All ",62.98,+1.4289,61.5611,62.72,63.04
+"ABAC","Aoxin Tianli Grou",2.23,+0.0358,2.2042,2.18,2.27
+"ABAX","ABAXIS, Inc.",54.06,+3.1092,51.0008,53.65,54.91
+"ABCB","Ameris Bancorp",25.12,+0.9111,24.2089,25.10,25.824
+"ABCD","Cambium Learning ",1.75,+0.208,1.5928,1.70,1.86
+"ABCO","The Advisory Boar",41.29,-7.4644,48.8044,40.91,42.33
+"ABCW","Anchor BanCorp Wi",29.41,-0.6314,30.6314,29.54,30.7448
+"ABDC","Alcentra Capital ",12.76,+0.058,12.7419,12.66,12.88
+"ABGB","Abengoa, S.A.",13.70,-5.5325,19.2925,13.59,14.57
+"ABIO","ARCA biopharma, I",0.8011,-0.2711,1.0811,0.80,0.85
+"ABMD","ABIOMED, Inc.",35.20,+7.3658,27.8642,34.70,35.74
+"ABTL","Autobytel Inc.",10.27,+0.71,9.58,10.25,10.90
+"ABY","Abengoa Yield plc",29.11,-2.3931,31.5631,28.5079,29.48
+"ACAD","ACADIA Pharmaceut",28.41,+1.9839,26.4361,28.23,29.55
+"ACAS","American Capital,",14.87,+0.3556,14.5186,14.85,15.09
+"ACAT","Arctic Cat Inc.",33.22,+0.4708,32.8092,33.04,33.915
+"ACET","Aceto Corporation",21.03,+0.5367,20.4933,20.95,21.41
+"ACFC","Atlantic Coast Fi",4.12,+0.1144,3.9856,4.10,4.24
+"ACFN","Acorn Energy, Inc",0.9802,-0.2147,1.1978,0.9801,1.04
+"ACGL","Arch Capital Grou",57.13,+1.1897,55.9453,56.97,57.65
+"ACHC","Acadia Healthcare",61.84,+6.4136,55.43,61.56,62.95
+"ACHN","Achillion Pharmac",13.16,+1.7242,11.4458,13.04,13.68
+"ACIW","ACI Worldwide, In",19.61,+0.9842,18.6258,19.45,19.72
+"ACLS","Axcelis Technolog",2.14,+0.0881,2.0569,2.13,2.19
+"ACNB","ACNB Corporation",19.80,+0.4908,19.4392,19.8001,20.00
+"ACOR","Acorda Therapeuti",35.91,+1.9456,33.9444,35.80,36.84
+"ACPW","Active Power, Inc",1.85,-0.0303,1.8853,1.85,1.89
+"ACRX","AcelRx Pharmaceut",6.48,+0.0186,6.4814,6.37,6.75
+"ACSF","American Capital ",13.06,-0.001,13.091,12.99,13.10
+"ACST","Acasti Pharma, In",0.43,-0.0988,0.5303,0.43,0.46
+"ACTA","Actua Corporation",15.35,-1.7175,17.1275,15.25,16.00
+"ACTG","Acacia Research C",18.45,+1.9275,16.5525,18.20,18.64
+"ACTS","Actions Semicondu",1.74,-0.1206,1.8706,1.74,1.80
+"ACUR","Acura Pharmaceuti",0.545,-0.0506,0.5956,0.51,0.5799
+"ACWI","iShares MSCI ACWI",60.41,+2.1169,58.3031,60.23,60.63
+"ACWX","iShares MSCI ACWI",45.51,+1.1597,44.3403,45.36,45.6399
+"ACXM","Acxiom Corporatio",19.02,+1.3047,17.7153,18.79,19.10
+"ADAT","Authentidate Hold",0.92,+0.1977,0.7511,0.88,0.95
+"ADBE","Adobe Systems Inc",71.42,+3.4994,67.9256,71.19,72.55
+"ADEP","Adept Technology,",8.83,+1.2131,7.6269,8.83,9.40
+"ADES","Advanced Emission",20.75,+0.6094,20.1706,20.52,21.10
+"ADHD","Alcobra Ltd.",3.48,-1.5078,5.0078,3.33,3.55
+"ADI","Analog Devices, I",51.56,+3.7764,47.7836,51.15,51.95
+"ADMA","ADMA Biologics In",11.05,-0.8343,11.8343,11.00,12.00
+"ADMP","Adamis Pharmaceut",3.94,-0.3031,4.2431,3.91,3.98
+"ADMS","Adamas Pharmaceut",14.64,-0.4696,15.2396,14.63,15.00
+"ADNC","Audience, Inc.",3.61,-1.8589,5.4789,3.58,3.80
+"ADP","Automatic Data Pr",84.26,+5.7914,78.4786,83.81,85.22
+"ADRA","BLDRS Asia 50 ADR",29.62,+0.6158,28.8842,29.50,29.50
+"ADRD","BLDRS Developed M",23.78,+0.5071,23.265,23.71,23.82
+"ADRE","BLDRS Emerging Ma",40.00,+1.1996,38.8569,39.32,40.08
+"ADRU","BLDRS Europe 100 ",23.79,+0.528,23.25,23.778,23.92
+"ADSK","Autodesk, Inc.",62.30,+6.1222,56.1778,60.65,63.00
+"ADTN","ADTRAN, Inc.",20.05,+0.1292,19.9208,19.73,20.23
+"ADUS","Addus HomeCare Co",22.10,+2.5217,19.6283,21.9101,22.15
+"ADVS","Advent Software, ",31.39,-1.2569,32.6469,31.23,31.89
+"ADXS","Advaxis, Inc.",2.95,-0.0067,2.9577,2.90,3.0299
+"ADXSW","Advaxis, Inc.",1.06,N/A,0.00,N/A,N/A
+"AEGN","Aegion Corp",19.43,+0.8186,18.6314,19.20,19.69
+"AEGR","Aegerion Pharmace",21.35,-6.2739,27.6189,20.89,21.40
+"AEHR","Aehr Test Systems",2.35,+0.0736,2.3164,2.34,2.48
+"AEIS","Advanced Energy I",20.15,+1.1786,18.9864,20.14,20.56
+"AEPI","AEP Industries In",43.76,+1.5219,42.5481,43.1501,44.45
+"AERI","Aerie Pharmaceuti",25.22,+2.3367,22.8933,24.74,25.85
+"AETI","American Electric",5.68,-0.9753,6.6853,5.55,5.99
+"AEY","ADDvantage Techno",2.64,+0.1972,2.4428,2.55,2.65
+"AEZS","AEterna Zentaris ",0.5324,-0.4667,0.9992,0.52,0.5496
+"AFAM","Almost Family Inc",27.32,-0.0069,27.4269,26.95,27.49
+"AFCB","Athens Bancshares",23.52,+3.5086,23.4914,N/A,N/A
+"AFFX","Affymetrix, Inc.",8.84,+0.5217,8.3183,8.79,9.20
+"AFH","Atlas Financial H",14.67,+0.3619,14.3081,14.63,14.80
+"AFMD","Affimed N.V.",5.78,+0.7509,5.1491,5.66,6.2199
+"AFOP","Alliance Fiber Op",12.72,+0.0492,12.6808,12.55,13.17
+"AFSI","AmTrust Financial",50.73,+3.3981,47.3369,50.47,52.3763
+"AGEN","Agenus Inc.",2.93,-0.0181,2.9531,2.93,3.02
+"AGII","Argo Group Intern",55.37,+2.0022,53.4378,55.17,56.89
+"AGIIL","Argo Group Intern",24.66,+0.2392,24.4408,24.66,24.90
+"AGIO","Agios Pharmaceuti",94.89,+19.4371,75.5328,92.71,97.36
+"AGNC","American Capital ",23.14,+0.5258,22.6142,23.10,23.26
+"AGNCB","American Capital ",24.51,+0.2687,24.2913,24.50,24.6315
+"AGNCP","American Capital ",25.92,+0.2864,25.6836,25.97,26.12
+"AGND","WisdomTree Barcla",45.96,-0.1919,46.2869,45.97,46.17
+"AGRX","Agile Therapeutic",5.95,-0.5461,6.4861,5.78,5.98
+"AGTC","Applied Genetic T",19.76,-0.2714,20.0914,19.52,20.21
+"AGYS","Agilysys, Inc.",11.90,+0.6153,11.3147,11.82,11.99
+"AGZD","WisdomTree Barcla",49.29,-0.1309,49.5608,49.33,49.47
+"AHGP","Alliance Holdings",67.75,+1.4481,66.8219,66.83,68.38
+"AHPI","Allied Healthcare",1.41,-0.5619,1.9819,1.41,1.60
+"AIMC","Altra Industrial ",31.05,+1.4547,29.6053,30.81,31.36
+"AINV","Apollo Investment",8.22,+0.0831,8.1419,8.22,8.35
+"AIQ","Alliance HealthCa",23.06,+0.2825,22.9375,22.78,23.22
+"AIRM","Air Methods Corpo",44.30,-4.8017,49.1117,43.88,44.90
+"AIRR","First Trust RBA A",18.73,+0.3947,18.3354,18.67,19.06
+"AIRT","Air T, Inc.",16.34,+2.7075,13.8125,16.1676,16.57
+"AIXG","Aixtron SE",11.74,-0.8564,12.6064,11.70,11.84
+"AKAM","Akamai Technologi",63.59,+5.3669,58.2331,63.23,63.97
+"AKAO","Achaogen, Inc.",9.29,+0.0625,9.2975,9.28,9.4501
+"AKBA","Akebia Therapeuti",14.39,-1.7154,16.1154,14.31,15.1299
+"AKER","Akers Biosciences",2.73,-0.5524,3.286,2.73,2.9605
+"AKRX","Akorn, Inc.",36.39,-2.3901,38.7811,36.31,38.50
+"ALCO","Alico, Inc.",36.32,-0.3592,36.8792,36.19,36.99
+"ALDR","Alder BioPharmace",15.67,+1.0903,14.5947,15.49,16.19
+"ALDX","Aldeyra Therapeut",7.26,+0.4939,7.0361,7.114,7.54
+"ALGN","Align Technology,",55.50,+5.2233,50.2967,55.18,56.005
+"ALGT","Allegiant Travel ",132.71,+8.149,124.681,131.09,134.22
+"ALIM","Alimera Sciences,",5.37,+0.1292,5.2508,5.31,5.56
+"ALKS","Alkermes plc",56.32,+9.1592,47.1658,55.44,56.415
+"ALLB","Alliance Bancorp,",17.12,+1.4636,16.5364,17.30,18.00
+"ALLT","Allot Communicati",9.84,-0.6856,10.5256,9.75,10.282
+"ALNY","Alnylam Pharmaceu",91.45,+2.8342,88.6058,90.06,93.00
+"ALOG","Analogic Corporat",72.36,+0.9667,71.5033,72.19,73.3899
+"ALOT","Astro-Med, Inc.",14.02,+0.7578,13.3422,14.02,14.10
+"ALQA","Alliqua, Inc.",5.10,+0.4386,4.6614,5.00,5.16
+"ALSK","Alaska Communicat",1.30,-0.0829,1.3903,1.30,1.32
+"ALTR","Altera Corporatio",36.30,+2.4189,33.8811,35.72,36.36
+"ALXA","Alexza Pharmaceut",1.53,-0.51,2.05,1.49,1.54
+"ALXN","Alexion Pharmaceu",191.25,+9.384,182.006,190.29,195.87
+"AMAG","AMAG Pharmaceutic",35.94,+2.9594,32.9906,34.885,36.16
+"AMAT","Applied Materials",22.82,+1.5044,21.3156,22.63,22.97
+"AMBA","Ambarella, Inc.",49.76,+6.2856,43.4644,49.38,51.50
+"AMBC","Ambac Financial G",25.66,+3.0964,22.5636,25.26,25.93
+"AMBCW","Ambac Financial G",14.84,N/A,0.00,N/A,N/A
+"AMCC","Applied Micro Cir",6.01,-0.4975,6.5175,5.77,6.27
+"AMCF","Andatee China Mar",1.59,-0.5093,2.0994,1.5601,1.69
+"AMCN","AirMedia Group In",2.78,+0.6453,2.1447,2.61,2.82
+"AMCX","AMC Networks Inc.",62.25,+3.4239,58.8361,62.08,63.02
+"AMDA","Amedica Corporati",0.9701,-0.5246,1.5114,0.9001,1.09
+"AMED","Amedisys Inc",25.27,+2.3567,22.9303,24.9101,25.96
+"AMGN","Amgen Inc.",162.14,+12.509,149.661,161.43,165.58
+"AMIC","American Independ",11.20,+0.4031,10.6569,N/A,N/A
+"AMKR","Amkor Technology,",6.82,-0.1972,7.0222,6.70,6.95
+"AMNB","American National",23.43,+0.2561,23.3306,23.50,24.01
+"AMOT","Allied Motion Tec",19.72,+4.9058,15.0142,19.59,20.30
+"AMOV","America Movil, S.",24.11,+0.015,23.965,23.95,24.18
+"AMPH","Amphastar Pharmac",10.59,+0.2228,10.4272,10.40,10.71
+"AMRB","American River Ba",9.42,+0.2106,9.4295,9.46,9.65
+"AMRI","Albany Molecular ",15.74,-4.5431,20.2931,15.64,16.49
+"AMRK","A-Mark Precious M",9.87,-0.6898,10.5498,9.80,10.00
+"AMRN","Amarin Corporatio",1.32,+0.3214,0.9986,1.22,1.38
+"AMRS","Amyris, Inc.",2.98,-0.13,3.12,2.94,3.05
+"AMSC","American Supercon",1.04,-0.164,1.2056,1.03,1.06
+"AMSF","AMERISAFE, Inc.",41.31,+0.6492,40.9008,40.95,41.59
+"AMSG","Amsurg Corp.",50.49,-0.0322,50.5322,50.14,50.98
+"AMSGP","Amsurg Corp.",107.05,-0.034,106.914,N/A,N/A
+"AMSWA","American Software",9.10,-0.0872,9.2272,9.02,9.30
+"AMTX","Aemetis, Inc",5.99,-1.4979,7.4979,5.89,6.01
+"AMWD","American Woodmark",40.22,+1.19,39.21,40.07,41.00
+"AMZN","Amazon.com, Inc.",332.23,+22.364,309.876,331.47,338.33
+"ANAC","Anacor Pharmaceut",32.12,+4.5183,27.6417,31.40,32.50
+"ANAD","ANADIGICS, Inc.",0.7318,+0.0478,0.6881,0.73,0.7888
+"ANAT","American National",114.57,+1.257,113.558,114.05,115.10
+"ANCB","Anchor Bancorp",20.06,-0.5583,20.6183,20.01,20.59
+"ANCI","American Caresour",2.77,-0.0363,2.8858,2.75,2.87
+"ANCX","Access National C",17.41,+0.6519,16.7681,17.1701,17.56
+"ANDE","The Andersons, In",56.49,-1.9433,58.4533,56.36,58.29
+"ANGI","Angie's List, Inc",5.81,-1.2247,7.0447,5.81,5.95
+"ANGO","AngioDynamics, In",17.29,+1.2517,16.0383,17.12,18.19
+"ANIK","Anika Therapeutic",40.75,+1.9469,38.8331,40.05,40.82
+"ANIP","ANI Pharmaceutica",55.11,+18.5347,36.6353,54.22,56.64
+"ANSS","ANSYS, Inc.",81.75,+4.9607,76.8006,80.25,81.92
+"ANTH","Anthera Pharmaceu",1.82,+0.0067,1.8133,1.80,1.88
+"ANY","Sphere 3D Corp",8.20,+1.4953,6.7547,7.79,8.37
+"AOSL","Alpha and Omega S",8.61,-0.3272,8.9672,8.58,8.76
+"APAGF","Apco Oil and Gas ",14.21,+0.2164,14.0336,14.20,14.25
+"APDN","Applied DNA Scien",2.60,-2.6839,5.2869,2.58,2.6801
+"APDNW","Applied DNA Scien",0.80,+0.0225,0.8275,0.797,0.85
+"APEI","American Public E",35.15,+4.3072,30.8428,34.9201,35.66
+"APOG","Apogee Enterprise",46.06,+4.2656,41.8144,45.82,47.02
+"APOL","Apollo Education ",30.83,+3.6042,27.2358,30.24,31.27
+"APPY","Venaxis, Inc.",1.43,+0.0823,1.3553,1.37,1.45
+"APRI","Apricus Bioscienc",1.38,-0.0733,1.4583,1.32,1.40
+"APSA","Alto Palermo S.A.",19.50,+1.4908,20.4992,21.99,21.99
+"APTO","Aptose Bioscience",6.58,-0.5673,7.0067,5.87,6.67
+"APWC","Asia Pacific Wire",2.52,-0.005,2.525,2.52,2.52
+"AQXP","Aquinox Pharmaceu",8.02,+1.1028,6.9173,8.0201,8.29
+"ARAY","Accuray Incorpora",7.21,+0.1772,7.0328,7.16,7.38
+"ARCB","ArcBest Corporati",43.04,+5.2005,37.8895,42.48,43.4986
+"ARCC","Ares Capital Corp",16.26,+0.2397,16.0253,16.23,16.45
+"ARCI","Appliance Recycli",2.73,+0.0095,2.8278,2.76,2.85
+"ARCP","American Realty C",8.99,-1.4651,10.465,8.96,9.105
+"ARCPP","American Realty C",21.85,-0.6986,22.5885,21.80,21.95
+"ARCW","ARC Group Worldwi",12.05,-0.0911,12.1311,11.85,12.24
+"ARDM","Aradigm Corporati",7.21,-0.6786,7.9336,7.13,7.53
+"ARDX","Ardelyx, Inc.",22.77,+1.5703,21.3997,22.04,23.604
+"AREX","Approach Resource",12.79,+1.7286,11.0814,12.026,13.25
+"ARGS","Argos Therapeutic",8.57,-0.5241,9.0942,8.54,9.40
+"ARIA","ARIAD Pharmaceuti",6.55,+0.7492,5.8008,6.51,6.84
+"ARII","American Railcar ",66.13,+0.162,65.938,65.75,67.79
+"ARIS","ARI Network Servi",3.82,+0.5886,3.3014,3.61,3.89
+"ARKR","Ark Restaurants C",21.82,+0.0342,21.8558,21.50,21.89
+"ARLP","Alliance Resource",47.74,+2.7144,45.0556,46.67,48.38
+"ARMH","ARM Holdings plc",42.51,+1.1967,41.3233,42.34,42.72
+"ARNA","Arena Pharmaceuti",4.18,+0.0231,4.1569,4.17,4.26
+"AROW","Arrow Financial C",26.11,-0.1736,26.3836,25.85,26.34
+"ARQL","ArQule, Inc.",1.27,+0.1167,1.1533,1.26,1.30
+"ARRS","ARRIS Group, Inc.",28.78,+1.1158,27.6742,28.785,29.21
+"ARRY","Array BioPharma I",3.77,+0.2245,3.5505,3.73,3.87
+"ARTNA","Artesian Resource",21.43,-0.1714,21.6114,21.40,22.35
+"ARTW","Art's-Way Manufac",5.46,+0.1044,5.3656,5.4476,5.47
+"ARTX","Arotech Corporati",2.26,-0.5528,2.8128,2.22,2.40
+"ARUN","Aruba Networks, I",18.80,-1.9203,20.7253,18.64,20.20
+"ARWR","Arrowhead Researc",5.88,-1.3496,7.2296,5.72,5.98
+"ASBB","ASB Bancorp, Inc.",20.18,+0.5561,19.7439,20.24,20.47
+"ASBC","Associated Banc-C",18.90,+0.8497,18.0553,18.84,19.37
+"ASBCW","Associated Banc-C",2.62,+0.4758,2.3242,2.80,2.80
+"ASBI","Ameriana Bancorp",16.50,+0.3542,16.2458,16.50,16.9899
+"ASCMA","Ascent Capital Gr",54.25,-6.0522,60.4122,54.03,55.00
+"ASDR","VelocityShares Em",N/A,-1.9678,70.8678,N/A,N/A
+"ASEI","American Science ",47.45,-2.7569,50.2169,47.14,49.16
+"ASFI","Asta Funding, Inc",8.38,+0.0536,8.3364,8.28,8.42
+"ASMB","Assembly Bioscien",8.42,-0.0872,8.5822,8.41,8.56
+"ASMI","ASM International",41.45,+4.0656,37.3644,41.37,41.73
+"ASML","ASML Holding N.V.",105.48,+8.0308,97.4692,104.85,106.20
+"ASNA","Ascena Retail Gro",13.21,+0.8394,12.3706,12.865,13.325
+"ASPS","Altisource Portfo",56.02,-21.6806,77.7106,55.98,57.49
+"ASPX","Auspex Pharmaceut",24.62,-1.1713,25.8913,24.15,25.02
+"ASRV","AmeriServ Financi",3.05,-0.1137,3.1697,3.056,3.09
+"ASRVP","AmeriServ Financi",26.43,-0.3158,26.8953,26.32,27.05
+"ASTC","Astrotech Corpora",2.74,+0.2167,2.5433,2.69,2.85
+"ASTE","Astec Industries,",40.32,+3.2431,37.1869,39.67,40.68
+"ASTI","Ascent Solar Tech",1.76,-0.0058,1.7658,1.7401,1.80
+"ASTM","Aastrom Bioscienc",2.81,-0.0046,2.8147,2.80,2.90
+"ASUR","Asure Software In",5.06,+0.1342,5.0158,5.15,5.23
+"ASYS","Amtech Systems, I",9.77,-0.2208,9.9908,9.663,10.25
+"ATAI","ATA Inc.",3.80,-0.2892,4.1592,3.71,3.91
+"ATAX","America First Mul",5.63,-0.1014,5.7414,5.55,5.70
+"ATEA","Astea Internation",1.34,-0.3166,1.7167,1.40,1.4441
+"ATEC","Alphatec Holdings",1.38,-0.0944,1.4844,1.38,1.42
+"ATHN","athenahealth, Inc",116.98,-5.052,122.212,114.7401,119.858
+"ATHX","Athersys, Inc.",1.44,+0.0492,1.3908,1.42,1.47
+"ATLC","Atlanticus Holdin",2.57,+1.0744,1.5294,2.55,2.79
+"ATLO","Ames National Cor",24.04,+0.8431,23.7769,23.945,24.64
+"ATML","Atmel Corporation",7.79,+0.4881,7.3069,7.71,7.86
+"ATNI","Atlantic Tele-Net",68.40,+4.9225,63.5275,68.33,70.07
+"ATNY","API Technologies ",2.10,-0.0736,2.1536,2.08,2.1501
+"ATOS","Atossa Genetics I",0.90,-0.1414,1.0414,0.8328,0.94
+"ATRA","Atara Biotherapeu",26.47,+5.595,20.875,25.55,27.00
+"ATRC","AtriCure, Inc.",17.67,+1.6308,16.0792,17.05,17.76
+"ATRI","ATRION Corporatio",325.00,+9.975,318.905,328.88,328.88
+"ATRM","Aetrium Incorpora",3.81,+0.0861,3.8039,3.80,3.89
+"ATRO","Astronics Corpora",48.87,+1.0903,47.8197,48.32,49.90
+"ATRS","Antares Pharma, I",2.25,+0.1592,2.0908,2.23,2.34
+"ATSG","Air Transport Ser",8.02,+0.1833,7.8367,7.94,8.23
+"ATTU","Attunity Ltd.",9.38,+1.3483,8.0017,9.05,9.46
+"ATVI","Activision Blizza",21.16,+1.3833,19.7767,21.05,21.49
+"AUBN","Auburn National B",23.45,-0.1756,23.8256,23.65,23.65
+"AUDC","AudioCodes Ltd.",4.74,+0.135,4.615,4.62,4.79
+"AUMA","AR Capital Acquis",9.30,0.00,9.65,N/A,N/A
+"AUMAU","AR Capital Acquis",9.72,-0.0272,9.8272,N/A,N/A
+"AUMAW","AR Capital Acquis",0.20,N/A,0.00,0.2499,0.25
+"AUPH","Aurinia Pharmaceu",3.25,+0.0527,3.3685,3.20,4.35
+"AUXL","Auxilium Pharmace",33.48,+1.8636,31.6364,33.18,33.60
+"AVAV","AeroVironment, In",29.57,+0.3533,29.2567,29.56,30.20
+"AVEO","AVEO Pharmaceutic",0.9009,-0.0949,0.9958,0.9005,0.94
+"AVGO","Avago Technologie",90.08,+7.2639,82.8261,89.45,91.73
+"AVHI","A V Homes, Inc.",14.87,+0.0939,14.8061,14.82,15.489
+"AVNR","Avanir Pharmaceut",13.90,+1.5428,12.3672,13.76,14.14
+"AVNW","Aviat Networks, I",1.44,-0.2111,1.6511,1.41,1.505
+"AWAY","HomeAway, Inc.",30.71,-1.7717,32.4817,30.25,31.653
+"AWRE","Aware, Inc.",4.37,+0.3181,4.0719,4.28,4.49
+"AXAS","Abraxas Petroleum",4.33,+0.2681,4.0669,4.25,4.45
+"AXDX","Accelerate Diagno",20.05,-3.3875,23.4375,19.66,20.632
+"AXGN","AxoGen, Inc.",2.69,+0.0089,2.6911,2.67,2.842
+"AXJS","iShares MSCI All ",58.12,-1.5214,58.5614,N/A,N/A
+"AXPW","Axion Power Inter",1.45,-0.9117,2.3517,1.42,1.441
+"AXPWW","Axion Power Inter",0.59,-0.0333,0.6333,0.5599,0.65
+"AXTI","AXT Inc",2.55,+0.2459,2.3142,2.51,2.59
+"AZPN","Aspen Technology,",38.24,+1.4289,36.8211,37.78,38.53
+"BABY","Natus Medical Inc",33.51,+0.8903,32.6297,33.33,34.58
+"BAGR","Diversified Resta",5.00,+0.0344,5.0056,4.9901,5.08
+"BAMM","Books-A-Million, ",1.85,+0.4097,1.5403,1.7664,1.98
+"BANF","BancFirst Corpora",65.77,+0.5964,65.2736,65.85,67.28
+"BANFP","BancFirst Corpora",27.75,+0.0914,27.6986,27.75,28.03
+"BANR","Banner Corporatio",40.95,-0.0297,40.9397,40.72,41.81
+"BANX","StoneCastle Finan",23.00,-0.7239,23.7639,22.50,23.04
+"BASI","Bioanalytical Sys",2.25,-0.0606,2.3106,2.25,2.286
+"BAXS","Baxano Surgical, ",0.0215,-0.1194,0.1414,0.0215,0.0258
+"BBBY","Bed Bath & Beyond",72.24,+5.06,67.18,72.16,73.60
+"BBCN","BBCN Bancorp, Inc",14.05,-0.2194,14.2694,13.99,14.6304
+"BBEP","BreitBurn Energy ",15.50,-1.0475,16.5475,15.3328,16.05
+"BBEPP","BreitBurn Energy ",24.52,+0.1586,24.4413,24.40,24.85
+"BBGI","Beasley Broadcast",5.29,+0.2436,5.1564,4.8801,6.00
+"BBLU","Blue Earth, Inc.",1.12,-0.8144,1.9344,1.08,1.1711
+"BBNK","Bridge Capital Ho",23.08,-0.0939,23.2239,22.99,23.284
+"BBOX","Black Box Corpora",22.68,+0.0089,22.6711,22.40,23.29
+"BBRG","Bravo Brio Restau",13.14,-0.0917,13.2317,12.95,13.32
+"BBRY","BlackBerry Limite",10.25,+0.1356,10.1244,10.07,10.48
+"BBSI","Barrett Business ",22.58,-10.4347,33.0747,22.53,23.52
+"BCBP","BCB Bancorp, Inc.",12.26,-0.2747,12.5047,12.21,12.35
+"BCLI","Brainstorm Cell T",3.16,-0.478,3.65,3.0602,3.1862
+"BCOM","B Communications ",18.31,-1.4597,19.8767,18.417,18.95
+"BCOR","Blucora, Inc.",14.23,-1.0806,15.3206,14.05,14.36
+"BCOV","Brightcove Inc.",6.38,+0.4244,5.9606,6.32,6.55
+"BCPC","Balchem Corporati",63.77,+3.3583,60.4317,63.56,65.58
+"BCRX","BioCryst Pharmace",10.31,-0.9231,11.2331,10.11,10.53
+"BDBD","Boulder Brands, I",10.50,+0.1361,10.3689,9.67,10.61
+"BDCV","BDCA Venture, Inc",5.22,+0.3094,4.9106,5.01,5.2948
+"BDE","Black Diamond, In",8.69,+0.6581,8.0419,8.55,8.7999
+"BDGE","Bridge Bancorp, I",25.76,+0.7847,25.1353,25.90,26.35
+"BDMS","Birner Dental Man",14.89,-0.2672,15.7672,15.0005,15.80
+"BDSI","BioDelivery Scien",14.33,-1.84,16.18,14.24,15.00
+"BEAT","BioTelemetry, Inc",8.14,+0.5775,7.5625,8.10,8.38
+"BEAV","B/E Aerospace, In",77.48,+1.6297,75.8503,76.60,78.49
+"BEBE","bebe stores, inc.",2.59,+0.295,2.295,2.54,2.67
+"BECN","Beacon Roofing Su",28.74,+1.8956,26.8444,28.51,29.095
+"BELFA","Bel Fuse Inc.",23.13,-0.0272,23.3772,23.35,23.96
+"BELFB","Bel Fuse Inc.",26.13,+0.3522,25.8178,25.81,26.93
+"BFIN","BankFinancial Cor",11.66,+0.3697,11.2803,11.61,11.90
+"BGCP","BGC Partners, Inc",8.64,+0.6675,7.9825,8.6316,8.96
+"BGFV","Big 5 Sporting Go",13.52,+2.2469,11.2931,13.38,13.59
+"BGMD","BG Medicine, Inc.",0.4202,-0.0168,0.4444,0.41,0.445
+"BHBK","Blue Hills Bancor",13.18,-0.1119,13.3019,13.10,13.40
+"BIB","ProShares Ultra N",119.21,+9.222,110.028,119.14,122.5999
+"BICK","First Trust BICK ",25.32,+0.4386,24.6814,24.97,25.12
+"BIDU","Baidu, Inc.",245.01,+18.135,226.925,241.71,245.95
+"BIIB","Biogen Idec Inc.",303.12,-12.408,315.558,301.32,305.28
+"BIND","BIND Therapeutics",7.63,-0.9622,8.6022,7.50,7.90
+"BIOC","Biocept, Inc.",3.26,+0.227,3.0617,3.251,3.39
+"BIOD","Biodel Inc.",1.58,+0.0848,1.4953,1.58,1.62
+"BIOL","Biolase, Inc.",2.55,+0.1831,2.3669,2.48,2.65
+"BIOS","BioScrip, Inc.",6.13,+0.0158,6.1142,6.035,6.18
+"BIRT","Actuate Corporati",3.65,-0.3386,3.9986,3.60,3.70
+"BIS","ProShares UltraSh",50.32,-5.8678,56.0778,49.0001,50.41
+"BJRI","BJ's Restaurants,",47.00,+6.4131,40.6069,46.70,47.8899
+"BKCC","BlackRock Kelso C",8.94,+0.2487,8.6925,8.90,8.98
+"BKEP","Blueknight Energy",7.19,-0.3253,7.6053,7.04,7.34
+"BKEPP","Blueknight Energy",8.90,-0.0164,9.0664,8.68,9.05
+"BKMU","Bank Mutual Corpo",6.35,-0.0717,6.4417,6.32,6.46
+"BKSC","Bank of South Car",14.70,-0.0733,14.8233,14.58,14.94
+"BKYF","The Bank of Kentu",46.36,+0.2703,46.1597,46.32,47.15
+"BLDP","Ballard Power Sys",2.42,-0.3389,2.7589,2.39,2.5001
+"BLDR","Builders FirstSou",6.16,+0.5661,5.6039,6.08,6.31
+"BLFS","BioLife Solutions",2.21,+0.0783,2.1717,2.192,2.25
+"BLIN","Bridgeline Digita",0.64,+0.0089,0.6511,0.6572,0.67
+"BLKB","Blackbaud, Inc.",41.89,+0.5642,41.3658,41.35,42.21
+"BLMN","Bloomin' Brands, ",22.18,+2.6008,19.5792,21.775,22.23
+"BLMT","BSB Bancorp, Inc.",18.93,+0.2392,18.6908,18.87,19.17
+"BLRX","BioLineRx Ltd.",1.28,-0.0944,1.3844,1.27,1.34
+"BLUE","bluebird bio, Inc",41.11,+2.8667,38.3033,40.77,43.15
+"BLVD","Boulevard Acquisi",9.55,0.00,9.64,N/A,N/A
+"BLVDU","Boulevard Acquisi",10.04,+0.1611,10.0779,N/A,N/A
+"BLVDW","Boulevard Acquisi",0.60,N/A,0.00,N/A,N/A
+"BMRC","Bank of Marin Ban",51.40,+3.3286,48.3414,51.39,52.48
+"BMRN","BioMarin Pharmace",85.69,+7.5386,78.1714,84.26,86.34
+"BMTC","Bryn Mawr Bank Co",29.17,-0.5244,29.7444,29.21,30.04
+"BNCL","Beneficial Mutual",13.30,+0.0297,13.2703,13.23,13.45
+"BNCN","BNC Bancorp",17.45,+0.7344,16.7556,17.37,17.67
+"BNDX","Vanguard Total In",52.55,+0.2431,52.3169,52.50,52.5799
+"BNFT","Benefitfocus, Inc",24.86,-0.5181,25.3861,22.95,25.07
+"BNSO","Bonso Electronics",1.54,+0.1176,1.5314,1.54,1.649
+"BOBE","Bob Evans Farms, ",53.11,+3.6675,49.4425,52.75,53.96
+"BOCH","Bank of Commerce ",5.98,-0.0075,5.9875,5.98,6.05
+"BOFI","BofI Holding, Inc",75.21,+2.3497,72.8303,73.95,75.87
+"BOKF","BOK Financial Cor",66.57,-0.0958,66.7158,66.28,67.59
+"BOLT","Bolt Technology C",N/A,+0.0642,21.9258,N/A,N/A
+"BONA","Bona Film Group L",6.99,+0.5133,6.4867,6.94,7.04
+"BONT","The Bon-Ton Store",8.51,-0.2764,8.7864,8.41,8.858
+"BOOM","Dynamic Materials",16.90,-0.4475,17.3775,16.688,17.20
+"BOSC","B.O.S. Better Onl",3.81,+0.0378,3.8622,3.4101,3.94
+"BOTA","Biota Pharmaceuti",2.21,-0.1394,2.3794,2.20,2.27
+"BOTJ","Bank of the James",9.60,+0.4261,9.4939,9.60,10.00
+"BPFH","Boston Private Fi",12.94,+0.34,12.61,12.86,13.29
+"BPFHP","Boston Private Fi",24.85,-0.0486,24.9486,24.90,25.00
+"BPFHW","Boston Private Fi",5.81,+0.4003,5.6997,N/A,N/A
+"BPHX","BluePhoenix Solut",3.37,-0.1167,3.5567,3.40,3.44
+"BPOP","Popular, Inc.",32.20,+1.9042,30.2958,32.07,32.492
+"BPOPM","Popular, Inc.",20.90,+0.1242,20.8758,21.00,21.00
+"BPOPN","Popular, Inc.",22.90,+0.4843,22.8256,22.95,23.3099
+"BPTH","Bio-Path Holdings",2.60,+0.0586,2.5814,2.60,2.71
+"BRCD","Brocade Communica",11.53,+1.1067,10.4233,11.4716,11.745
+"BRCM","Broadcom Corporat",42.04,+2.4642,39.5758,41.78,42.53
+"BRDR","Borderfree, Inc.",8.51,-1.3334,9.8533,8.32,9.49
+"BREW","Craft Brew Allian",13.64,-1.6108,15.2808,13.54,13.77
+"BRID","Bridgford Foods C",7.75,-0.4253,8.1753,N/A,N/A
+"BRKL","Brookline Bancorp",9.47,+0.1942,9.2858,9.44,9.698
+"BRKR","Bruker Corporatio",18.90,-0.3708,19.2758,18.43,18.93
+"BRKS","Brooks Automation",11.47,+0.2169,11.2681,11.41,11.80
+"BRLI","Bio-Reference Lab",28.43,-0.2547,28.7247,28.37,28.93
+"BSDM","BSD Medical Corpo",0.405,-0.0661,0.4711,0.40,0.44
+"BSET","Bassett Furniture",18.95,+1.7797,17.2103,18.48,19.08
+"BSF","Bear State Financ",10.06,+1.0823,9.0678,9.86,10.3225
+"BSFT","BroadSoft, Inc.",27.27,+4.425,22.875,26.84,27.37
+"BSPM","Biostar Pharmaceu",1.31,-0.1849,1.4981,1.3132,1.37
+"BSQR","BSQUARE Corporati",4.18,+0.3589,3.8411,4.10,4.23
+"BSRR","Sierra Bancorp",16.56,-0.2483,16.8883,16.56,16.74
+"BSTC","BioSpecifics Tech",39.00,+0.9225,38.1075,38.76,39.26
+"BTUI","BTU International",3.10,-0.0656,3.1656,3.09,3.196
+"BUR","Burcon NutraScien",2.61,+0.2828,2.4272,2.70,2.82
+"BUSE","First Busey Corpo",6.57,+0.50,6.08,6.48,6.65
+"BV","Bazaarvoice, Inc.",7.45,+0.1439,7.3161,7.393,7.58
+"BVA","Cordia Bancorp In",3.75,+0.1169,3.6336,3.7505,3.77
+"BVSN","BroadVision, Inc.",6.48,-1.1733,7.7833,6.37,6.76
+"BWEN","Broadwind Energy,",7.35,+0.2493,7.1108,7.2101,7.50
+"BWFG","Bankwell Financia",18.75,-0.0733,19.0733,18.75,19.00
+"BWINA","Baldwin & Lyons, ",23.25,-0.7197,24.0097,23.29,23.60
+"BWINB","Baldwin & Lyons, ",25.28,-0.4839,25.8539,25.25,25.70
+"BWLD","Buffalo Wild Wing",163.76,+20.497,143.328,162.58,164.76
+"BYBK","Bay Bancorp, Inc.",4.50,-0.0775,4.5775,N/A,N/A
+"BYFC","Broadway Financia",1.48,-0.0239,1.5239,1.48,1.50
+"BYLK","Baylake Corp",12.30,+0.3786,11.9214,12.25,12.35
+"CA","CA Inc.",30.61,+2.4133,28.1967,30.28,30.85
+"CAAS","China Automotive ",8.04,-0.9267,8.9967,7.941,8.34
+"CAC","Camden National C",37.31,-0.7147,38.2147,37.41,37.67
+"CACB","Cascade Bancorp",4.88,-0.1258,5.0258,4.87,4.95
+"CACC","Credit Acceptance",147.84,+8.01,140.10,147.29,153.56
+"CACG","Chart Acquisition",9.55,-0.1208,9.8308,N/A,N/A
+"CACGU","Chart Acquisition",0.01,-0.2356,10.2956,N/A,N/A
+"CACGW","Chart Acquisition",0.55,N/A,0.00,N/A,N/A
+"CACH","Cache, Inc.",0.25,-0.359,0.6164,0.25,0.31
+"CACQ","Caesars Acquisiti",10.40,+0.7794,9.6406,10.28,10.69
+"CADC","China Advanced Co",5.85,+1.7142,4.1358,5.66,6.30
+"CADT","DT Asia Investmen",9.62,+0.0033,9.7467,9.74,9.75
+"CADTR","DT Asia Investmen",0.23,N/A,0.00,N/A,N/A
+"CADTU","DT Asia Investmen",10.03,-0.0209,10.0509,10.03,10.03
+"CADTW","DT Asia Investmen",0.12,+0.0067,0.1233,0.13,0.14
+"CAKE","The Cheesecake Fa",47.41,+1.1186,46.3014,46.92,47.65
+"CALA","Calithera Bioscie",9.84,+0.3294,9.5106,9.7601,10.70
+"CALD","Callidus Software",16.46,+2.5864,13.8836,16.28,16.76
+"CALI","China Auto Logist",1.18,-0.1272,1.3272,1.18,1.35
+"CALL","magicJack VocalTe",8.72,-0.3514,9.0714,8.53,8.76
+"CALM","Cal-Maine Foods, ",42.37,-0.7236,43.1136,42.001,43.0697
+"CAMB","Cambridge Capital",9.71,-0.0372,9.7272,N/A,N/A
+"CAMBU","Cambridge Capital",10.04,-0.0325,10.1225,10.07,10.09
+"CAMBW","Cambridge Capital",0.33,N/A,0.00,0.35,0.35
+"CAMP","CalAmp Corp.",17.72,-0.6578,18.3778,17.58,18.35
+"CAMT","Camtek Ltd.",2.89,-0.4728,3.3728,2.84,2.97
+"CAPN","Capnia, Inc.",3.82,-0.13,3.95,3.60,3.92
+"CAPNW","Capnia, Inc.",0.61,-0.004,0.624,0.61,0.65
+"CAR","Avis Budget Group",59.70,+5.3722,54.3578,58.65,60.122
+"CARA","Cara Therapeutics",8.96,+0.5719,8.4181,8.92,9.09
+"CARB","Carbonite, Inc.",11.37,+0.7189,10.6511,11.314,11.57
+"CARO","Carolina Financia",14.00,+0.9521,13.3779,14.33,15.00
+"CART","Carolina Trust Ba",5.00,+0.0781,5.0719,5.14,5.15
+"CARV","Carver Bancorp, I",7.35,-0.7181,7.9381,N/A,N/A
+"CARZ","First Trust NASDA",37.84,+1.4358,36.5042,37.82,38.082
+"CASH","Meta Financial Gr",35.90,-0.4889,36.4889,35.71,36.63
+"CASI","CASI Pharmaceutic",1.63,-0.0161,1.6661,1.53,1.67
+"CASM","CAS Medical Syste",1.84,+0.0996,1.7504,1.81,1.851
+"CASS","Cass Information ",45.71,+1.1844,45.1556,45.58,46.89
+"CASY","Caseys General St",87.40,+8.1592,79.3108,85.62,87.48
+"CATM","Cardtronics, Inc.",37.96,+1.6472,36.3128,37.66,38.569
+"CATY","Cathay General Ba",25.57,+0.165,25.415,25.34,25.94
+"CATYW","Cathay General Ba",6.89,N/A,0.00,N/A,N/A
+"CAVM","Cavium, Inc.",54.40,+5.8572,48.5728,53.99,55.50
+"CBAK","China BAK Battery",3.00,-0.1733,3.1833,3.00,3.05
+"CBAN","Colony Bankcorp, ",7.10,+0.2539,6.8461,7.03,7.10
+"CBAY","CymaBay Therapeut",7.01,-0.8508,7.9708,6.82,7.50
+"CBDE","CBD Energy Limite",N/A,-0.6408,1.5408,N/A,N/A
+"CBF","Capital Bank Fina",25.31,+0.5511,24.7789,25.23,25.87
+"CBFV","CB Financial Serv",19.50,+1.0741,18.9159,19.50,19.99
+"CBIN","Community Bank Sh",26.55,+0.3553,26.5947,N/A,N/A
+"CBLI","Cleveland BioLabs",0.3821,-0.0336,0.4236,0.3814,0.40
+"CBMG","Cellular Biomedic",15.15,-0.7517,16.2517,15.15,15.7899
+"CBMX","CombiMatrix Corpo",1.52,+0.1764,1.3736,1.4801,1.62
+"CBNJ","Cape Bancorp, Inc",9.15,-0.0073,9.158,9.15,9.21
+"CBNK","Chicopee Bancorp,",15.90,+0.8743,14.9367,15.80,15.811
+"CBOE","CBOE Holdings, In",59.27,+1.2689,58.0111,58.69,60.37
+"CBPO","China Biologic Pr",67.63,+8.9939,58.7661,67.385,69.20
+"CBRL","Cracker Barrel Ol",118.81,+6.719,112.103,118.3904,120.45
+"CBRX","Columbia Laborato",5.95,+0.0389,5.9111,5.89,6.00
+"CBSH","Commerce Bancshar",45.16,+0.8267,44.3433,45.08,46.24
+"CBSHP","Commerce Bancshar",25.00,+0.0417,24.9583,25.00,25.10
+"CBST","Cubist Pharmaceut",73.54,+4.5292,69.0108,73.072,74.18
+"CBSTZ","Cubist Pharmaceut",0.0356,-0.0363,0.0793,0.035,0.045
+"CCBG","Capital City Bank",14.70,+0.1283,14.5817,14.6101,15.06
+"CCCL","China Ceramics Co",0.8306,+0.0056,0.8444,0.83,0.8799
+"CCCR","China Commercial ",N/A,+0.0001,2.98,N/A,N/A
+"CCIH","ChinaCache Intern",10.56,-1.0692,11.6692,10.51,11.00
+"CCMP","Cabot Microelectr",46.92,+1.6494,45.2706,46.63,48.29
+"CCNE","CNB Financial Cor",17.81,+0.5818,17.3881,17.82,18.04
+"CCOI","Cogent Communicat",35.28,+2.5742,32.7158,34.74,35.69
+"CCRN","Cross Country Hea",9.89,+0.3836,9.5164,9.90,10.38
+"CCUR","Concurrent Comput",6.83,-0.2958,7.1558,6.65,6.93
+"CCXI","ChemoCentryx, Inc",4.70,-0.3881,5.1031,4.691,4.95
+"CDC","Compass EMP U S E",36.42,+1.3132,35.1267,36.3199,36.49
+"CDK","CDK Global, Inc.",38.50,+6.3457,32.1543,37.98,38.70
+"CDNA","CareDx, Inc.",7.05,+0.6647,6.4153,7.05,7.34
+"CDNS","Cadence Design Sy",18.38,+0.905,17.475,18.30,18.52
+"CDTI","Clean Diesel Tech",2.26,+0.1978,2.0622,2.24,2.38
+"CDW","CDW Corporation",33.45,+2.7367,30.7233,32.92,33.50
+"CDXS","Codexis, Inc.",2.39,+0.0239,2.3761,2.35,2.43
+"CDZI","Cadiz, Inc.",11.07,+1.1044,9.9656,10.839,11.33
+"CECE","CECO Environmenta",13.64,+0.0753,13.5747,13.50,13.96
+"CECO","Career Education ",5.77,+0.3736,5.4064,5.519,5.82
+"CELG","Celgene Corporati",108.25,+8.4133,99.8467,107.89,109.21
+"CELGZ","Celgene Corporati",3.17,-0.1701,3.44,3.16,3.33
+"CEMI","Chembio Diagnosti",4.30,+0.2306,4.1094,4.26,4.4197
+"CEMP","Cempra, Inc.",13.72,+0.8372,12.9128,13.56,13.87
+"CENT","Central Garden & ",7.62,+0.0692,7.5508,7.50,7.77
+"CENTA","Central Garden & ",8.37,+0.30,8.08,8.29,8.44
+"CENX","Century Aluminum ",27.85,+1.8144,26.0356,27.61,29.065
+"CERE","Ceres, Inc.",0.26,-0.0687,0.3322,0.25,0.29
+"CERN","Cerner Corporatio",63.57,+2.5253,61.0497,63.53,64.50
+"CERS","Cerus Corporation",4.29,+0.1883,4.1117,4.21,4.48
+"CERU","Cerulean Pharma I",5.01,+0.3173,4.8927,5.21,5.39
+"CETV","Central European ",2.63,+0.2764,2.3636,2.57,2.69
+"CEVA","CEVA, Inc.",16.28,+1.7428,14.6172,16.12,16.64
+"CFA","Compass EMP US 50",36.34,+1.5113,34.6387,N/A,N/A
+"CFBK","Central Federal C",1.31,+0.0313,1.3486,1.30,1.44
+"CFFI","C&F Financial Cor",37.90,+3.0867,34.9133,38.00,38.25
+"CFFN","Capitol Federal F",12.54,+0.0956,12.4544,12.49,12.78
+"CFGE","Calamos Focus Gro",10.50,+0.5363,10.058,10.58,10.5943
+"CFNB","California First ",14.58,-0.1364,14.8364,14.57,14.70
+"CFNL","Cardinal Financia",18.40,+0.3161,18.0939,18.33,18.97
+"CFO","Compass EMP US 50",36.35,+1.6743,34.6747,36.2999,36.69
+"CFRX","ContraFect Corpor",2.76,-0.4172,3.2172,2.65,2.80
+"CFRXW","ContraFect Corpor",0.58,+0.0463,0.5437,0.56,0.64
+"CFRXZ","ContraFect Corpor",0.21,0.00,0.19,N/A,N/A
+"CG","The Carlyle Group",29.65,+0.6942,28.9608,29.27,29.90
+"CGEN","Compugen Ltd.",7.17,-0.3133,7.5033,6.85,7.30
+"CGIX","Cancer Genetics, ",5.81,-1.1892,6.9992,5.68,5.89
+"CGNX","Cognex Corporatio",40.70,+1.7597,38.9503,40.37,41.17
+"CGO","Calamos Global To",13.94,+0.5983,13.3617,13.88,14.03
+"CHCI","Comstock Holding ",1.08,+0.1181,0.9703,1.04,1.15
+"CHCO","City Holding Comp",43.54,-0.24,43.85,43.50,45.15
+"CHDN","Churchill Downs, ",97.77,-1.4494,99.4094,97.58,99.21
+"CHEF","The Chefs' Wareho",17.01,+0.4864,16.5436,16.48,17.14
+"CHEV","Cheviot Financial",12.49,-0.1011,12.6311,12.50,12.57
+"CHFC","Chemical Financia",29.23,+0.8669,28.4331,29.06,30.00
+"CHFN","Charter Financial",11.17,+0.0522,11.1278,11.18,11.39
+"CHI","Calamos Convertib",13.61,+0.2158,13.4042,13.59,13.65
+"CHKE","Cherokee Inc.",17.53,+0.3439,17.1861,17.53,18.04
+"CHKP","Check Point Softw",76.77,+4.8614,71.9086,76.58,77.39
+"CHLN","China Housing & L",0.81,-0.3678,1.1928,0.749,0.83
+"CHMG","Chemung Financial",28.26,+0.1864,28.2436,28.43,28.46
+"CHNR","China Natural Res",3.25,-0.0489,3.3689,3.3199,3.32
+"CHOP","China Gerui Advan",2.18,-0.4044,2.5844,2.16,2.35
+"CHRS","Coherus BioScienc",13.01,N/A,0.00,12.75,13.38
+"CHRW","C.H. Robinson Wor",72.81,+3.3022,69.5128,72.66,73.33
+"CHSCM","CHS Inc",25.44,+0.0496,25.4204,25.39,25.59
+"CHSCN","CHS Inc",27.24,+0.4953,26.8447,27.34,27.63
+"CHSCO","CHS Inc",28.50,+0.1972,28.2728,28.45,28.67
+"CHSCP","CHS Inc",30.92,+0.7794,30.3006,30.901,31.13
+"CHTR","Charter Communica",160.20,+7.754,152.496,158.18,161.70
+"CHUY","Chuy's Holdings, ",21.75,-5.8436,27.6236,21.67,22.21
+"CHW","Calamos Global Dy",8.96,+0.115,8.845,8.94,9.02
+"CHXF","WisdomTree China ",52.73,+0.8117,51.9883,52.51,53.00
+"CHY","Calamos Convertib",14.48,+0.3322,14.1678,14.45,14.56
+"CHYR","ChyronHego Corpor",2.81,+0.1548,2.6602,2.80,2.83
+"CIDM","Cinedigm Corp",1.70,+0.1461,1.5639,1.69,1.77
+"CIFC","CIFC Corp.",8.94,-0.0344,9.0644,8.81,9.07
+"CIMT","Cimatron, Limited",6.07,+0.4009,5.6781,5.95,6.15
+"CINF","Cincinnati Financ",51.12,+2.0961,49.0339,50.87,51.33
+"CISAW","CIS Acquisition L",0.34,N/A,0.00,N/A,N/A
+"CISG","CNinsure Inc.",5.60,+0.2858,5.3542,5.099,5.64
+"CIZ","Compass EMP Devel",35.08,+0.8116,34.3783,35.1889,35.19
+"CIZN","Citizens Holding ",19.05,+0.1758,18.8742,19.05,19.4034
+"CJJD","China Jo-Jo Drugs",2.07,+0.3275,1.7425,2.0332,2.25
+"CKEC","Carmike Cinemas, ",28.44,-1.1292,29.5692,28.31,28.99
+"CKSW","ClickSoftware Tec",7.44,+0.0464,7.4036,7.4101,7.59
+"CLAC","Capitol Acquisiti",9.79,+0.0767,9.7133,N/A,N/A
+"CLACU","Capitol Acquisiti",10.15,+0.0517,10.0983,N/A,N/A
+"CLACW","Capitol Acquisiti",0.50,N/A,0.00,0.52,0.54
+"CLBH","Carolina Bank Hol",9.60,+0.0264,9.7133,9.60,9.74
+"CLCT","Collectors Univer",21.70,-1.3919,23.1219,21.48,22.75
+"CLDN","Celladon Corporat",11.72,+1.0232,10.7268,11.63,11.85
+"CLDX","Celldex Therapeut",20.79,+5.7056,15.0944,20.11,21.28
+"CLFD","Clearfield, Inc.",13.10,-0.0758,13.2058,13.01,13.638
+"CLIR","ClearSign Combust",6.78,+0.6742,6.1258,6.45,6.9703
+"CLMS","Calamos Asset Man",13.70,+0.885,12.835,13.46,13.98
+"CLMT","Calumet Specialty",27.80,+0.46,27.34,27.80,28.84
+"CLNE","Clean Energy Fuel",6.57,-0.0136,6.5936,6.45,6.66
+"CLNT","Cleantech Solutio",4.06,+0.5106,3.6394,4.0001,4.36
+"CLRB","Cellectar Bioscie",2.36,+0.1191,2.3119,2.295,2.44
+"CLRBW","Cellectar Bioscie",0.68,-0.0433,0.7333,N/A,N/A
+"CLRO","ClearOne, Inc.",9.57,+0.8558,8.8942,9.4801,9.75
+"CLRX","CollabRx, Inc.",0.71,-0.0553,0.7653,0.65,0.8894
+"CLSN","Celsion Corporati",2.58,+0.0061,2.5939,2.45,2.62
+"CLTX","Celsus Therapeuti",5.15,-0.5506,5.7006,4.86,5.46
+"CLUB","Town Sports Inter",6.35,+0.3197,6.0403,6.30,6.49
+"CLVS","Clovis Oncology, ",48.48,-4.2772,52.7572,47.67,51.56
+"CLWT","Euro Tech Holding",3.50,-0.0739,3.4339,3.36,3.36
+"CMCO","Columbus McKinnon",27.75,+2.5314,25.2486,27.77,28.79
+"CMCSA","Comcast Corporati",54.05,+0.5886,53.4714,53.86,55.19
+"CMCSK","Comcast Corporati",53.83,+0.5294,53.3006,53.64,54.74
+"CMCT","CIM Commercial Tr",18.13,-0.2464,18.4764,17.76,18.50
+"CME","CME Group Inc.",83.19,+0.818,82.372,82.83,84.58
+"CMFN","CM Finance Inc",12.09,-0.4688,12.5888,11.95,12.58
+"CMGE","China Mobile Game",25.20,+2.9603,22.2447,24.90,25.46
+"CMLS","Cumulus Media Inc",3.78,+0.2558,3.5342,3.70,3.84
+"CMPR","Cimpress N.V",64.10,+4.0031,60.0969,63.34,65.67
+"CMRX","Chimerix, Inc.",34.81,+3.0191,31.8089,33.5024,34.88
+"CMSB","CMS Bancorp, Inc.",12.85,-0.0635,12.9036,12.84,12.8401
+"CMTL","Comtech Telecommu",38.33,+1.1747,37.2403,38.15,39.37
+"CNAT","Conatus Pharmaceu",6.93,-0.062,6.992,6.9001,7.04
+"CNBKA","Century Bancorp, ",38.72,+1.8047,37.2653,38.72,39.59
+"CNCE","Concert Pharmaceu",12.87,-0.5564,13.4664,12.74,13.14
+"CNDO","Coronado Bioscien",1.87,+0.1114,1.7686,1.84,1.90
+"CNET","ChinaNet Online H",1.83,-0.2432,2.0733,1.83,2.03
+"CNIT","China Information",4.21,+0.4112,3.8108,3.9499,4.2901
+"CNMD","CONMED Corporatio",41.90,+1.2347,40.6653,41.52,42.31
+"CNOB","ConnectOne Bancor",18.21,-0.2756,18.5056,18.01,18.71
+"CNQR","Concur Technologi",128.52,+0.552,127.973,128.48,128.69
+"CNSI","Comverse Inc.",20.62,-0.2744,20.9344,20.27,20.83
+"CNSL","Consolidated Comm",26.46,+0.1347,26.3453,26.22,26.70
+"CNTF","China TechFaith W",1.37,+0.0894,1.2906,1.36,1.4135
+"CNTY","Century Casinos, ",4.93,-0.2747,5.2247,4.92,5.00
+"CNVR","Conversant, Inc.",35.11,+0.4619,34.6531,35.02,35.33
+"CNYD","China Yida Holdin",2.58,-0.0647,2.8147,2.75,2.7699
+"COB","CommunityOne Banc",11.25,+1.3617,9.9083,11.102,11.52
+"COBK","Colonial Financia",13.10,+0.2646,13.0944,N/A,N/A
+"COBZ","CoBiz Financial I",11.75,+0.0031,11.7469,11.60,11.80
+"COCO","Corinthian Colleg",0.0983,-0.0386,0.1378,0.0931,0.1099
+"COHR","Coherent, Inc.",56.17,-3.0228,59.2028,55.55,56.61
+"COHU","Cohu, Inc.",11.49,+0.3697,11.1231,11.37,11.70
+"COKE","Coca-Cola Bottlin",92.47,+7.315,85.105,92.42,93.98
+"COLB","Columbia Banking ",27.77,+1.3047,26.4853,27.70,28.15
+"COLM","Columbia Sportswe",43.31,+5.3686,37.9714,43.27,44.205
+"COMM","CommScope Holding",21.79,-0.2622,22.0522,21.74,22.11
+"COMT","iShares Commoditi",50.11,-0.29,50.194,49.904,50.21
+"CONE","CyrusOne Inc",27.58,+1.8514,25.7486,27.28,27.70
+"CONN","Conn's, Inc.",33.98,+3.0092,30.9808,33.86,35.18
+"COOL","Majesco Entertain",0.6636,-0.3026,0.98,0.60,0.71
+"CORE","Core-Mark Holding",57.31,+1.6742,55.6658,57.26,58.72
+"CORI","Corium Internatio",5.28,-0.1782,5.5482,5.25,5.51
+"CORT","Corcept Therapeut",3.02,+0.0067,3.0133,3.01,3.12
+"COSI","Cosi, Inc.",1.57,-0.2125,1.7825,1.56,1.64
+"COST","Costco Wholesale ",139.70,+7.656,132.054,139.23,140.83
+"COVS","Covisint Corporat",2.61,-0.4276,3.0376,2.55,2.74
+"COWN","Cowen Group, Inc.",4.09,+0.1792,3.9158,4.065,4.12
+"COWNL","Cowen Group, Inc.",25.76,N/A,0.00,25.76,25.85
+"CPAH","CounterPath Corpo",0.75,-0.4555,1.2554,0.75,0.8299
+"CPGI","China Shengda Pac",0.95,+0.0811,0.8819,0.963,1.05
+"CPHC","Canterbury Park H",9.50,-0.1817,9.6717,9.45,9.63
+"CPHD","CEPHEID",52.76,+3.7419,49.0381,52.48,53.36
+"CPIX","Cumberland Pharma",5.12,+0.2092,4.9208,5.10,5.21
+"CPLA","Capella Education",70.31,+3.8264,66.6736,70.04,71.90
+"CPLP","Capital Product P",7.99,-0.8478,8.8478,7.98,8.26
+"CPRT","Copart, Inc.",34.35,+1.6567,32.6933,34.24,34.64
+"CPRX","Catalyst Pharmace",2.63,-0.035,2.665,2.60,2.69
+"CPSI","Computer Programs",59.04,-2.3211,61.4911,58.19,59.70
+"CPSS","Consumer Portfoli",7.24,+0.31,6.94,7.21,7.30
+"CPST","Capstone Turbine ",0.88,-0.045,0.925,0.86,0.9016
+"CPTA","Capitala Finance ",18.71,+0.6216,18.2483,18.5607,19.25
+"CPWR","Compuware Corpora",10.27,+0.1856,10.0894,10.26,10.31
+"CPXX","Celator Pharmaceu",1.93,-0.301,2.2362,1.89,1.94
+"CRAI","CRA International",29.99,+1.3533,28.6767,30.00,31.47
+"CRAY","Cray Inc",32.57,+2.2278,30.3622,32.20,33.64
+"CRDC","Cardica, Inc.",0.59,-0.345,0.9433,0.5615,0.60
+"CRDS","Crossroads System",2.69,+0.0469,2.6683,2.63,2.80
+"CRDT","WisdomTree Global",74.29,-0.3492,75.328,74.9788,74.9788
+"CREE","Cree, Inc.",35.41,+2.7517,32.6683,35.025,35.9661
+"CREG","China Recycling E",1.21,+0.1179,1.0921,1.21,1.2331
+"CRESW","Cresud S.A.C.I.F.",0.015,N/A,0.00,0.015,0.0175
+"CRESY","Cresud S.A.C.I.F.",11.17,+0.5917,10.5683,11.05,11.39
+"CRIS","Curis, Inc.",1.32,+0.0022,1.3178,1.26,1.33
+"CRME","Cardiome Pharma C",8.12,-0.0383,8.1683,7.87,8.25
+"CRMT","America's Car-Mar",50.80,+6.7683,44.0417,50.06,51.74
+"CRNT","Ceragon Networks ",1.03,-0.6733,1.7033,1.03,1.06
+"CROX","Crocs, Inc.",12.88,+0.7014,12.1786,12.80,13.02
+"CRRC","Courier Corporati",13.24,-0.2283,13.4831,13.10,14.37
+"CRRS","Corporate Resourc",1.26,-0.0022,1.2622,1.2401,1.30
+"CRTN","Cartesian, Inc.",4.26,+0.3542,3.9558,4.2499,4.35
+"CRTO","Criteo S.A.",39.40,+6.2631,33.1469,39.1017,39.95
+"CRUS","Cirrus Logic, Inc",18.19,-1.6956,19.8956,18.00,18.43
+"CRVL","CorVel Corp.",33.61,+0.0069,33.6431,33.65,34.24
+"CRWN","Crown Media Holdi",3.39,+0.0956,3.3044,3.366,3.46
+"CRWS","Crown Crafts, Inc",7.18,-0.1667,7.3467,7.18,7.38
+"CRZO","Carrizo Oil & Gas",53.66,+4.9917,48.6783,52.84,54.65
+"CSBK","Clifton Bancorp I",12.65,-0.1436,12.7936,12.65,12.85
+"CSCD","Cascade Microtech",12.76,+1.695,11.085,12.71,13.11
+"CSCO","Cisco Systems, In",26.82,+2.2789,24.5511,26.67,27.05
+"CSF","Compass EMP U.S. ",37.23,+1.4625,35.8075,37.22,37.519
+"CSFL","CenterState Banks",11.25,+0.2992,10.9508,11.13,11.41
+"CSGP","CoStar Group, Inc",167.27,+14.832,152.478,165.44,168.36
+"CSGS","CSG Systems Inter",25.17,-0.6167,25.7967,25.11,25.75
+"CSII","Cardiovascular Sy",28.70,+0.8314,27.8686,28.54,31.16
+"CSIQ","Canadian Solar In",27.61,-1.9875,29.5975,27.48,28.53
+"CSOD","Cornerstone OnDem",30.98,-1.2511,32.2411,30.71,31.87
+"CSPI","CSP Inc.",7.88,+0.2777,7.6922,7.88,8.0869
+"CSQ","Calamos Strategic",11.88,+0.3743,11.5147,11.86,11.9762
+"CSRE","CSR plc",51.42,+0.2708,51.2592,51.43,51.78
+"CSTE","CaesarStone Sdot-",61.12,+6.7328,54.4472,60.34,63.92
+"CSUN","China Sunergy Co.",1.91,-0.2686,2.1886,1.89,1.95
+"CSWC","Capital Southwest",36.94,+1.1403,35.8497,36.55,37.52
+"CTAS","Cintas Corporatio",72.03,+1.4492,70.5908,71.74,72.9999
+"CTBI","Community Trust B",35.44,+0.3833,35.2067,35.21,36.32
+"CTCM","CTC Media, Inc.",6.27,+0.4308,5.8492,6.245,6.44
+"CTCT","Constant Contact,",33.32,+1.8783,31.4517,33.15,34.05
+"CTG","Computer Task Gro",9.24,-0.4572,9.7072,9.22,9.389
+"CTHR","Charles & Colvard",1.59,-0.8386,2.4486,1.58,1.68
+"CTIB","CTI Industries Co",3.81,-0.0536,3.8636,3.81,3.81
+"CTIC","CTI BioPharma Cor",2.20,-0.0978,2.3078,2.17,2.23
+"CTRE","CareTrust REIT, I",15.55,+0.7043,14.8756,15.50,15.70
+"CTRL","Control4 Corporat",15.52,+1.6194,13.9106,15.22,15.77
+"CTRN","Citi Trends, Inc.",23.63,+1.78,21.855,23.03,23.78
+"CTRP","Ctrip.com Interna",58.71,+2.5239,56.1861,58.56,60.50
+"CTRX","Catamaran Corpora",49.70,+5.1942,44.5158,49.25,50.33
+"CTSH","Cognizant Technol",52.86,+5.0628,47.8022,51.81,52.94
+"CTWS","Connecticut Water",35.25,+0.0138,35.1586,34.95,35.99
+"CTXS","Citrix Systems, I",65.35,-0.1119,65.4619,64.90,66.05
+"CU","First Trust ISE G",20.28,+0.4985,19.7825,20.06,20.51
+"CUBA","The Herzfeld Cari",7.47,+0.1992,7.2708,7.43,7.54
+"CUBI","Customers Bancorp",18.04,-0.3961,18.4261,17.90,18.35
+"CUBIL","Customers Bancorp",26.36,+0.0728,26.2772,26.26,26.38
+"CUI","CUI Global, Inc.",7.13,-0.0364,7.1964,7.06,7.27
+"CUNB","CU Bancorp (CA)",19.66,+0.3303,19.4097,19.50,19.77
+"CUTR","Cutera, Inc.",10.11,-0.1911,10.3311,10.07,10.17
+"CVBF","CVB Financial Cor",15.26,+0.3739,14.8861,15.16,15.63
+"CVCO","Cavco Industries,",75.13,+3.5283,71.6367,74.41,76.67
+"CVCY","Central Valley Co",10.71,-0.1508,10.8608,10.71,10.90
+"CVGI","Commercial Vehicl",6.84,+0.6467,6.2033,6.81,7.25
+"CVGW","Calavo Growers, I",43.84,-2.1789,46.0789,43.32,44.55
+"CVLT","CommVault Systems",47.98,+1.1194,46.8706,47.74,48.80
+"CVLY","Codorus Valley Ba",20.25,-0.2839,20.5339,20.25,20.25
+"CVTI","Covenant Transpor",24.72,+4.4719,20.2581,24.45,25.25
+"CVV","CVD Equipment Cor",14.51,+3.2269,11.4531,14.33,14.85
+"CWAY","Coastway Bancorp,",11.25,+0.3872,10.8628,11.01,11.26
+"CWBC","Community West Ba",6.50,+0.2236,6.2764,6.47,6.55
+"CWCO","Consolidated Wate",12.26,+0.3175,11.9425,12.08,12.40
+"CWST","Casella Waste Sys",4.19,+0.0561,4.1439,4.15,4.23
+"CXDC","China XD Plastics",5.47,+0.0436,5.4564,5.36,5.56
+"CY","Cypress Semicondu",10.45,+0.8447,9.6153,10.41,10.59
+"CYAN","Cyanotech Corpora",6.30,+1.1011,5.1989,6.30,6.59
+"CYBE","CyberOptics Corpo",9.32,+0.1133,9.2067,9.25,9.4499
+"CYBR","CyberArk Software",43.22,+9.661,33.5667,42.53,44.3199
+"CYBX","Cyberonics, Inc.",51.59,+0.6639,51.0061,51.02,55.08
+"CYCC","Cyclacel Pharmace",2.97,-0.1289,3.1189,2.91,3.02
+"CYCCP","Cyclacel Pharmace",7.00,+0.2497,7.2603,N/A,N/A
+"CYHHZ","Community Health ",0.029,N/A,0.00,0.029,0.029
+"CYNO","Cynosure, Inc.",27.38,+4.0953,23.3047,27.22,27.73
+"CYOU","Changyou.com Limi",22.46,+1.3003,21.16,22.32,23.37
+"CYRN","CYREN Ltd.",1.53,-0.2181,1.7781,1.50,1.561
+"CYTK","Cytokinetics, Inc",4.07,+0.3336,3.7364,4.07,4.20
+"CYTR","CytRx Corporation",2.55,-0.1636,2.7136,2.53,2.64
+"CYTX","Cytori Therapeuti",0.428,-0.0599,0.4897,0.425,0.47
+"CZFC","Citizens First Co",11.59,-0.3822,11.9822,11.34,12.3043
+"CZNC","Citizens & Northe",19.41,-0.2472,19.6572,19.38,19.68
+"CZR","Caesars Entertain",15.97,+3.8685,12.1114,15.30,16.10
+"CZWI","Citizens Communit",9.06,+0.2814,8.8686,9.15,9.15
+"DAEG","Daegis Inc",0.8201,+0.1251,0.675,0.6899,0.84
+"DAIO","Data I/O Corporat",3.43,+0.2586,3.2214,3.40,3.503
+"DAKT","Daktronics, Inc.",13.47,+0.7175,12.7825,13.33,13.71
+"DARA","DARA Biosciences,",0.7852,-0.0692,0.8592,0.7502,0.81
+"DATE","Jiayuan.com Inter",5.02,-0.4243,5.4611,5.01,5.25
+"DAVE","Famous Dave's of ",25.45,+0.1392,25.4608,25.15,25.74
+"DAX","Recon Capital DAX",26.47,+0.9267,25.5632,26.456,26.5403
+"DBVT","DBV Technologies ",25.37,+0.5445,25.0055,25.14,25.98
+"DCIX","Diana Containersh",1.99,-0.0189,2.0089,1.90,2.00
+"DCOM","Dime Community Ba",15.19,+0.1881,15.0019,15.14,15.63
+"DCTH","Delcath Systems, ",1.44,-0.2081,1.6581,1.4057,1.46
+"DENN","Denny's Corporati",8.88,+0.7269,8.1631,8.82,9.04
+"DEPO","Depomed, Inc.",15.44,+0.5661,14.8839,15.12,15.47
+"DERM","Dermira, Inc.",16.32,+1.0969,15.2431,16.01,16.59
+"DEST","Destination Mater",15.39,+0.4303,14.9997,15.11,15.90
+"DFRG","Del Frisco's Rest",22.76,+0.8586,21.9114,22.07,22.98
+"DGAS","Delta Natural Gas",20.89,+0.3667,20.5433,20.51,21.4819
+"DGICA","Donegal Group, In",15.37,-0.1592,15.6392,15.42,15.57
+"DGICB","Donegal Group, In",19.65,0.00,23.05,N/A,N/A
+"DGII","Digi Internationa",7.40,-0.3256,7.7356,7.3715,7.55
+"DGLD","Credit Suisse AG",76.03,-0.705,76.945,75.00,77.55
+"DGLY","Digital Ally, Inc",12.54,-0.4522,12.9522,11.88,12.82
+"DGRE","WisdomTree Emergi",26.00,+0.6754,25.4006,25.63,26.159
+"DGRS","WisdomTree U.S. S",28.70,+1.0259,27.7547,28.751,28.90
+"DGRW","WisdomTree U.S. D",30.95,+1.4956,29.4944,30.89,31.26
+"DHIL","Diamond Hill Inve",135.06,+11.144,126.796,136.00,139.90
+"DHRM","Dehaier Medical S",4.43,-0.2078,4.6978,4.30,4.6001
+"DIOD","Diodes Incorporat",26.26,+2.0889,24.2011,25.90,26.55
+"DISCA","Discovery Communi",33.77,-0.9669,34.7369,33.445,34.22
+"DISCB","Discovery Communi",36.19,-1.2072,37.3972,N/A,N/A
+"DISCK","Discovery Communi",33.22,-1.0744,34.2944,32.96,33.83
+"DISH","DISH Network Corp",73.71,+10.6419,63.0981,72.85,75.29
+"DJCO","Daily Journal Cor",218.00,+22.504,193.496,215.50,225.00
+"DLHC","DLH Holdings Corp",2.55,+0.0025,2.5475,2.55,2.65
+"DLIA","dELIA*s Inc.",0.1099,-0.0281,0.1381,0.1067,0.1357
+"DLNG","Dynagas LNG Partn",19.00,-1.7317,20.7817,19.00,19.85
+"DLTR","Dollar Tree, Inc.",66.52,+7.3956,59.1344,66.01,67.23
+"DMLP","Dorchester Minera",27.27,-0.286,27.5561,26.83,27.4381
+"DMND","Diamond Foods, In",29.50,+0.3333,29.1667,29.38,29.89
+"DMRC","Digimarc Corporat",24.45,-1.7272,26.1772,24.45,25.49
+"DNBF","DNB Financial Cor",21.36,-0.2292,21.5892,21.36,21.36
+"DNDN","Dendreon Corporat",N/A,-0.7702,0.8972,N/A,N/A
+"DNKN","Dunkin' Brands Gr",47.49,+1.5286,45.9664,47.35,47.75
+"DORM","Dorman Products, ",47.14,+2.3217,44.8583,46.80,48.147
+"DOVR","Dover Saddlery, I",4.75,-0.0531,4.9031,4.584,4.85
+"DOX","Amdocs Limited",48.08,+1.6053,46.4747,47.67,48.13
+"DPRX","Dipexium Pharmace",10.25,-0.1284,10.4779,10.10,10.42
+"DRAD","Digirad Corporati",3.78,-0.1364,3.9614,3.7803,3.88
+"DRAM","Dataram Corporati",2.53,+0.286,2.3139,2.51,2.63
+"DRIV","Digital River, In",25.27,+4.0794,21.2006,25.0699,25.55
+"DRNA","Dicerna Pharmaceu",11.04,+0.8794,10.2006,10.65,11.14
+"DRRX","DURECT Corporatio",0.9132,-0.1275,1.0475,0.90,1.05
+"DRTX","Durata Therapeuti",N/A,+1.8247,22.3353,N/A,N/A
+"DRWI","DragonWave Inc",0.97,-0.1021,1.0725,0.92,0.979
+"DRWIW","DragonWave Inc",0.01,N/A,0.00,N/A,N/A
+"DRYS","DryShips Inc.",1.49,-0.1769,1.6719,1.46,1.52
+"DSCI","Derma Sciences, I",8.41,-0.3233,8.7383,8.3575,8.56
+"DSCO","Discovery Laborat",1.53,-0.2028,1.7528,1.50,1.57
+"DSGX","The Descartes Sys",15.03,+1.0317,14.0283,14.91,15.32
+"DSKX","DS Healthcare Gro",0.68,-0.2406,0.9783,0.67,0.75
+"DSKY","iDreamSky Technol",16.35,-0.1436,16.5336,16.06,16.45
+"DSLV","Credit Suisse AG",71.53,-0.0717,71.7653,69.65,73.6315
+"DSPG","DSP Group, Inc.",10.75,+0.9594,9.8006,10.70,11.00
+"DSWL","Deswell Industrie",2.11,+0.0119,2.1181,2.07,2.20
+"DTLK","Datalink Corporat",12.35,+0.6314,11.7386,12.30,12.60
+"DTSI","DTS, Inc.",32.10,+3.0106,29.1294,31.95,33.47
+"DTV","DIRECTV",87.17,+0.9208,86.2692,86.69,87.91
+"DVAX","Dynavax Technolog",14.38,-0.7806,15.2406,14.0001,14.67
+"DVCR","Diversicare Healt",9.50,-1.7303,11.3603,9.50,9.71
+"DWA","Dreamworks Animat",22.67,+0.005,22.67,22.59,23.29
+"DWAT","Arrow DWA Tactica",10.36,+0.3915,9.9984,10.35,10.397
+"DWCH","Datawatch Corpora",8.93,-1.3342,10.2842,8.85,9.35
+"DWSN","Dawson Geophysica",15.48,-1.38,16.92,15.41,16.0573
+"DXCM","DexCom, Inc.",50.37,+5.0794,45.2906,49.84,51.72
+"DXGE","WisdomTree German",27.18,+1.6981,25.4819,27.04,27.229
+"DXJS","WisdomTree Japan ",32.22,+1.6051,30.6589,32.145,32.48
+"DXKW","WisdomTree Korea ",21.20,+0.5164,20.7336,21.1301,21.33
+"DXLG","Destination XL Gr",5.27,+0.2969,4.9631,4.905,5.38
+"DXM","Dex Media, Inc.",8.24,-0.0478,8.3078,8.23,8.49
+"DXPE","DXP Enterprises, ",64.32,-0.84,65.22,63.42,65.90
+"DXPS","WisdomTree United",25.90,+1.124,24.925,25.87,26.11
+"DXYN","The Dixie Group, ",7.09,-0.4917,7.5917,6.58,7.14
+"DYAX","Dyax Corp.",13.28,+1.8878,11.3922,13.02,13.48
+"DYNT","Dynatronics Corpo",3.80,-0.0892,3.8892,3.7501,3.8421
+"DYSL","Dynasil Corporati",1.45,+0.0658,1.3942,1.45,1.478
+"EA","Electronic Arts I",43.41,+5.4286,37.9814,43.25,44.06
+"EAC","Erickson Incorpor",11.12,-2.0678,13.1878,11.05,11.25
+"EAGL","Silver Eagle Acqu",9.76,-0.0142,9.8042,N/A,N/A
+"EAGLU","Silver Eagle Acqu",10.36,-0.0042,10.3542,N/A,N/A
+"EAGLW","Silver Eagle Acqu",0.61,-0.0483,0.6783,0.63,0.69
+"EARS","Auris Medical Hol",4.60,+0.0081,4.6019,4.46,4.66
+"EBAY","eBay Inc.",54.43,+1.9594,52.4706,54.23,54.85
+"EBIO","Eleven Biotherape",10.81,-0.0217,10.9317,10.78,11.23
+"EBIX","Ebix, Inc.",16.34,+1.7975,14.5525,16.20,16.50
+"EBMT","Eagle Bancorp Mon",11.11,+0.3544,10.6956,10.83,11.06
+"EBSB","Meridian Bancorp,",11.13,+0.0792,11.0608,11.11,11.35
+"EBTC","Enterprise Bancor",22.91,+1.2547,21.8458,22.96,23.27
+"ECHO","Echo Global Logis",26.52,+0.8597,25.6903,26.37,26.9997
+"ECOL","US Ecology, Inc.",40.04,-4.7589,44.8289,39.82,40.25
+"ECPG","Encore Capital Gr",42.21,-1.4369,43.6969,42.17,43.66
+"ECTE","Echo Therapeutics",0.6598,+0.0114,0.6586,0.56,0.69
+"ECYT","Endocyte, Inc.",6.49,+0.5678,5.9222,6.38,6.616
+"EDAP","EDAP TMS S.A.",2.34,+0.8475,1.4925,2.03,2.48
+"EDGW","Edgewater Technol",7.50,+0.5937,6.9503,7.51,7.941
+"EDS","Exceed Company Lt",1.56,-0.0238,1.6028,1.55,1.579
+"EDUC","Educational Devel",4.22,-0.0406,4.3006,4.2405,4.34
+"EEFT","Euronet Worldwide",55.83,+4.7622,51.0778,55.84,56.81
+"EEI","Ecology and Envir",9.06,-0.3469,9.7269,9.0501,9.38
+"EEMA","iShares MSCI Emer",59.24,+1.2286,58.2169,59.1342,59.579
+"EEME","iShares MSCI Emer",49.70,+1.7776,48.0594,49.837,49.837
+"EEML","iShares MSCI Emer",42.34,+0.7636,41.6764,41.7431,42.44
+"EFII","Electronics for I",44.85,+1.3658,43.4842,44.5301,45.17
+"EFOI","Energy Focus, Inc",5.28,-0.7689,6.0889,5.11,5.42
+"EFSC","Enterprise Financ",18.90,+0.9439,17.9561,18.86,19.22
+"EFUT","eFuture Informati",4.36,+0.155,4.195,4.35,4.54
+"EGAN","eGain Corporation",5.00,+0.1394,4.8606,4.99,5.12
+"EGBN","Eagle Bancorp, In",34.79,+1.0128,33.8672,34.45,35.82
+"EGHT","8x8 Inc",7.58,+0.3639,7.2261,7.53,7.80
+"EGLE","Eagle Bulk Shippi",14.69,+3.4036,11.2964,14.50,14.81
+"EGLT","Egalet Corporatio",6.78,+1.1915,5.8185,6.5294,7.01
+"EGOV","NIC Inc.",18.12,+0.4414,17.6786,17.805,18.15
+"EGRW","iShares MSCI Emer",55.68,+1.2239,54.9661,N/A,N/A
+"EGRX","Eagle Pharmaceuti",12.45,+0.0528,12.4822,12.33,12.69
+"EGT","Entertainment Gam",0.41,-0.0917,0.5217,0.41,0.49
+"EHTH","eHealth, Inc.",25.55,+2.9325,22.6425,24.80,25.67
+"EIGI","Endurance Interna",16.69,+0.7553,15.9447,15.40,16.89
+"ELGX","Endologix, Inc.",12.57,+1.1919,11.3781,12.25,12.89
+"ELNK","EarthLink Holding",4.16,+0.4989,3.6611,4.13,4.26
+"ELON","Echelon Corporati",1.82,-0.1339,1.9539,1.81,1.87
+"ELOS","Syneron Medical L",10.27,+0.8717,9.3983,10.07,10.40
+"ELRC","Electro Rent Corp",14.38,-0.055,14.485,14.36,14.94
+"ELSE","Electro-Sensors, ",3.94,+0.1733,3.7467,N/A,N/A
+"ELTK","Eltek Ltd.",1.51,-0.01,1.54,1.51,1.57
+"EMCB","WisdomTree Emergi",74.31,-1.6019,75.9119,74.27,74.868
+"EMCF","Emclaire Financia",24.00,+0.0692,24.9008,22.61,24.97
+"EMCG","WisdomTree Emergi",25.82,+0.9176,24.9656,25.25,25.8832
+"EMCI","EMC Insurance Gro",29.85,-0.9936,30.9636,29.80,30.38
+"EMDI","iShares MSCI Emer",55.66,+0.7147,53.8953,N/A,N/A
+"EMDR","VelocityShares Em",N/A,N/A,50.00,N/A,N/A
+"EMEY","iShares MSCI Emer",33.04,-2.0473,34.1072,N/A,N/A
+"EMIF","iShares S&P Emerg",35.30,+1.1211,34.1889,34.78,35.32
+"EMITF","Elbit Imaging Ltd",2.02,-0.5422,2.5922,2.0148,2.07
+"EMKR","EMCORE Corporatio",5.24,-0.0839,5.3339,5.153,5.26
+"EML","Eastern Company (",16.60,+0.6278,15.9722,16.40,16.90
+"EMMS","Emmis Communicati",2.02,-0.0019,2.0219,2.00,2.04
+"EMMSP","Emmis Communicati",12.50,+0.0001,15.06,N/A,N/A
+"ENDP","Endo Internationa",70.11,+3.728,66.392,69.86,71.11
+"ENFC","Entegra Financial",13.81,+0.4742,13.3758,13.80,13.85
+"ENG","ENGlobal Corporat",2.48,+0.705,1.775,2.39,2.69
+"ENOC","EnerNOC, Inc.",14.97,+0.1897,14.7903,14.92,15.36
+"ENPH","Enphase Energy, I",11.41,-0.7475,12.1625,11.10,11.84
+"ENSG","The Ensign Group,",38.83,+1.9008,36.9392,38.57,39.79
+"ENT","Global Eagle Ente",13.00,+1.4844,11.5256,12.90,13.32
+"ENTA","Enanta Pharmaceut",43.58,+0.2404,43.3596,43.28,44.97
+"ENTG","Entegris, Inc.",13.38,+0.9322,12.4578,13.31,13.64
+"ENTR","Entropic Communic",2.38,-0.0739,2.4539,2.35,2.49
+"ENVI","Envivio, Inc.",1.56,-0.0492,1.6292,1.545,1.63
+"ENZN","Enzon Pharmaceuti",1.08,+0.0598,1.0203,1.05,1.10
+"ENZY","Enzymotec Ltd.",8.36,+1.5533,6.8867,8.323,8.70
+"EOPN","E2open, Inc.",6.44,-0.0114,6.4614,6.30,6.72
+"EPAX","Ambassadors Group",2.31,-0.8747,3.1906,2.23,2.36
+"EPAY","Bottomline Techno",25.31,-1.4625,26.7725,24.975,25.48
+"EPIQ","EPIQ Systems, Inc",15.63,-1.7881,17.4481,15.58,15.97
+"EPRS","EPIRUS Biopharmac",5.37,+0.2681,5.1019,4.80,5.50
+"EPZM","Epizyme, Inc.",22.54,-3.2906,25.8406,22.44,23.99
+"EQIX","Equinix, Inc.",223.85,+16.44,207.49,221.47,225.91
+"ERI","Eldorado Resorts,",4.23,+0.0926,4.14,4.17,4.30
+"ERIC","Ericsson",12.60,+0.7817,11.8233,12.52,12.63
+"ERIE","Erie Indemnity Co",85.35,+3.2472,82.2528,85.18,85.99
+"ERII","Energy Recovery, ",4.97,+0.6467,4.3333,4.87,5.13
+"EROC","Eagle Rock Energy",3.20,+0.0239,3.1861,3.15,3.28
+"ERS","Empire Resources,",5.00,-0.0528,5.0928,4.8101,5.14
+"ERW","VelocityShares Eq",58.83,+0.4875,56.2925,N/A,N/A
+"ESBF","ESB Financial Cor",17.98,+2.8647,15.1553,17.98,18.50
+"ESBK","Elmira Savings Ba",21.77,-0.2707,22.0217,N/A,N/A
+"ESCA","Escalade, Incorpo",12.92,+1.0303,11.8997,12.78,13.39
+"ESCR","Escalera Resource",1.19,-0.2483,1.4483,1.17,1.24
+"ESCRP","Escalera Resource",16.87,-3.7931,21.0961,16.6001,17.315
+"ESEA","Euroseas Ltd.",0.93,-0.0789,1.0289,0.92,0.9794
+"ESGR","Enstar Group Limi",144.61,+2.5644,142.353,144.12,147.06
+"ESIO","Electro Scientifi",7.07,+0.1924,6.8792,6.78,7.09
+"ESLT","Elbit Systems Ltd",58.22,-2.1844,60.4144,58.00,58.76
+"ESMC","Escalon Medical C",1.37,+0.0447,1.3853,1.35,1.43
+"ESPR","Esperion Therapeu",29.60,+2.4853,27.1647,28.90,30.404
+"ESRX","Express Scripts H",80.87,+6.423,74.447,80.52,81.61
+"ESSA","ESSA Bancorp, Inc",11.40,+0.0036,11.4264,11.35,11.54
+"ESSX","Essex Rental Corp",1.20,-0.2427,1.4467,1.17,1.23
+"ESXB","Community Bankers",4.40,+0.0065,4.4011,4.40,4.43
+"ESYS","Elecsys Corporati",17.32,+4.5281,12.8219,17.32,17.36
+"ETFC","E*TRADE Financial",23.04,+1.3903,21.6497,22.92,23.155
+"ETRM","EnteroMedics Inc.",1.40,+0.1914,1.2186,1.40,1.46
+"EUFN","iShares MSCI Euro",23.02,+0.3158,22.7042,22.97,23.1122
+"EVAL","iShares MSCI Emer",45.83,-0.4933,45.9903,45.497,45.497
+"EVAR","Lombard Medical, ",6.31,N/A,0.00,6.83,7.16
+"EVBS","Eastern Virginia ",6.18,+0.0142,6.1658,6.145,6.4399
+"EVEP","EV Energy Partner",31.92,+0.40,31.55,31.69,32.98
+"EVOK","Evoke Pharma, Inc",5.97,+0.3342,5.7158,5.97,6.23
+"EVOL","Evolving Systems,",9.97,-0.1011,10.0911,9.82,10.502
+"EVRY","EveryWare Global,",1.06,-0.4032,1.4531,1.02,1.20
+"EWBC","East West Bancorp",36.44,+1.3647,35.0753,36.385,38.00
+"EXA","Exa Corporation",10.97,+0.5025,10.6275,10.84,11.26
+"EXAC","Exactech, Inc.",21.93,+0.0583,21.8717,21.65,22.14
+"EXAS","Exact Sciences Co",23.87,+1.1535,22.7239,22.675,24.31
+"EXEL","Exelixis, Inc.",1.75,+0.1014,1.6486,1.69,1.78
+"EXFO","EXFO Inc",3.54,-0.0703,3.6103,3.37,3.58
+"EXLP","Exterran Partners",26.90,-0.615,27.555,26.90,28.79
+"EXLS","ExlService Holdin",27.50,+0.5997,26.9503,27.21,28.415
+"EXPD","Expeditors Intern",44.53,+2.8764,41.6636,44.16,44.66
+"EXPE","Expedia, Inc.",84.63,+2.0236,82.6064,84.40,87.32
+"EXPO","Exponent, Inc.",77.78,+1.58,76.24,77.34,78.68
+"EXTR","Extreme Networks,",3.70,-0.0033,3.7033,3.66,3.87
+"EXXI","Energy XXI Ltd.",7.32,-0.4069,7.7269,7.14,7.62
+"EYEG","Eyegate Pharmaceu",N/A,N/A,0.00,N/A,N/A
+"EZCH","EZchip Semiconduc",18.75,-2.3969,21.1769,18.50,19.09
+"EZPW","EZCORP, Inc.",10.93,+0.7314,10.1986,10.80,11.01
+"FALC","FalconStor Softwa",0.9801,-0.1222,1.1042,0.9804,1.02
+"FANG","Diamondback Energ",69.63,+3.1272,66.5478,68.26,71.30
+"FARM","Farmer Brothers C",28.39,+0.3061,28.2439,28.30,30.03
+"FARO","FARO Technologies",55.67,+3.0997,52.5903,55.35,57.35
+"FAST","Fastenal Company",45.12,+1.5105,43.6145,45.00,45.61
+"FATE","Fate Therapeutics",3.86,-0.6506,4.5506,3.85,4.00
+"FB","Facebook, Inc.",73.69,-2.0908,75.7808,73.53,74.50
+"FBIZ","First Business Fi",43.58,-2.0586,45.6486,43.105,43.985
+"FBMS","The First Bancsha",15.25,+0.5006,14.7994,15.25,15.30
+"FBNC","First Bancorp",17.25,+0.0883,17.1817,17.01,17.35
+"FBNK","First Connecticut",15.26,+0.0667,15.2033,15.06,15.34
+"FBRC","FBR & Co",24.91,-0.6686,25.4886,24.62,25.66
+"FBSS","Fauquier Bankshar",18.56,+0.9589,18.7411,N/A,N/A
+"FCAP","First Capital, In",23.25,+0.1406,23.4194,23.50,23.64
+"FCBC","First Community B",15.50,-0.2233,15.7433,15.44,15.7599
+"FCCO","First Community C",10.72,+0.0561,10.6639,10.70,10.75
+"FCCY","1st Constitution ",10.76,+0.1393,10.6208,10.55,10.96
+"FCEL","FuelCell Energy, ",1.74,-0.1031,1.8531,1.71,1.83
+"FCFS","First Cash Financ",58.72,+2.0725,56.6775,58.37,58.75
+"FCHI","iShares FTSE Chin",50.03,+1.2739,48.7261,49.97,50.00
+"FCLF","First Clover Leaf",8.90,-0.0042,9.0742,9.05,9.07
+"FCNCA","First Citizens Ba",244.33,+12.171,234.109,244.45,247.86
+"FCS","Fairchild Semicon",15.89,+1.2808,14.6192,15.74,16.05
+"FCSC","Fibrocell Science",2.57,-0.2134,2.8131,2.56,2.71
+"FCTY","1st Century Bancs",6.68,-0.4475,7.1375,6.60,7.00
+"FCVA","First Capital Ban",4.28,-0.0533,4.4133,4.26,4.37
+"FCZA","First Citizens Ba",10.30,+0.1328,10.2772,10.23,10.41
+"FCZAP","First Citizens Ba",32.70,-1.0096,32.0096,N/A,N/A
+"FDEF","First Defiance Fi",30.04,+0.6647,29.3453,29.42,30.26
+"FDIV","First Trust Strat",50.98,+0.9385,50.1415,51.00,51.18
+"FDML","Federal-Mogul Hol",15.07,-0.0417,15.1617,15.00,15.38
+"FDUS","Fidus Investment ",16.40,-0.3505,16.7925,16.35,16.68
+"FEIC","FEI Company",80.54,+0.7761,79.7639,80.45,81.84
+"FEIM","Frequency Electro",10.69,-0.3211,11.2011,N/A,N/A
+"FELE","Franklin Electric",37.08,+0.7106,36.3944,36.82,37.88
+"FEMB","First Trust Emerg",50.35,+0.5125,50.0375,50.55,50.55
+"FES","Forbes Energy Ser",2.57,-0.3858,2.9858,2.42,2.64
+"FEUZ","First Trust Euroz",32.02,+0.64,31.32,31.96,31.96
+"FEYE","FireEye, Inc.",31.71,+1.2257,30.4893,31.36,32.16
+"FFBC","First Financial B",17.96,+1.1942,16.7708,17.82,18.29
+"FFBCW","First Financial B",6.08,+0.6439,5.6561,N/A,N/A
+"FFHL","Fuwei Films (Hold",0.95,+0.0011,0.9656,0.95,0.9667
+"FFIC","Flushing Financia",19.38,+0.0097,19.3703,19.28,19.78
+"FFIN","First Financial B",30.68,+0.8592,29.8408,30.53,31.5199
+"FFIV","F5 Networks, Inc.",128.85,+8.973,119.897,127.94,129.7299
+"FFKT","Farmers Capital B",22.97,+0.2614,22.7153,22.79,23.10
+"FFKY","First Financial S",3.60,-0.0125,3.6325,3.62,3.62
+"FFNM","First Federal of ",5.17,+0.1532,5.0128,5.1305,5.2399
+"FFNW","First Financial N",11.55,+0.6897,10.9003,11.55,11.67
+"FFWM","First Foundation ",18.25,-0.2735,18.6725,18.399,18.40
+"FGEN","FibroGen, Inc",22.76,-0.292,23.182,22.50,24.04
+"FHCO","Female Health Com",4.21,-4.8171,9.0271,4.1601,4.24
+"FIBK","First Interstate ",27.97,-0.0347,28.0347,27.87,28.32
+"FINL","The Finish Line, ",27.59,+1.7106,25.8794,27.33,28.595
+"FISH","Marlin Midstream ",17.42,-1.4131,18.8331,17.11,17.9199
+"FISI","Financial Institu",23.82,-0.2592,24.1092,23.74,24.23
+"FISV","Fiserv, Inc.",70.20,+3.4875,66.7225,69.94,71.21
+"FITB","Fifth Third Banco",20.15,+0.5408,19.6092,20.06,20.43
+"FITBI","Fifth Third Banco",27.41,+0.495,26.935,27.43,27.49
+"FIVE","Five Below, Inc.",45.12,+4.7833,40.3367,44.63,45.68
+"FIVN","Five9, Inc.",4.48,-0.2722,4.7722,4.29,4.54
+"FIZZ","National Beverage",25.53,+1.4767,24.0733,25.40,26.15
+"FLDM","Fluidigm Corporat",30.20,+3.2281,27.0019,30.0524,31.21
+"FLEX","Flextronics Inter",11.07,+0.9953,10.0747,11.05,11.18
+"FLIC","The First of Long",26.01,+1.0797,24.9303,25.85,26.56
+"FLIR","FLIR Systems, Inc",31.59,+0.225,31.37,31.455,31.99
+"FLL","Full House Resort",1.33,+0.1008,1.2492,1.299,1.40
+"FLML","Flamel Technologi",13.88,+1.1267,12.7633,13.764,14.30
+"FLWS","1-800 FLOWERS.COM",8.40,+0.2169,8.1831,8.37,8.66
+"FLXN","Flexion Therapeut",16.99,-0.6202,17.7542,16.89,19.00
+"FLXS","Flexsteel Industr",29.81,-3.9208,33.8608,29.61,31.28
+"FMB","First Trust Manag",50.97,-0.1517,51.1418,N/A,N/A
+"FMBH","First Mid-Illinoi",20.10,-0.8542,20.8542,20.00,20.0001
+"FMBI","First Midwest Ban",16.90,+0.5469,16.3531,16.72,17.23
+"FMER","FirstMerit Corpor",18.18,+0.4742,17.7158,18.123,18.56
+"FMI","Foundation Medici",22.41,-1.0267,23.4367,22.22,23.95
+"FMNB","Farmers National ",8.46,+0.4714,7.9886,8.43,8.50
+"FNFG","First Niagara Fin",8.16,+0.2764,7.8886,8.13,8.29
+"FNGN","Financial Engines",32.73,-2.0461,34.7761,32.3701,33.10
+"FNHC","Federated Nationa",24.90,-4.0614,29.0214,24.41,26.18
+"FNJN","Finjan Holdings, ",2.41,-0.0522,2.5322,2.4001,2.49
+"FNLC","First Bancorp, In",17.45,+0.1256,17.4144,17.243,17.89
+"FNRG","ForceField Energy",6.38,+0.046,6.3342,6.37,6.39
+"FNSR","Finisar Corporati",17.36,+1.1233,16.2367,17.26,17.70
+"FOLD","Amicus Therapeuti",6.97,+0.9622,6.0153,6.85,7.18
+"FOMX","Foamix Pharmaceut",5.31,-0.1279,5.4379,5.2156,5.45
+"FONE","First Trust NASDA",37.92,+1.7647,36.3053,37.94,38.16
+"FONR","Fonar Corporation",11.63,-0.0307,11.6819,11.62,11.83
+"FORD","Forward Industrie",1.04,-0.1875,1.2275,1.03,1.07
+"FORM","FormFactor, Inc.",8.29,+0.7486,7.5414,8.16,8.75
+"FORR","Forrester Researc",38.46,-0.9997,39.5997,38.125,38.99
+"FORTY","Formula Systems (",24.16,-1.1383,25.2183,24.08,25.20
+"FOSL","Fossil Group, Inc",109.62,+8.319,101.311,109.47,110.77
+"FOX","Twenty-First Cent",33.96,+1.2642,32.7058,33.69,34.12
+"FOXA","Twenty-First Cent",35.22,+1.3044,33.9156,34.95,35.55
+"FOXF","Fox Factory Holdi",13.64,-1.8111,15.4611,13.55,14.05
+"FPRX","Five Prime Therap",15.73,+2.5531,13.1969,15.44,15.9299
+"FPXI","First Trust Inter",30.28,+0.23,30.10,30.33,30.472
+"FRAN","Francesca's Holdi",12.50,+0.2597,12.2403,12.4101,12.82
+"FRBA","First Bank",6.04,-0.0067,6.0467,6.04,6.04
+"FRBK","Republic First Ba",3.89,-0.0347,3.9347,3.8786,3.92
+"FRED","Fred's, Inc.",16.39,+1.2714,15.1386,16.33,16.92
+"FREE","FreeSeas Inc.",0.1275,-0.0367,0.1642,0.1121,0.1392
+"FRGI","Fiesta Restaurant",54.26,+1.2114,53.0486,54.07,55.66
+"FRME","First Merchants C",21.64,+0.2506,21.4094,21.52,22.07
+"FRNK","Franklin Financia",19.95,+0.3044,19.7356,19.90,20.10
+"FRP","FairPoint Communi",14.66,-0.3758,15.0358,14.42,14.97
+"FRPT","Freshpet, Inc.",17.13,-1.493,18.633,17.0601,18.18
+"FRSH","Papa Murphy's Hol",10.13,+0.9618,9.1882,9.63,10.22
+"FSAM","Fifth Street Asse",14.75,+0.6231,14.1469,14.55,15.12
+"FSBK","First South Banco",8.13,+0.055,8.085,8.10,8.14
+"FSBW","FS Bancorp, Inc.",17.25,+0.3352,17.0567,17.325,17.40
+"FSC","Fifth Street Fina",8.83,-0.0136,8.8436,8.76,8.90
+"FSCFL","Fifth Street Fina",23.82,+0.0539,24.1361,23.801,24.19
+"FSFG","First Savings Fin",25.00,+0.34,25.05,25.39,25.40
+"FSFR","Fifth Street Seni",10.91,-0.1497,11.0697,10.86,11.04
+"FSGI","First Security Gr",2.10,+0.1275,1.9825,2.06,2.11
+"FSLR","First Solar, Inc.",49.86,-4.8445,54.7144,49.63,50.78
+"FSNN","Fusion Telecommun",3.38,-0.1653,3.5353,3.37,3.4799
+"FSRV","FirstService Corp",51.91,-0.9767,52.9067,51.525,52.69
+"FSTR","L.B. Foster Compa",48.66,-0.4633,49.1533,45.76,50.14
+"FSYS","Fuel Systems Solu",10.35,+1.3394,9.0406,10.30,10.57
+"FTCS","First Trust Capit",37.89,+1.9701,35.9189,37.8592,38.04
+"FTD","FTD Companies, In",35.28,+0.8569,34.4431,35.11,36.00
+"FTEK","Fuel Tech, Inc.",4.15,+0.0469,4.1231,4.088,4.19
+"FTGC","First Trust Globa",29.23,+0.1326,29.1134,29.15,29.42
+"FTHI","First Trust High ",20.46,+0.3889,20.1611,20.55,20.57
+"FTLB","First Trust Low B",20.31,+0.3262,20.0128,20.3389,20.37
+"FTNT","Fortinet, Inc.",27.11,+1.4467,25.6733,27.01,27.40
+"FTR","Frontier Communic",7.09,+0.7217,6.3783,6.96,7.10
+"FTSL","First Trust Senio",48.94,+0.1206,48.9394,49.05,49.34
+"FTSM","First Trust Enhan",60.01,+0.0381,59.9819,60.01,60.07
+"FUEL","Rocket Fuel Inc.",17.48,+0.6069,16.8731,16.93,17.50
+"FULL","Full Circle Capit",5.83,-0.0259,5.8631,5.80,5.88
+"FULLL","Full Circle Capit",26.16,+0.0331,26.2669,26.299,26.30
+"FULT","Fulton Financial ",12.13,+0.6481,11.4919,12.07,12.33
+"FUNC","First United Corp",8.51,+0.2056,8.3444,8.55,8.59
+"FUND","Royce Focus Trust",7.70,+0.0572,7.6428,7.67,7.7799
+"FV","First Trust Dorse",21.57,+0.898,20.682,21.55,21.82
+"FWLT","Foster Wheeler AG",30.07,-0.5397,30.6197,29.5822,30.20
+"FWM","Fairway Group Hol",3.82,+1.008,2.8419,3.45,4.24
+"FWP","Forward Pharma A/",20.09,-0.6878,20.8078,19.96,20.7897
+"FWRD","Forward Air Corpo",48.17,+0.9061,47.2639,47.44,48.70
+"FXCB","Fox Chase Bancorp",16.48,+0.0311,16.5089,16.53,16.76
+"FXEN","FX Energy, Inc.",2.72,-0.1018,2.8317,2.65,2.74
+"FXENP","FX Energy, Inc.",20.56,-1.4078,21.9678,18.99,20.9899
+"GABC","German American B",29.13,+1.13,28.16,29.02,29.70
+"GAGA","Le Gaga Holdings ",3.98,+0.0194,3.9706,3.98,3.99
+"GAI","Global-Tech Advan",5.50,+0.0441,5.5819,5.626,5.64
+"GAIA","Gaiam, Inc.",7.21,-0.0972,7.3172,7.16,7.36
+"GAIN","Gladstone Investm",7.31,+0.0464,7.2636,7.28,7.36
+"GAINO","Gladstone Investm",25.40,+0.0783,25.3217,25.25,25.4999
+"GAINP","Gladstone Investm",26.10,+0.2586,26.0914,26.35,26.35
+"GALE","Galena Biopharma,",2.06,+0.1639,1.9061,1.95,2.15
+"GALT","Galectin Therapeu",4.22,-0.7281,4.9481,4.22,4.466
+"GALTU","Galectin Therapeu",10.09,+0.9778,12.3022,N/A,N/A
+"GALTW","Galectin Therapeu",1.85,-0.1272,1.9772,1.85,1.95
+"GAME","Shanda Games Limi",6.56,+0.0806,6.4894,6.51,6.585
+"GARS","Garrison Capital ",14.95,+0.289,14.7003,14.81,15.10
+"GASS","StealthGas, Inc.",7.57,-0.4494,8.0194,7.36,7.832
+"GBCI","Glacier Bancorp, ",27.56,+0.4886,27.0714,27.38,28.23
+"GBDC","Golub Capital BDC",17.42,+0.5086,16.9214,17.33,17.65
+"GBIM","GlobeImmune, Inc.",6.86,-0.0058,6.8658,6.80,7.1149
+"GBLI","Global Indemnity ",27.59,-0.2825,28.0325,27.56,28.16
+"GBNK","Guaranty Bancorp",14.92,-0.04,15.01,14.93,15.0819
+"GBSN","Great Basin Scien",3.93,-1.0676,5.1076,3.61,4.20
+"GCBC","Greene County Ban",26.75,-0.9997,27.2597,N/A,N/A
+"GCVRZ","Sanofi",0.85,+0.2478,0.6022,0.85,0.885
+"GDEF","Global Defense & ",10.25,-0.0175,10.2775,N/A,N/A
+"GENC","Gencor Industries",9.60,-0.1664,9.7664,9.54,9.719
+"GENE","Genetic Technolog",0.3171,-0.0944,0.4144,0.3174,0.355
+"GEOS","Geospace Technolo",29.17,-1.3811,30.5811,28.25,31.857
+"GERN","Geron Corporation",3.73,+1.4169,2.3231,3.28,3.76
+"GEVA","Synageva BioPharm",74.98,+1.9589,73.0411,70.64,75.56
+"GEVO","Gevo, Inc.",0.46,+0.1293,0.3308,0.43,0.48
+"GFED","Guaranty Federal ",12.85,+0.2589,12.5911,12.80,12.9499
+"GFN","General Finance C",9.31,+0.5878,8.7572,9.30,9.54
+"GFNCP","General Finance C",105.00,-0.428,105.928,105.50,105.60
+"GFNSL","General Finance C",25.62,N/A,0.00,25.48,25.82
+"GGAC","Garnero Group Acq",9.59,+0.0329,9.5771,N/A,N/A
+"GGACR","Garnero Group Acq",0.3799,N/A,0.00,0.36,0.37
+"GGACU","Garnero Group Acq",10.05,+0.0453,10.0047,10.05,10.08
+"GGACW","Garnero Group Acq",0.14,-0.025,0.165,0.14,0.14
+"GGAL","Grupo Financiero ",15.89,+2.1789,13.7411,15.72,16.16
+"GHDX","Genomic Health, I",33.10,+0.2255,32.8945,32.23,33.21
+"GIFI","Gulf Island Fabri",22.14,+2.5003,19.6747,21.89,22.52
+"GIGA","Giga-tronics Inco",1.67,-0.0075,1.6753,1.64,1.70
+"GIGM","GigaMedia Limited",0.999,+0.0861,0.9139,0.96,1.00
+"GIII","G-III Apparel Gro",85.45,+5.6583,79.8117,85.41,87.36
+"GILD","Gilead Sciences, ",100.56,-5.04,105.60,100.08,102.51
+"GILT","Gilat Satellite N",4.90,-0.0306,4.9406,4.871,5.0299
+"GK","G&K Services, Inc",65.31,+4.403,61.007,64.91,66.22
+"GKNT","Geeknet, Inc.",8.80,-0.5503,9.3603,8.6301,9.00
+"GLAD","Gladstone Capital",9.24,+0.3142,8.9258,9.21,9.30
+"GLADO","Gladstone Capital",25.43,+0.1083,25.4567,25.43,25.565
+"GLBS","Globus Maritime L",3.18,+0.0267,3.1633,3.19,3.19
+"GLBZ","Glen Burnie Banco",12.06,+0.19,12.325,12.15,12.515
+"GLDC","Golden Enterprise",3.95,-0.4792,4.4692,N/A,N/A
+"GLDD","Great Lakes Dredg",7.59,+0.9331,6.6619,7.44,7.60
+"GLDI","Credit Suisse AG",12.31,-0.21,12.52,12.31,12.38
+"GLMD","Galmed Pharmaceut",5.75,-0.6074,6.3919,5.43,5.915
+"GLNG","Golar LNG Limited",52.68,-0.2328,52.9128,52.45,55.455
+"GLPI","Gaming and Leisur",32.50,+1.0977,31.4024,32.28,32.73
+"GLRE","Greenlight Reinsu",32.10,+0.3047,31.7953,31.90,32.25
+"GLRI","Glori Energy Inc",4.48,-1.0503,5.5403,4.39,4.5499
+"GLUU","Glu Mobile Inc.",3.76,-0.4437,4.2039,3.75,3.885
+"GLYC","GlycoMimetics, In",9.03,+1.8756,7.2444,8.90,9.1899
+"GMAN","Gordmans Stores, ",3.28,+0.0869,3.2231,3.04,3.37
+"GMCR","Keurig Green Moun",140.09,-5.825,146.01,137.53,144.47
+"GMLP","Golar LNG Partner",34.70,+0.7189,34.0411,33.6482,34.98
+"GNBC","Green Bancorp, In",16.12,-0.7778,16.8978,16.00,16.53
+"GNCA","Genocea Bioscienc",9.06,+0.3178,8.7822,8.99,9.10
+"GNCMA","General Communica",12.19,+0.7375,11.4725,12.10,12.43
+"GNMA","iShares Core GNMA",50.29,+0.0239,50.3361,50.36,50.50
+"GNMK","GenMark Diagnosti",10.66,+0.5394,10.1406,10.60,11.07
+"GNTX","Gentex Corporatio",35.32,+4.1897,31.1403,35.25,35.83
+"GNVC","GenVec, Inc.",2.01,+0.1436,1.8664,1.9507,2.0399
+"GOGO","Gogo Inc.",16.25,-0.2994,16.5544,16.10,16.66
+"GOLD","Randgold Resource",69.07,+3.105,66.005,68.48,70.72
+"GOMO","Sungy Mobile Limi",6.15,-0.7839,6.9539,6.04,6.22
+"GOOD","Gladstone Commerc",17.54,+0.0482,17.5058,17.50,17.66
+"GOODN","Gladstone Commerc",25.80,-0.1258,26.1358,25.85,26.02
+"GOODO","Gladstone Commerc",25.30,+0.0494,25.2506,25.25,25.30
+"GOODP","Gladstone Commerc",25.30,+0.2511,25.3489,N/A,N/A
+"GOOG","Google Inc.",537.24,-7.9898,545.276,536.56,542.14
+"GOOGL","Google Inc.",545.79,-9.813,555.633,545.00,551.04
+"GPIC","Gaming Partners I",8.25,+0.1811,8.2389,8.2774,8.45
+"GPOR","Gulfport Energy C",54.49,+5.0589,49.4411,54.174,56.03
+"GPRE","Green Plains, Inc",35.05,+2.4355,32.6145,33.35,36.30
+"GPRO","GoPro, Inc.",71.05,-7.6053,78.6553,70.55,73.60
+"GRBK","Green Brick Partn",8.14,+1.7639,6.3761,7.7124,8.38
+"GRFS","Grifols, S.A.",36.77,+2.5728,34.2372,36.56,37.21
+"GRID","First Trust NASDA",35.88,+1.2658,34.6642,35.91,36.02
+"GRIF","Griffin Land & Nu",26.50,+0.1369,27.5531,27.69,27.90
+"GRMN","Garmin Ltd.",58.98,+5.0236,53.9664,58.62,59.51
+"GROW","U.S. Global Inves",2.99,-0.0414,3.0914,2.80,3.06
+"GRPN","Groupon, Inc.",7.51,+0.7433,6.7717,7.40,7.69
+"GRVY","GRAVITY Co., Ltd.",0.60,-0.0997,0.7197,0.60,0.62
+"GSBC","Great Southern Ba",37.83,+2.7725,35.3975,37.95,39.618
+"GSIG","GSI Group, Inc.",12.30,+0.1675,12.1325,12.21,12.5299
+"GSIT","GSI Technology, I",5.18,+0.1879,4.9953,5.173,5.25
+"GSJK","Compressco Partne",22.93,+0.0495,22.9203,22.77,23.14
+"GSM","Globe Specialty M",17.57,-0.0756,17.6556,17.43,17.85
+"GSOL","Global Sources Lt",6.63,-0.1636,6.8336,6.625,6.98
+"GSVC","GSV Capital Corp",9.78,-0.0141,9.8333,9.75,9.973
+"GT","The Goodyear Tire",26.50,+3.6628,22.8372,26.31,26.74
+"GTIM","Good Times Restau",5.74,+0.2239,5.5361,5.56,5.93
+"GTIV","Gentiva Health Se",19.59,+0.5425,19.0675,19.52,19.77
+"GTLS","Chart Industries,",43.90,-1.5333,45.4433,43.53,45.08
+"GTWN","Georgetown Bancor",16.15,-0.1672,16.3272,16.16,16.37
+"GTXI","GTx, Inc.",0.5679,-0.0154,0.5833,0.5412,0.5679
+"GUID","Guidance Software",5.77,-0.5456,6.3256,5.69,5.83
+"GULF","WisdomTree Middle",23.42,+0.2522,23.2014,23.29,23.4599
+"GULTU","Gulf Coast Ultra ",1.41,-0.1247,1.5447,1.32,1.45
+"GURE","Gulf Resources, I",1.18,-0.1958,1.3758,1.16,1.25
+"GWGH","GWG Holdings, Inc",9.05,+0.1813,8.9987,9.05,9.18
+"GWPH","GW Pharmaceutical",78.74,+4.9642,73.8958,78.00,80.00
+"GYRO","Gyrodyne Company ",4.27,-0.3366,4.6067,4.24,4.39
+"HA","Hawaiian Holdings",18.20,+2.1464,16.0636,17.931,18.61
+"HAFC","Hanmi Financial C",20.43,-0.1833,20.6233,20.23,20.91
+"HAIN","The Hain Celestia",106.69,+2.615,104.115,106.48,107.85
+"HALL","Hallmark Financia",11.81,+0.9047,10.9753,11.47,11.96
+"HALO","Halozyme Therapeu",8.52,-0.4589,8.9789,8.40,8.60
+"HART","Harvard Apparatus",4.69,-1.2884,6.0284,4.64,4.77
+"HAS","Hasbro, Inc.",56.95,+0.6908,56.2692,56.45,57.20
+"HAWK","Blackhawk Network",34.73,+0.2419,34.4981,34.5021,36.22
+"HAWKB","Blackhawk Network",34.31,+0.6142,33.6958,34.11,35.41
+"HAYN","Haynes Internatio",46.81,+2.5047,44.5253,45.2403,49.09
+"HBAN","Huntington Bancsh",10.11,+0.3836,9.7364,10.06,10.25
+"HBANP","Huntington Bancsh",1316.00,-9.4399,1325.4399,1310.00,1321.00
+"HBCP","Home Bancorp, Inc",22.59,-0.1992,22.7992,22.38,22.9399
+"HBHC","Hancock Holding C",34.05,+0.7108,33.3492,33.90,34.91
+"HBIO","Harvard Bioscienc",4.68,+0.0308,4.6592,4.67,4.83
+"HBK","Hamilton Bancorp,",12.75,-0.1774,12.9642,12.7868,12.79
+"HBMD","Howard Bancorp, I",10.55,+0.5214,10.4686,10.51,10.99
+"HBNC","Horizon Bancorp (",24.86,+0.2864,24.6036,24.65,25.00
+"HBNK","Hampden Bancorp, ",19.88,+1.8928,18.0572,19.9401,20.29
+"HBOS","Heritage Financia",20.95,+0.3203,20.6797,20.95,21.08
+"HBP","Huttig Building P",3.26,-0.1239,3.3539,N/A,N/A
+"HCAC","Hennessy Capital ",9.75,-0.0097,9.8397,N/A,N/A
+"HCACU","Hennessy Capital ",10.35,0.00,10.49,N/A,N/A
+"HCACW","Hennessy Capital ",0.35,N/A,0.00,0.45,0.45
+"HCAP","Harvest Capital C",12.25,-0.2906,12.5406,12.25,12.62
+"HCBK","Hudson City Banco",9.67,+0.2006,9.4744,9.63,9.83
+"HCCI","Heritage-Crystal ",17.64,+0.8044,16.9356,17.50,17.85
+"HCKT","The Hackett Group",8.61,+1.6519,6.9681,8.20,8.66
+"HCOM","Hawaiian Telcom H",26.79,+0.0561,26.7439,26.745,27.01
+"HCSG","Healthcare Servic",29.92,+0.8619,29.0581,29.76,30.20
+"HCT","American Realty C",11.02,-0.0089,11.0339,11.00,11.13
+"HDNG","Hardinge, Inc.",11.28,+0.3825,10.8975,11.22,11.34
+"HDRAU","Hydra Industries ",9.90,N/A,0.00,9.90,9.91
+"HDS","HD Supply Holding",29.08,+1.7328,27.3472,28.75,29.19
+"HDSN","Hudson Technologi",3.55,-0.2307,3.7875,3.53,3.63
+"HEAR","Turtle Beach Corp",4.12,-1.4913,5.6112,4.06,4.27
+"HEES","H&E Equipment Ser",38.35,+1.7389,36.6261,37.03,38.375
+"HELE","Helen of Troy Lim",64.00,+4.3683,59.6217,63.27,64.59
+"HEOP","Heritage Oaks Ban",7.55,+0.0331,7.5469,7.51,7.61
+"HERO","Hercules Offshore",1.47,-0.1864,1.6664,1.46,1.54
+"HFBC","HopFed Bancorp, I",11.65,+0.2253,11.4747,11.70,11.70
+"HFBL","Home Federal Banc",19.35,-0.0856,19.4356,19.35,19.35
+"HFFC","HF Financial Corp",13.85,+0.3776,13.4964,13.8501,13.874
+"HFWA","Heritage Financia",17.34,+0.2931,17.0469,17.24,18.09
+"HGSH","China HGS Real Es",4.12,+0.1152,4.0144,3.955,4.32
+"HIBB","Hibbett Sports, I",48.42,+3.8731,44.5769,47.5201,53.40
+"HIFS","Hingham Instituti",86.20,+5.6111,83.3489,88.96,88.96
+"HIHO","Highway Holdings ",3.35,+0.3597,2.9903,3.30,3.38
+"HIIQ","Health Insurance ",7.58,-1.8958,9.4858,7.45,7.73
+"HILL","Dot Hill Systems ",4.62,+0.6175,4.0125,4.56,4.74
+"HIMX","Himax Technologie",6.67,-1.3694,8.0444,6.61,6.81
+"HKTV","Hong Kong Televis",10.58,+2.059,8.5211,10.5101,10.736
+"HLIT","Harmonic Inc.",6.85,+0.4364,6.4186,6.81,6.93
+"HLSS","Home Loan Servici",19.72,-0.0719,19.7919,19.71,19.95
+"HMHC","Houghton Mifflin ",19.71,-0.1406,19.8506,19.45,20.33
+"HMIN","Home Inns & Hotel",30.04,+0.6208,29.4792,29.37,30.19
+"HMNF","HMN Financial, In",12.55,-0.1558,12.7428,12.55,12.587
+"HMNY","Helios and Mathes",2.74,+0.3111,2.6839,2.93,2.995
+"HMPR","Hampton Roads Ban",1.64,+0.0272,1.6328,1.63,1.70
+"HMST","HomeStreet, Inc.",16.49,-0.3956,16.9056,16.44,16.70
+"HMSY","HMS Holdings Corp",19.88,-0.7906,20.6806,19.88,20.54
+"HMTV","Hemisphere Media ",12.71,+0.8611,11.8589,12.62,13.03
+"HNH","Handy & Harman Lt",38.30,+4.7581,33.8219,38.18,39.25
+"HNNA","Hennessy Advisors",18.25,-0.4183,18.7583,17.95,18.39
+"HNRG","Hallador Energy C",11.92,+0.6662,11.2833,11.91,12.17
+"HNSN","Hansen Medical, I",0.8022,-0.1257,0.9317,0.79,0.84
+"HOFT","Hooker Furniture ",15.05,-0.0556,15.2056,14.93,15.16
+"HOLI","Hollysys Automati",25.00,+1.8614,23.1386,24.03,25.04
+"HOLX","Hologic, Inc.",26.49,+1.1975,25.2925,26.40,26.72
+"HOMB","Home BancShares, ",31.43,+0.9433,30.5267,31.33,32.31
+"HOTR","Chanticleer Holdi",1.87,-0.078,1.9481,1.83,1.99
+"HOTRW","Chanticleer Holdi",0.21,-0.0504,0.3204,0.27,0.27
+"HOVNP","Hovnanian Enterpr",15.35,+0.0464,15.3736,15.02,15.51
+"HPJ","Highpower Interna",6.06,-0.3853,6.4553,5.96,6.23
+"HPTX","Hyperion Therapeu",20.66,-2.32,23.02,20.625,21.29
+"HQY","HealthEquity, Inc",23.09,+3.0706,20.0394,22.13,23.75
+"HRTX","Heron Therapeutic",8.06,+0.3394,7.7806,7.93,8.14
+"HRZN","Horizon Technolog",14.02,+0.115,13.935,13.98,14.13
+"HSIC","Henry Schein, Inc",132.63,+12.214,120.466,131.84,133.98
+"HSII","Heidrick & Strugg",20.01,-0.6011,20.6211,19.94,20.31
+"HSKA","Heska Corporation",15.47,+1.8272,13.6728,15.39,15.60
+"HSNI","HSN, Inc.",71.84,+5.9439,65.9161,71.40,72.72
+"HSOL","Hanwha SolarOne C",1.90,-0.0861,1.9961,1.87,2.07
+"HSON","Hudson Global, In",2.83,-0.6061,3.4461,2.84,3.04
+"HSTM","HealthStream, Inc",29.22,+1.1372,28.1528,28.855,30.285
+"HTBI","HomeTrust Bancsha",15.49,+0.2694,15.2306,15.45,15.54
+"HTBK","Heritage Commerce",8.31,-0.1969,8.5269,8.30,8.47
+"HTBX","Heat Biologics, I",4.54,-1.2681,5.7981,4.52,4.709
+"HTCH","Hutchinson Techno",3.55,+0.0525,3.4975,3.515,3.60
+"HTHT","China Lodging Gro",24.37,-1.4439,25.8739,24.2902,24.67
+"HTLD","Heartland Express",26.40,+1.9044,24.5156,26.09,26.49
+"HTLF","Heartland Financi",25.35,+0.215,25.185,25.30,25.82
+"HTWO","HF2 Financial Man",10.45,+0.1017,10.3583,10.40,10.49
+"HTWR","Heartware Interna",73.10,-5.2969,78.4669,72.76,74.75
+"HUBG","Hub Group, Inc.",38.25,+0.9528,37.3172,37.168,38.32
+"HURC","Hurco Companies, ",34.84,-1.1097,35.9397,34.71,35.83
+"HURN","Huron Consulting ",68.66,+3.2317,65.5083,68.40,69.61
+"HWAY","Healthways, Inc.",15.49,+0.4081,15.0819,15.22,15.582
+"HWBK","Hawthorn Bancshar",13.80,+0.465,13.645,N/A,N/A
+"HWCC","Houston Wire & Ca",12.84,+0.1833,12.6967,12.6501,13.11
+"HWKN","Hawkins, Inc.",40.35,+3.0267,37.3933,40.31,40.98
+"HYGS","Hydrogenics Corpo",16.07,+0.1222,15.9778,15.71,16.83
+"HYLS","First Trust High ",50.91,-0.0431,50.9731,50.60,50.94
+"HYND","WisdomTree BofA M",22.22,-0.0564,22.4564,22.40,22.40
+"HYZD","WisdomTree BofA M",24.37,-0.0492,24.4392,24.371,24.39
+"HZNP","Horizon Pharma pl",12.02,-0.3347,12.3547,12.00,12.77
+"IACI","IAC/InterActiveCo",65.06,+1.6274,63.4536,65.04,66.03
+"IART","Integra LifeScien",47.53,-1.2228,48.7528,47.05,48.57
+"IBB","iShares Nasdaq Bi",294.50,+12.526,281.974,294.38,298.75
+"IBCA","Intervest Bancsha",9.82,+0.1181,9.7019,9.809,9.88
+"IBCP","Independent Bank ",11.98,+0.0536,11.9464,11.99,12.33
+"IBKC","IBERIABANK Corpor",66.07,+0.4478,65.6422,65.80,68.31
+"IBKR","Interactive Broke",26.88,+1.1642,25.7258,26.8199,27.29
+"IBOC","International Ban",26.09,+0.155,25.935,25.96,26.87
+"IBTX","Independent Bank ",43.99,-0.9964,45.0264,43.31,44.44
+"ICAD","icad inc.",10.25,+0.268,10.0158,10.18,10.59
+"ICCC","ImmuCell Corporat",4.62,-0.0128,4.6753,4.6625,4.6625
+"ICEL","Cellular Dynamics",6.96,-0.0928,7.0828,6.91,7.19
+"ICFI","ICF International",37.04,+2.2014,34.8786,36.8101,37.63
+"ICLD","InterCloud System",3.18,-0.4443,3.6243,3.14,3.377
+"ICLDW","InterCloud System",2.10,+0.8533,1.3967,1.22,2.90
+"ICLN","iShares S&P Globa",10.35,+0.2231,10.1369,10.3201,10.39
+"ICLR","ICON plc",54.70,-0.0469,54.7669,54.21,54.98
+"ICON","Iconix Brand Grou",39.91,+1.8739,38.0461,39.70,40.50
+"ICPT","Intercept Pharmac",154.40,-58.308,212.708,154.10,158.699
+"ICUI","ICU Medical, Inc.",80.57,+8.3267,72.2833,79.62,82.30
+"IDCC","InterDigital, Inc",50.06,+4.785,45.285,49.96,51.29
+"IDRA","Idera Pharmaceuti",2.48,+0.1119,2.3681,2.45,2.55
+"IDSA","Industrial Servic",4.93,-0.4017,5.4117,4.82,5.01
+"IDSY","I.D. Systems, Inc",6.20,-0.63,6.83,6.00,6.45
+"IDTI","Integrated Device",18.25,+2.5878,15.6722,18.13,18.53
+"IDXX","IDEXX Laboratorie",148.13,+13.282,134.848,147.46,149.51
+"IEP","Icahn Enterprises",104.66,+1.523,103.207,104.145,105.91
+"IESC","Integrated Electr",7.29,-0.4642,7.7442,7.27,7.45
+"IEUS","iShares MSCI Euro",42.25,+0.9404,41.3986,42.339,42.64
+"IFAS","iShares FTSE EPRA",31.91,+0.5844,31.2889,31.871,32.26
+"IFEU","iShares FTSE EPRA",35.92,+0.8737,34.9464,35.8201,35.942
+"IFGL","iShares FTSE EPRA",30.82,+0.6821,30.14,30.7596,30.99
+"IFNA","iShares FTSE EPRA",56.05,+1.6344,54.5156,N/A,N/A
+"IFON","InfoSonics Corp",1.19,-0.4542,1.6458,1.18,1.23
+"IFV","First Trust Dorse",18.76,+0.6161,18.1819,18.77,18.9699
+"IGLD","Internet Gold Gol",8.38,-0.5726,9.1725,8.2501,8.64
+"IGOV","iShares S&P/Citig",96.91,-2.0213,98.9503,96.8801,97.36
+"IGTE","iGATE Corporation",36.16,+0.6703,35.5197,35.55,36.3211
+"III","Information Servi",3.97,-0.0144,4.0044,3.94,4.05
+"IIIN","Insteel Industrie",22.33,+0.3897,22.0203,22.29,22.95
+"IIJI","Internet Initiati",9.73,+0.8494,8.9306,9.7301,9.78
+"IILG","Interval Leisure ",21.72,+0.7425,20.9875,21.62,22.15
+"IIN","IntriCon Corporat",5.98,+0.0222,6.0178,5.88,6.05
+"IIVI","II-VI Incorporate",13.49,+0.9525,12.5475,13.21,13.54
+"IKAN","Ikanos Communicat",0.3198,-0.0243,0.3442,0.315,0.344
+"IKGH","Iao Kun Group Hol",1.86,-0.1272,2.0072,1.85,1.88
+"IKNX","Ikonics Corporati",15.40,-0.4964,16.2744,15.4001,16.00
+"ILMN","Illumina, Inc.",186.41,+9.10,177.36,185.98,191.20
+"IMDZ","Immune Design Cor",33.64,+6.7308,27.1292,30.40,33.92
+"IMGN","ImmunoGen, Inc.",9.86,+0.4911,9.3739,9.7025,10.02
+"IMI","Intermolecular, I",2.27,+0.0847,2.1953,2.25,2.28
+"IMKTA","Ingles Markets, I",27.59,+1.9678,25.7822,27.13,27.75
+"IMMR","Immersion Corpora",8.85,+0.535,8.325,8.79,8.95
+"IMMU","Immunomedics, Inc",3.71,+0.0372,3.6728,3.67,3.80
+"IMMY","Imprimis Pharmace",8.18,+0.1575,8.1825,8.12,8.435
+"IMNP","Immune Pharmaceut",2.80,-0.0557,2.9367,2.65,2.90
+"IMOS","ChipMOS TECHNOLOG",20.99,-0.1892,21.1892,20.81,21.77
+"IMRS","Imris Inc",0.267,-0.1511,0.4181,0.24,0.29
+"INAP","Internap Network ",7.67,+0.2989,7.3711,7.62,7.93
+"INBK","First Internet Ba",18.36,+1.1284,17.4578,18.21,18.63
+"INCR","INC Research Hold",23.65,+2.017,21.653,22.27,24.00
+"INCY","Incyte Corporatio",72.15,+13.265,58.905,71.64,73.15
+"INDB","Independent Bank ",39.45,+0.8522,38.5578,39.21,40.10
+"INDY","iShares S&P India",31.96,+1.5114,30.4486,31.74,32.02
+"INFA","Informatica Corpo",36.32,+1.6133,34.7067,36.11,36.71
+"INFI","Infinity Pharmace",14.07,+0.755,13.325,13.91,14.5228
+"INFN","Infinera Corporat",13.62,+1.1569,12.4631,13.52,14.00
+"INGN","Inogen, Inc",24.47,+1.8514,22.6086,24.045,24.84
+"ININ","Interactive Intel",43.93,+0.0086,44.0214,43.48,44.96
+"INNL","Innocoll AG",8.36,+2.0228,6.6272,7.0001,8.65
+"INO","Inovio Pharmaceut",9.98,-0.9969,10.9969,9.75,10.195
+"INOD","Innodata Inc.",2.62,-0.1119,2.7519,2.59,2.64
+"INPH","Interphase Corpor",2.51,-0.1339,2.8739,2.51,2.8399
+"INSM","Insmed, Inc.",13.59,-0.2053,13.7953,13.322,13.75
+"INSY","Insys Therapeutic",38.55,-0.1783,38.7383,38.34,39.38
+"INTC","Intel Corporation",35.56,+2.2686,33.2964,35.50,36.46
+"INTG","The Intergroup Co",18.00,-0.7392,18.7392,18.00,18.49
+"INTL","INTL FCStone Inc.",17.40,-0.065,17.465,17.32,17.55
+"INTLL","INTL FCStone Inc.",25.86,+0.2213,25.7447,N/A,N/A
+"INTU","Intuit Inc.",92.56,+6.8081,85.7519,91.89,95.42
+"INTX","Intersections, In",3.95,+0.0894,3.8706,3.76,4.12
+"INVE","Identiv, Inc.",10.61,+0.8689,9.8311,10.35,11.299
+"INVT","Inventergy Global",0.91,-0.3778,1.2878,0.861,0.9777
+"INWK","InnerWorkings, In",7.54,-0.6172,8.1672,7.42,7.7075
+"IOSP","Innospec Inc.",43.98,+4.5319,39.4481,43.41,44.34
+"IPAR","Inter Parfums, In",26.67,-0.8022,27.5122,26.49,26.81
+"IPAS","iPass Inc.",1.39,-0.0881,1.4881,1.35,1.42
+"IPCC","Infinity Property",73.62,+4.1955,69.5545,72.81,74.57
+"IPCI","Intellipharmaceut",2.77,-0.0294,2.7894,2.721,2.85
+"IPCM","IPC The Hospitali",42.83,+0.3881,42.5219,42.69,43.63
+"IPDN","Professional Dive",4.77,+0.3536,4.6364,4.7105,5.02
+"IPGP","IPG Photonics Cor",73.06,+4.1386,68.9214,72.31,73.645
+"IPHS","Innophos Holdings",55.73,-0.5717,56.3417,55.67,56.75
+"IPKW","PowerShares Inter",25.42,+0.7157,24.7483,25.464,25.50
+"IPWR","Ideal Power Inc.",6.90,-0.3425,7.2426,6.828,7.08
+"IPXL","Impax Laboratorie",30.88,+3.1719,27.7281,30.88,31.89
+"IQNT","Inteliquent, Inc.",17.55,+2.5425,15.0175,17.48,18.28
+"IRBT","iRobot Corporatio",34.84,+1.1969,33.6531,34.56,35.70
+"IRDM","Iridium Communica",9.39,+0.1236,9.2664,9.32,9.75
+"IRDMB","Iridium Communica",352.05,+8.415,351.495,N/A,N/A
+"IRDMZ","Iridium Communica",0.38,-0.0458,0.5006,0.4548,0.4548
+"IRG","Ignite Restaurant",7.11,+0.5806,6.5294,6.94,7.25
+"IRIX","IRIDEX Corporatio",8.41,+0.9558,7.5342,8.32,8.5799
+"IRMD","iRadimed Corporat",8.48,+1.0812,7.4388,8.34,8.63
+"IROQ","IF Bancorp, Inc.",16.80,+0.0024,16.8475,N/A,N/A
+"IRWD","Ironwood Pharmace",13.84,+0.7433,13.1167,13.7022,14.00
+"ISBC","Investors Bancorp",10.71,+0.3444,10.3656,10.67,10.84
+"ISCA","International Spe",31.95,+1.1006,30.9394,31.84,32.89
+"ISHG","iShares S&P/Citig",86.38,-2.1645,88.6831,86.34,86.7899
+"ISIG","Insignia Systems,",2.92,-0.0722,3.0522,2.92,3.01
+"ISIL","Intersil Corporat",13.00,+0.0667,12.9333,12.57,13.105
+"ISIS","Isis Pharmaceutic",50.96,+7.2608,43.7092,50.91,52.5786
+"ISLE","Isle of Capri Cas",7.11,+0.0672,7.0528,7.03,7.24
+"ISM","SLM Corporation",24.44,-0.1418,24.5658,24.34,24.52
+"ISNS","Image Sensing Sys",2.81,+0.2514,2.5586,2.78,3.03
+"ISRG","Intuitive Surgica",513.21,+22.826,490.474,509.12,520.00
+"ISRL","Isramco, Inc.",137.02,+14.804,131.666,146.47,146.47
+"ISSC","Innovative Soluti",2.92,-0.0364,2.9864,2.90,3.02
+"ISSI","Integrated Silico",14.26,+1.2722,12.9978,14.26,14.57
+"ISTR","Investar Holding ",13.75,+0.4514,13.3486,13.60,13.8032
+"ITCI","Intra-Cellular Th",14.71,-0.1153,15.0253,14.6765,15.10
+"ITIC","Investors Title C",74.05,+1.7956,72.2544,71.5747,74.05
+"ITRI","Itron, Inc.",40.43,+1.3961,39.0739,39.77,40.71
+"ITRN","Ituran Location a",21.23,+0.4671,20.7797,21.2228,21.75
+"IVAC","Intevac, Inc.",7.26,-0.1125,7.3925,7.23,7.43
+"IVAN","Ivanhoe Energy, I",1.03,-0.2525,1.2825,1.0299,1.062
+"IXYS","IXYS Corporation",11.53,+0.8397,10.7103,11.39,11.78
+"JACK","Jack In The Box I",73.58,+3.4856,70.1244,73.13,75.60
+"JACQ","Collabrium Japan ",10.23,-0.7022,10.9122,N/A,N/A
+"JACQU","Collabrium Japan ",10.44,+0.0958,10.3642,10.46,10.46
+"JACQW","Collabrium Japan ",0.15,N/A,0.00,0.20,0.25
+"JAKK","JAKKS Pacific, In",6.80,-0.2972,7.0972,6.70,6.895
+"JASN","Jason Industries,",7.83,-1.0139,8.8539,7.75,7.90
+"JASNW","Jason Industries,",1.00,N/A,0.00,1.10,1.10
+"JASO","JA Solar Holdings",9.25,+1.0717,8.1783,9.12,9.40
+"JAXB","Jacksonville Banc",12.00,+1.0958,11.1442,N/A,N/A
+"JAZZ","Jazz Pharmaceutic",169.66,+6.868,162.932,169.80,173.38
+"JBHT","J.B. Hunt Transpo",81.49,+3.9369,77.5531,80.92,81.70
+"JBLU","JetBlue Airways C",13.26,+1.6979,11.5622,13.02,13.69
+"JBSS","John B. Sanfilipp",38.86,+3.2958,35.6042,38.64,39.68
+"JCOM","j2 Global, Inc.",55.94,+3.5792,52.3808,55.5594,56.77
+"JCS","Communications Sy",11.09,-0.0308,11.3708,11.031,11.34
+"JCTCF","Jewett-Cameron Tr",10.37,+0.5931,10.0069,N/A,N/A
+"JD","JD.com, Inc.",23.99,-1.1069,25.1019,23.80,25.26
+"JDSU","JDS Uniphase Corp",13.41,+0.6761,12.7339,13.365,13.67
+"JGBB","WisdomTree Japan ",50.19,+0.9594,49.6406,50.60,50.60
+"JIVE","Jive Software, In",6.06,+0.0119,6.0481,6.05,6.24
+"JJSF","J & J Snack Foods",104.29,+5.2744,99.0256,103.44,105.07
+"JKHY","Jack Henry & Asso",61.14,+3.3272,57.8128,60.784,61.454
+"JMBA","Jamba, Inc.",12.47,-0.3456,12.8356,12.47,12.81
+"JOBS","51job, Inc.",35.14,+3.3981,31.7919,35.08,35.88
+"JOEZ","Joe's Jeans Inc.",0.6701,-0.2506,0.9206,0.6606,0.69
+"JOUT","Johnson Outdoors ",30.79,+2.2444,28.8556,30.493,31.65
+"JRJC","China Finance Onl",7.10,+1.3025,5.7975,7.06,7.77
+"JSM","SLM Corporation",21.75,+0.2319,21.5881,21.72,21.959
+"JST","Jinpan Internatio",7.43,-0.2172,7.6764,7.41,7.50
+"JTPY","JetPay Corporatio",1.95,+0.1508,1.7992,1.81,2.00
+"JVA","Coffee Holding Co",5.44,-0.1539,5.6139,5.41,5.54
+"JXSB","Jacksonville Banc",21.75,-0.4592,22.4592,22.00,22.00
+"JYNT","The Joint Corp.",6.50,-0.1449,6.645,6.50,6.682
+"KALU","Kaiser Aluminum C",72.95,+0.9125,72.0675,72.62,74.5212
+"KANG","iKang Healthcare ",18.72,+0.1517,18.6133,18.45,19.165
+"KBAL","Kimball Internati",9.70,-2.1259,11.8309,9.64,10.06
+"KBIO","KaloBios Pharmace",1.92,+0.1405,1.7894,1.90,1.95
+"KBSF","KBS Fashion Group",4.40,-1.135,7.235,N/A,N/A
+"KCAP","KCAP Financial, I",7.63,-0.0553,7.6853,7.61,7.72
+"KCLI","Kansas City Life ",48.17,+1.0086,47.4814,48.49,48.97
+"KE","Kimball Electroni",10.73,+0.7914,9.9486,10.51,10.91
+"KELYA","Kelly Services, I",15.83,-0.3125,16.1525,15.75,16.12
+"KELYB","Kelly Services, I",15.73,+0.2308,14.9392,N/A,N/A
+"KEQU","Kewaunee Scientif",17.27,-0.1584,17.5144,17.31,17.60
+"KERX","Keryx Biopharmace",15.76,-0.1714,15.9414,15.7001,16.15
+"KEYW","The KEYW Holding ",10.67,+0.2408,10.4492,10.6101,11.00
+"KFFB","Kentucky First Fe",8.10,+0.3439,8.1561,8.50,8.50
+"KFRC","Kforce, Inc.",23.00,+1.3806,21.6494,22.692,23.41
+"KFX","Kofax Limited",6.71,+0.2858,6.4242,6.59,6.74
+"KGJI","Kingold Jewelry I",1.09,-0.1097,1.2081,1.09,1.12
+"KIN","Kindred Bioscienc",9.71,+0.6039,9.1361,9.1904,9.76
+"KINS","Kingstone Compani",8.51,+0.5075,8.0525,8.50,8.60
+"KIRK","Kirkland's, Inc.",21.95,+4.5911,17.3739,21.87,22.98
+"KITE","Kite Pharma, Inc.",44.68,+7.8181,36.8819,43.04,44.80
+"KLAC","KLA-Tencor Corpor",81.22,+5.5922,75.6378,80.545,81.78
+"KLIC","Kulicke and Soffa",13.98,+0.345,13.645,13.91,14.099
+"KMDA","Kamada Ltd.",3.29,-0.7333,4.0333,3.28,3.35
+"KNDI","Kandi Technologie",14.00,-0.3623,14.3822,13.90,14.67
+"KONA","Kona Grill, Inc.",24.86,+4.2931,20.6569,24.875,25.78
+"KONE","Kingtone Wireless",2.62,+0.038,2.8319,N/A,N/A
+"KOOL","Cesca Therapeutic",1.15,+0.0228,1.1272,1.15,1.20
+"KOPN","Kopin Corporation",3.61,+0.1683,3.4517,3.45,3.69
+"KOSS","Koss Corporation",1.70,+0.1189,1.6211,1.65,1.79
+"KPTI","Karyopharm Therap",41.06,+4.1592,37.0308,40.72,42.70
+"KRFT","Kraft Foods Group",59.19,+2.4494,56.7506,59.00,59.64
+"KRNY","Kearny Financial",14.25,+0.4581,13.8519,14.27,14.46
+"KTCC","Key Tronic Corpor",8.30,-0.5508,8.8792,8.20,8.436
+"KTEC","Key Technology, I",12.70,-0.3231,13.1031,12.70,13.00
+"KTOS","Kratos Defense & ",5.06,-1.0986,6.1686,4.91,5.10
+"KTWO","K2M Group Holding",17.89,+2.4406,15.5044,17.50,18.20
+"KUTV","Ku6 Media Co., Lt",1.15,0.00,1.16,1.15,1.1978
+"KVHI","KVH Industries, I",12.03,-0.1439,12.2519,12.04,12.41
+"KWEB","KraneShares CSI C",36.81,+1.4422,35.4778,36.86,37.28
+"KYTH","Kythera Biopharma",35.84,+1.8047,34.0553,34.68,36.13
+"KZ","KongZhong Corpora",6.73,+0.4047,6.3353,6.43,6.81
+"LABC","Louisiana Bancorp",20.05,+0.0567,20.5933,N/A,N/A
+"LABL","Multi-Color Corpo",54.73,+5.8183,49.0217,54.36,55.42
+"LACO","Lakes Entertainme",6.68,-1.1533,7.9033,6.6001,6.88
+"LAKE","Lakeland Industri",10.20,-3.7508,13.9608,10.19,10.72
+"LALT","PowerShares Activ",24.64,+0.0909,24.5627,24.64,24.67
+"LAMR","Lamar Advertising",53.51,+3.2828,50.2372,53.05,54.00
+"LANC","Lancaster Colony ",92.34,+3.8678,88.5622,91.84,93.3275
+"LAND","Gladstone Land Co",10.53,-0.8736,11.4136,10.52,10.776
+"LARK","Landmark Bancorp ",21.25,-2.3003,23.6003,20.75,22.20
+"LAWS","Lawson Products, ",22.50,+0.2561,22.3919,22.44,22.98
+"LAYN","Layne Christensen",7.64,-0.1731,7.8131,7.46,7.82
+"LBAI","Lakeland Bancorp,",11.06,+0.4606,10.6394,11.02,11.16
+"LBIX","Leading Brands In",4.03,+0.0362,4.0069,4.0431,4.07
+"LBRDA","Liberty Broadband",51.60,+2.9115,48.7085,50.81,52.11
+"LBRDK","Liberty Broadband",51.53,+2.9633,48.6267,51.10,52.02
+"LBTYA","Liberty Global pl",46.90,+2.4964,44.4036,46.19,47.15
+"LBTYB","Liberty Global pl",47.00,+4.5603,42.4397,N/A,N/A
+"LBTYK","Liberty Global pl",45.46,+2.2039,43.2561,44.96,45.81
+"LCNB","LCNB Corporation",14.55,-0.2336,14.7836,14.55,14.93
+"LCUT","Lifetime Brands, ",15.11,-0.8914,16.0514,15.00,16.00
+"LDRH","LDR Holding Corpo",33.25,+0.0136,33.2114,32.54,33.72
+"LDRI","PowerShares Ladde",24.94,-0.0387,25.1287,N/A,N/A
+"LE","Lands' End, Inc.",47.60,+2.7572,44.9228,47.05,49.14
+"LECO","Lincoln Electric ",74.73,+5.3319,69.4381,74.48,75.485
+"LEDS","SemiLEDS Corporat",0.4701,+0.0159,0.4631,0.44,0.483
+"LEVY","Levy Acquisition ",9.67,+0.0106,9.7394,N/A,N/A
+"LEVYU","Levy Acquisition ",9.87,-0.0997,9.9697,9.87,10.00
+"LEVYW","Levy Acquisition ",0.35,N/A,0.00,N/A,N/A
+"LFUS","Littelfuse, Inc.",96.01,+6.1097,89.9003,95.58,96.83
+"LFVN","Lifevantage Corpo",1.36,-0.0294,1.3894,1.32,1.38
+"LGCY","Legacy Reserves L",20.73,-1.4058,22.1458,20.67,21.50
+"LGCYO","Legacy Reserves L",22.12,-1.0821,23.2021,21.95,22.388
+"LGCYP","Legacy Reserves L",22.25,-1.4513,23.6013,22.15,22.699
+"LGIH","LGI Homes, Inc.",16.22,-2.1589,18.3939,16.0818,16.57
+"LGND","Ligand Pharmaceut",52.96,+1.4697,51.5453,52.61,54.50
+"LHCG","LHC Group",23.80,+0.2806,23.6194,23.54,24.07
+"LIME","Lime Energy Co.",3.16,+0.2331,2.9269,3.12,3.25
+"LINC","Lincoln Education",3.29,+0.3422,2.9878,3.27,3.39
+"LINE","Linn Energy, LLC",23.23,-1.4392,24.6792,23.2299,24.23
+"LION","Fidelity Southern",15.29,+0.4978,14.7922,15.29,15.64
+"LIOX","Lionbridge Techno",5.11,+0.4331,4.6869,5.09,5.39
+"LIQD","Liquid Holdings G",1.04,+0.0861,0.9639,1.01,1.07
+"LIVE","LiveDeal, Inc.",3.15,+0.2208,2.9392,3.09,3.38
+"LJPC","La Jolla Pharmace",11.19,+0.8975,10.3225,11.04,11.45
+"LKFN","Lakeland Financia",40.00,+0.3142,39.6658,39.98,40.9636
+"LKQ","LKQ Corporation",28.75,+1.1536,27.5964,28.705,29.1675
+"LLEX","Lilis Energy, Inc",1.27,-0.3222,1.6122,1.2501,1.33
+"LLNW","Limelight Network",2.72,+0.3317,2.3883,2.65,2.99
+"LLTC","Linear Technology",43.97,+2.18,41.80,43.53,44.31
+"LMAT","LeMaitre Vascular",7.01,+0.0448,7.0142,7.01,7.07
+"LMBS","First Trust Low D",50.59,+0.028,50.25,N/A,N/A
+"LMCA","Liberty Media Cor",35.59,+0.5622,35.0278,35.58,36.39
+"LMCB","Liberty Media Cor",36.59,-8.7533,45.9533,N/A,N/A
+"LMCK","Liberty Media Cor",35.42,+0.7561,34.6539,35.38,36.64
+"LMIA","LMI Aerospace, In",13.90,+0.9811,12.9689,13.90,14.14
+"LMNR","Limoneira Co",25.28,+0.5284,24.7694,25.2978,26.00
+"LMNS","Lumenis Ltd.",10.39,+1.1244,9.2756,10.38,10.50
+"LMNX","Luminex Corporati",18.16,-1.2231,19.3831,18.077,18.57
+"LMOS","Lumos Networks Co",16.19,+0.0072,16.1928,15.82,16.49
+"LMRK","Landmark Infrastr",19.00,-0.085,19.085,18.65,19.10
+"LNBB","LNB Bancorp, Inc.",16.01,+1.6275,14.4725,15.90,16.15
+"LNCE","Snyder's-Lance, I",29.82,+1.5861,28.2539,29.65,30.03
+"LNCO","Linn Co, LLC",21.46,-1.6603,23.1303,21.32,22.15
+"LNDC","Landec Corporatio",13.32,+0.9614,12.3586,13.2301,13.64
+"LOAN","Manhattan Bridge ",2.93,+0.1339,2.8161,2.92,2.99
+"LOCM","Local Corporation",1.46,-0.2892,1.7692,1.45,1.50
+"LOCO","El Pollo Loco Hol",28.10,-6.8558,34.9608,28.05,29.43
+"LOGI","Logitech Internat",14.44,+1.1806,13.2594,14.395,14.54
+"LOGM","LogMein, Inc.",48.99,+2.4314,46.5586,48.97,51.25
+"LOJN","LoJack Corporatio",2.77,-0.4931,3.2631,2.60,2.84
+"LONG","eLong, Inc.",17.85,-0.7686,18.9386,17.9001,18.30
+"LOOK","LookSmart, Ltd.",1.20,-0.1257,1.3356,1.20,1.23
+"LOPE","Grand Canyon Educ",46.64,+3.1372,43.5328,46.48,47.80
+"LORL","Loral Space and C",73.15,+0.6486,72.5714,73.13,75.20
+"LOXO","Loxo Oncology, In",10.41,-1.1933,11.6033,10.37,10.99
+"LPCN","Lipocine Inc.",5.48,+0.6916,4.7994,5.09,5.499
+"LPDX","LipoScience, Inc.",N/A,+0.0261,5.2139,N/A,N/A
+"LPHI","Life Partners Hol",1.18,-0.5317,1.7117,1.14,1.20
+"LPLA","LPL Financial Hol",41.82,-0.6597,42.4747,41.66,42.69
+"LPNT","LifePoint Hospita",68.42,+0.3453,68.0847,68.15,69.46
+"LPSB","LaPorte Bancorp, ",11.50,+0.0489,11.5511,11.55,11.60
+"LPSN","LivePerson, Inc.",12.85,-0.9222,13.7722,12.77,13.50
+"LPTH","LightPath Technol",1.20,-0.1599,1.3619,1.20,1.2032
+"LPTN","Lpath, Inc.",2.55,-0.4319,2.9819,2.55,2.6289
+"LQDT","Liquidity Service",10.34,-1.9289,12.2789,10.19,10.821
+"LRAD","LRAD Corporation",2.87,+0.1147,2.7853,2.85,3.25
+"LRCX","Lam Research Corp",78.74,+3.6089,75.1411,78.35,79.68
+"LSBK","Lake Shore Bancor",13.00,+0.2481,12.7519,N/A,N/A
+"LSCC","Lattice Semicondu",6.64,+0.1153,6.5247,6.57,6.75
+"LSTR","Landstar System, ",77.67,+4.0839,73.5861,76.74,77.95
+"LTBR","Lightbridge Corpo",2.09,-0.189,2.3291,2.01,2.15
+"LTRE","Learning Tree Int",2.25,-0.1047,2.3747,N/A,N/A
+"LTRPA","Liberty TripAdvis",25.41,-3.3203,28.7403,25.24,25.81
+"LTRPB","Liberty TripAdvis",26.41,-5.5248,32.1879,N/A,N/A
+"LTRX","Lantronix, Inc.",1.90,+0.0336,1.8664,1.90,1.9499
+"LULU","lululemon athleti",46.88,+4.813,42.077,45.94,47.15
+"LUNA","Luna Innovations ",1.44,+0.0853,1.3547,1.3984,1.4499
+"LVNTA","Liberty Interacti",35.60,+2.2289,33.4011,35.60,36.58
+"LVNTB","Liberty Interacti",35.53,-0.8672,36.4272,N/A,N/A
+"LWAY","Lifeway Foods, In",18.01,+2.3914,15.6586,17.40,18.05
+"LXRX","Lexicon Pharmaceu",0.9325,-0.3868,1.3194,0.90,0.9601
+"LYTS","LSI Industries In",6.90,+0.2908,6.6492,6.79,6.97
+"MACK","Merrimack Pharmac",9.00,+0.35,8.65,8.95,9.26
+"MAG","Magnetek, Inc.",38.71,+7.395,31.315,38.00,39.94
+"MAGS","Magal Security Sy",5.05,+0.7241,4.3169,4.94,5.43
+"MAMS","MAM Software Grou",5.55,+0.2636,5.2945,5.45,5.60
+"MANH","Manhattan Associa",38.13,+1.3203,36.8097,37.958,39.25
+"MANT","ManTech Internati",29.52,+1.3242,28.2258,29.35,29.97
+"MAR","Marriott Internat",76.12,+5.1353,70.9947,75.91,77.0499
+"MARA","Marathon Patent G",14.17,+0.8759,13.2842,13.81,14.319
+"MARK","Remark Media, Inc",4.88,-0.0692,4.9992,4.90,5.08
+"MARPS","Marine Petroleum ",14.15,-1.0136,15.1236,14.0001,14.70
+"MASI","Masimo Corporatio",25.95,+2.1642,23.7858,25.84,26.42
+"MAT","Mattel, Inc.",31.44,+0.6271,30.8228,31.06,31.91
+"MATR","Mattersight Corpo",6.44,+0.6928,5.7572,6.24,6.62
+"MATW","Matthews Internat",46.82,+2.3142,44.6058,46.51,47.53
+"MAYS","J. W. Mays, Inc.",45.00,-2.5711,50.5711,N/A,N/A
+"MBCN","Middlefield Banc ",33.25,+0.4608,33.2892,33.70,33.75
+"MBFI","MB Financial Inc.",30.96,+1.4789,29.4911,30.74,31.60
+"MBFIP","MB Financial Inc.",27.35,N/A,0.00,27.35,27.5204
+"MBII","Marrone Bio Innov",2.58,-0.0014,2.6014,2.42,2.69
+"MBLX","Metabolix, Inc.",0.525,-0.1594,0.6994,0.51,0.54
+"MBRG","Middleburg Financ",17.91,+0.2333,17.8167,17.90,18.05
+"MBSD","FlexShares Discip",25.14,+0.0581,25.1518,25.1301,25.2099
+"MBTF","M B T Financial C",4.91,+0.0743,4.8753,4.90,4.97
+"MBUU","Malibu Boats, Inc",18.53,+0.7058,17.8442,18.09,18.84
+"MBVT","Merchants Bancsha",28.39,-1.0786,29.4886,28.33,28.88
+"MBWM","Mercantile Bank C",18.91,-0.5078,19.5978,18.96,19.41
+"MCBC","Macatawa Bank Cor",5.08,+0.0203,5.0797,5.08,5.14
+"MCBK","Madison County Fi",19.45,+0.3334,19.1167,19.45,19.50
+"MCEP","Mid-Con Energy Pa",15.52,-2.4507,17.9617,15.51,16.32
+"MCGC","MCG Capital Corpo",3.69,+0.2053,3.4847,3.67,3.70
+"MCHP","Microchip Technol",43.61,+1.2581,42.3519,43.28,43.99
+"MCHX","Marchex, Inc.",3.57,-0.2347,3.8147,3.54,3.74
+"MCOX","Mecox Lane Limite",3.31,-0.3003,3.6519,3.23,3.50
+"MCRI","Monarch Casino & ",16.78,+2.4125,14.3475,16.76,17.33
+"MCRL","Micrel, Incorpora",12.73,+0.8472,11.8828,12.59,12.80
+"MCUR","Macrocure Ltd.",7.43,+0.1077,7.4423,7.45,7.67
+"MDAS","MedAssets, Inc.",19.28,-1.8256,21.1256,19.24,19.69
+"MDCA","MDC Partners Inc.",20.73,+0.7336,20.0064,20.46,20.92
+"MDCO","The Medicines Com",25.67,+2.2319,23.4481,25.55,26.74
+"MDIV","First Trust Excha",21.85,+0.2638,21.6061,21.81,21.99
+"MDLZ","Mondelez Internat",38.98,+3.6103,35.3697,38.92,39.41
+"MDRX","Allscripts Health",12.36,-0.6967,13.0517,12.145,12.48
+"MDSO","Medidata Solution",42.00,-0.1997,42.2197,41.52,42.96
+"MDVN","Medivation, Inc.",108.54,+7.337,101.214,108.44,112.85
+"MDWD","MediWound Ltd.",5.32,-0.3533,5.6933,5.20,5.70
+"MDXG","MiMedx Group, Inc",10.52,+1.4631,9.0669,10.36,10.74
+"MEET","MeetMe, Inc.",1.76,-0.0733,1.8333,1.72,1.79
+"MEIL","Methes Energies I",1.08,+0.0241,1.0811,1.07,1.15
+"MEILW","Methes Energies I",0.0526,-0.0193,0.1193,N/A,N/A
+"MEILZ","Methes Energies I",0.095,+0.0075,0.1025,0.09,0.11
+"MEIP","MEI Pharma, Inc.",6.72,-0.8794,7.6194,6.67,6.85
+"MELA","MELA Sciences, In",1.66,-0.1333,1.8033,1.65,1.70
+"MELI","MercadoLibre, Inc",138.88,+18.245,120.655,135.48,139.32
+"MELR","Melrose Bancorp, ",13.11,+0.0177,13.1323,13.08,13.17
+"MEMP","Memorial Producti",16.12,-3.1689,19.2939,16.06,17.00
+"MENT","Mentor Graphics C",21.99,+1.5047,20.4953,21.66,22.25
+"MEOH","Methanex Corporat",58.76,+0.4017,58.3783,58.54,60.62
+"MERC","Mercer Internatio",13.71,+2.0161,11.6939,13.59,14.08
+"MERU","Meru Networks, In",3.76,-0.0597,3.8247,3.739,3.79
+"METR","Metro Bancorp, In",24.49,+0.4819,23.9981,24.16,25.05
+"MFI","MicroFinancial In",8.40,+0.0269,8.3731,8.34,8.50
+"MFLX","Multi-Fineline El",10.07,+0.3822,9.7278,10.02,10.30
+"MFNC","Mackinac Financia",10.75,-0.0756,10.8456,N/A,N/A
+"MFRI","MFRI, Inc.",8.56,-0.2547,8.8505,8.55,8.72
+"MFRM","Mattress Firm Hol",68.90,+6.6139,62.3461,68.731,71.10
+"MFSF","MutualFirst Finan",21.02,-0.6119,21.7119,21.011,21.60
+"MGAM","Multimedia Games ",35.79,+1.0678,34.7222,35.77,36.04
+"MGCD","MGC Diagnostics C",6.85,+0.3786,6.6714,6.87,7.10
+"MGEE","MGE Energy Inc.",44.26,+2.0214,42.2486,44.01,44.71
+"MGI","Moneygram Interna",8.80,-2.0289,10.8289,8.63,8.8553
+"MGIC","Magic Software En",7.15,+0.3011,6.8489,7.01,7.21
+"MGLN","Magellan Health, ",61.08,+3.2139,57.9361,60.55,61.42
+"MGNX","MacroGenics, Inc.",27.36,+6.7397,20.6603,26.28,27.72
+"MGPI","MGP Ingredients, ",13.04,+0.4933,12.5167,12.67,13.32
+"MGRC","McGrath RentCorp",35.72,-0.0464,35.8164,35.38,35.97
+"MGYR","Magyar Bancorp, I",8.50,-0.0553,8.5553,8.27,8.50
+"MHGC","Morgans Hotel Gro",8.07,+0.2367,7.8333,8.02,8.2425
+"MHLD","Maiden Holdings, ",12.72,+0.7731,11.9519,12.65,12.87
+"MHLDO","Maiden Holdings, ",48.84,+2.2089,46.7311,48.92,49.10
+"MICT","Micronet Enertec ",3.68,+0.1649,3.5551,3.69,3.85
+"MICTW","Micronet Enertec ",0.58,+0.1896,0.56,0.7496,0.7496
+"MIDD","The Middleby Corp",93.10,+5.2005,87.9325,92.92,94.82
+"MIFI","Novatel Wireless,",3.09,+0.0053,3.0947,3.07,3.24
+"MIK","The Michaels Comp",22.84,+4.2544,18.5956,22.01,22.855
+"MIND","Mitcham Industrie",9.08,-0.9739,10.0739,8.88,9.236
+"MINI","Mobile Mini, Inc.",43.39,+2.7483,40.7417,42.72,44.69
+"MITK","Mitek Systems, In",3.76,+1.0147,2.7506,3.70,3.99
+"MITL","Mitel Networks Co",9.96,+0.9492,9.0208,9.88,10.11
+"MKSI","MKS Instruments, ",35.77,+1.1328,34.6472,35.74,36.45
+"MKTO","Marketo, Inc.",31.64,+0.3197,31.3303,31.55,32.78
+"MKTX","MarketAxess Holdi",62.95,-0.7703,63.7603,62.86,64.9999
+"MLAB","Mesa Laboratories",74.26,+2.2278,71.7222,73.35,76.3981
+"MLHR","Herman Miller, In",30.98,+0.3678,30.6122,30.88,31.47
+"MLNK","ModusLink Global ",3.36,+0.0297,3.3403,3.32,3.5204
+"MLNX","Mellanox Technolo",42.49,-0.9103,43.4103,41.83,42.78
+"MLVF","Malvern Bancorp, ",11.35,+0.1525,11.2275,11.3799,11.38
+"MMAC","MMA Capital Manag",9.75,+1.097,8.695,9.65,9.792
+"MMLP","Martin Midstream ",35.60,+0.3997,35.2303,35.62,37.18
+"MMSI","Merit Medical Sys",14.83,+0.9942,13.8558,14.67,14.99
+"MMYT","MakeMyTrip Limite",28.41,+1.3778,27.0922,28.32,29.25
+"MNDL","Mandalay Digital ",3.18,-0.6178,3.7978,3.01,3.24
+"MNDO","MIND C.T.I. Ltd.",3.58,+0.5631,3.0269,3.5101,3.64
+"MNGA","MagneGas Corporat",0.8506,-0.1698,1.0203,0.818,0.865
+"MNKD","MannKind Corporat",6.16,+0.4626,5.7061,6.06,6.32
+"MNOV","MediciNova, Inc.",3.05,-0.4428,3.5028,3.05,3.18
+"MNRK","Monarch Financial",13.30,+0.6608,12.6492,13.28,13.92
+"MNRO","Monro Muffler Bra",54.48,+3.3108,51.2192,52.21,54.715
+"MNST","Monster Beverage ",108.91,+9.3181,99.6019,108.67,111.51
+"MNTA","Momenta Pharmaceu",11.43,+0.3725,11.0575,11.32,11.58
+"MNTX","Manitex Internati",11.71,+0.7914,10.9186,11.60,11.96
+"MOBI","Sky-mobi Limited",5.58,-1.3903,6.9803,5.57,5.89
+"MOBL","MobileIron, Inc.",9.81,+0.1564,9.6536,9.70,9.845
+"MOCO","MOCON, Inc.",16.75,+1.4469,15.3031,16.51,16.96
+"MOFG","MidWestOne Financ",27.05,+1.9333,25.2667,25.94,27.23
+"MOKO","MOKO Social Media",4.25,-0.0808,5.1308,N/A,N/A
+"MOLG","MOL Global, Inc.",4.35,-3.5131,7.8631,4.29,6.50
+"MONT","Montage Technolog",N/A,+0.7289,21.8611,N/A,N/A
+"MORN","Morningstar, Inc.",67.06,+0.4056,66.6644,66.40,67.3975
+"MOSY","MoSys, Inc.",1.80,-0.4753,2.2953,1.75,1.85
+"MPAA","Motorcar Parts of",33.25,+5.2344,28.0836,33.16,34.50
+"MPB","Mid Penn Bancorp",15.53,+0.1964,15.3336,15.50,15.65
+"MPEL","Melco Crown Enter",26.14,+0.7312,25.4089,26.00,26.86
+"MPET","Magellan Petroleu",1.29,-0.3731,1.6631,1.27,1.3115
+"MPWR","Monolithic Power ",46.61,+4.5446,42.1053,46.19,47.00
+"MRCC","Monroe Capital Co",14.17,+0.3897,13.7803,14.06,14.25
+"MRCY","Mercury Systems I",13.13,+0.6825,12.4475,13.04,13.37
+"MRD","Memorial Resource",23.96,-0.5143,24.4775,23.83,24.48
+"MRGE","Merge Healthcare ",3.29,+0.67,2.62,3.265,3.36
+"MRKT","Markit Ltd.",25.70,+2.0314,23.7086,25.65,26.00
+"MRLN","Marlin Business S",18.53,-0.4586,19.0786,18.27,19.00
+"MRNS","Marinus Pharmaceu",6.82,+0.3966,6.6988,6.32,7.20
+"MRTN","Marten Transport,",21.66,+2.3285,19.3414,21.45,21.80
+"MRTX","Mirati Therapeuti",15.99,-1.0317,17.0417,15.90,16.22
+"MRVC","MRV Communication",9.45,-1.36,11.66,9.26,10.30
+"MRVL","Marvell Technolog",14.04,+1.0692,12.9708,13.6982,14.44
+"MSBF","MSB Financial Cor",10.00,+1.2642,8.7358,9.90,10.10
+"MSCC","Microsemi Corpora",26.68,+1.6836,24.9964,26.44,26.98
+"MSEX","Middlesex Water C",21.71,+0.3081,21.4019,21.6601,21.98
+"MSFG","MainSource Financ",17.50,-0.2444,17.7744,17.50,17.96
+"MSFT","Microsoft Corpora",47.83,+1.3103,46.5197,47.57,49.05
+"MSG","The Madison Squar",71.67,+2.8789,68.8011,71.64,73.30
+"MSLI","Merus Labs Intern",1.49,+0.0214,1.4686,1.48,1.52
+"MSON","MISONIX, Inc.",10.55,-0.9486,11.5786,10.60,11.00
+"MSTR","MicroStrategy Inc",165.47,+12.3853,153.055,164.61,170.00
+"MTBC","Medical Transcrip",3.21,-0.0966,3.3166,3.22,3.29
+"MTEX","Mannatech, Incorp",21.56,+4.6061,17.0939,21.0501,22.84
+"MTGE","American Capital ",19.75,+0.1317,19.6183,19.6843,19.94
+"MTGEP","American Capital ",24.98,+0.0794,24.9256,25.00,25.05
+"MTLS","Materialise NV",9.91,-0.4578,10.3678,9.91,10.41
+"MTRX","Matrix Service Co",23.56,+0.2472,23.3128,23.14,23.80
+"MTSC","MTS Systems Corpo",66.71,-0.3591,67.223,66.11,67.91
+"MTSI","M/A-COM Technolog",24.68,+3.0725,21.6675,24.17,25.519
+"MTSL","MER Telemanagemen",1.21,-0.133,1.3431,1.2101,1.2101
+"MTSN","Mattson Technolog",2.69,+0.2386,2.4614,2.68,2.7268
+"MU","Micron Technology",34.25,+2.5742,31.6808,33.5201,34.39
+"MULT","AdvisorShares Sun",23.94,+0.7017,23.7382,24.4399,24.4399
+"MVIS","Microvision, Inc.",1.78,-0.0019,1.7819,1.72,1.801
+"MWIV","MWI Veterinary Su",158.71,+4.288,154.642,158.09,161.64
+"MWRX","MergeWorthRx Corp",8.28,+0.0083,8.3017,8.22,8.31
+"MXIM","Maxim Integrated ",28.91,+0.4775,28.4325,28.80,29.38
+"MXWL","Maxwell Technolog",10.64,+0.7217,9.9183,10.525,11.07
+"MYGN","Myriad Genetics, ",32.29,-3.7974,36.1144,31.985,32.52
+"MYL","Mylan Inc.",55.63,+3.9037,51.7264,55.52,56.16
+"MYOS","MYOS Corporation",8.65,-2.2806,11.0306,8.75,8.932
+"MYRG","MYR Group, Inc.",26.66,+1.5797,25.1053,26.4801,27.22
+"MZOR","Mazor Robotics Lt",10.10,-1.1936,11.3136,10.12,10.23
+"NAII","Natural Alternati",5.63,-0.3831,6.0431,5.59,5.85
+"NAME","Rightside Group, ",8.30,-1.2403,9.5403,8.30,8.73
+"NANO","Nanometrics Incor",14.06,-0.1553,14.2153,13.80,14.34
+"NATH","Nathan's Famous, ",69.89,-0.1575,70.0475,69.88,71.79
+"NATI","National Instrume",32.27,+1.7211,30.5589,31.68,32.28
+"NATL","National Intersta",28.86,+0.8561,28.0439,28.75,29.13
+"NATR","Nature's Sunshine",15.20,+0.5139,14.6861,14.86,15.29
+"NAUH","National American",3.01,-0.0578,3.0678,3.01,3.0487
+"NAVG","The Navigators Gr",72.15,+5.6822,66.4678,71.0501,72.20
+"NAVI","Navient Corporati",21.12,+2.1157,19.0043,20.83,21.22
+"NBBC","NewBridge Bancorp",8.31,+0.0903,8.2297,8.28,8.46
+"NBCB","First NBC Bank Ho",36.78,+1.8022,34.9978,36.61,37.54
+"NBIX","Neurocrine Biosci",19.04,+1.5632,17.5067,18.63,19.27
+"NBN","Northeast Bancorp",9.05,+0.0931,8.9669,9.05,9.118
+"NBS","Neostem, Inc.",4.04,-1.1494,5.1995,3.56,4.55
+"NBTB","NBT Bancorp Inc.",24.56,+0.2808,24.2892,24.38,25.17
+"NBTF","NB&T FINANCIAL GR",30.23,-0.3228,30.4728,29.84,30.46
+"NCIT","NCI, Inc.",11.52,+1.5775,10.0025,11.40,11.82
+"NCLH","Norwegian Cruise ",41.85,+5.1514,36.7086,41.84,42.359
+"NCMI","National CineMedi",14.08,-0.5797,14.6697,13.96,14.35
+"NCTY","The9 Limited",2.10,-0.0144,2.1144,2.04,2.11
+"NDAQ","The NASDAQ OMX Gr",44.18,+1.8697,42.3203,43.3775,44.65
+"NDLS","Noodles & Company",23.36,+1.3817,21.9883,22.49,23.4199
+"NDRM","NeuroDerm Ltd.",8.25,-0.555,8.87,8.25,9.00
+"NDSN","Nordson Corporati",79.43,+5.0025,74.4325,77.82,79.93
+"NECB","Northeast Communi",6.85,+0.0797,6.9003,6.98,6.98
+"NEO","NeoGenomics, Inc.",4.36,-0.4842,4.8642,4.3385,4.54
+"NEOG","Neogen Corporatio",42.62,+0.3046,42.3372,42.05,43.17
+"NEON","Neonode Inc.",2.44,+0.3756,2.0744,2.31,2.50
+"NEPT","Neptune Technolog",2.02,+0.3368,1.6933,1.94,2.10
+"NERV","Minerva Neuroscie",4.30,-0.3194,4.6194,4.23,4.36
+"NETE","Net Element, Inc.",1.85,+0.3044,1.5653,1.74,2.14
+"NEWP","Newport Corporati",17.78,+0.1075,17.6825,17.60,18.10
+"NEWS","NewStar Financial",11.49,-1.0208,12.5108,11.47,11.72
+"NEWT","Newtek Business S",14.20,+0.5897,13.6103,14.07,14.53
+"NFBK","Northfield Bancor",13.94,+0.0283,13.9117,13.88,14.14
+"NFEC","NF Energy Saving ",2.09,-0.2756,2.3556,2.06,2.21
+"NFLX","Netflix, Inc.",359.86,-39.561,399.441,359.58,373.25
+"NGHC","National General ",18.52,+0.1121,18.4179,18.34,18.66
+"NGHCP","National General ",25.00,+0.5181,24.6319,24.92,25.22
+"NHTB","New Hampshire Thr",15.30,-0.2619,15.5619,15.30,15.45
+"NICE","NICE-Systems Limi",46.75,+4.6922,42.0478,46.635,50.09
+"NICK","Nicholas Financia",12.52,+0.6389,11.9011,12.48,12.68
+"NILE","Blue Nile, Inc.",34.89,+2.9606,31.9894,34.58,36.06
+"NKSH","National Bankshar",30.08,+0.4608,29.6192,30.03,30.55
+"NKTR","Nektar Therapeuti",14.69,+1.4072,13.2828,14.20,14.82
+"NLNK","NewLink Genetics ",35.34,+5.2144,30.2056,33.01,35.83
+"NLST","Netlist, Inc.",0.8001,-0.0765,0.8864,0.75,0.8133
+"NMIH","NMI Holdings Inc",9.00,+0.1256,8.8744,8.99,9.13
+"NMRX","Numerex Corp.",10.73,-0.9341,11.6861,10.65,10.95
+"NNBR","NN, Inc.",20.29,-2.4094,22.6994,20.0668,20.91
+"NPBC","National Penn Ban",10.30,+0.3653,9.9347,10.25,10.43
+"NPSP","NPS Pharmaceutica",31.95,+4.9389,27.0161,31.29,32.15
+"NRCIA","National Research",14.28,-0.8244,15.1744,13.81,14.68
+"NRCIB","National Research",33.45,-0.3878,33.8378,33.35,35.05
+"NRIM","Northrim BanCorp ",27.47,-0.3083,28.0483,27.74,27.88
+"NRX","NephroGenex, Inc.",4.05,-0.2733,4.3283,4.03,4.239
+"NSEC","National Security",14.00,+0.2258,13.7742,14.00,14.00
+"NSIG","NeuroSigma, Inc.",N/A,N/A,0.00,N/A,N/A
+"NSIT","Insight Enterpris",23.90,+0.46,23.44,23.85,24.84
+"NSPH","Nanosphere, Inc.",0.4102,-0.1265,0.5367,0.41,0.4289
+"NSSC","NAPCO Security Te",4.46,+0.0997,4.3703,4.41,4.51
+"NSTG","NanoString Techno",13.76,+3.1327,10.6872,13.20,13.90
+"NSYS","Nortech Systems I",6.31,+0.7442,5.7258,6.47,6.47
+"NTAP","NetApp, Inc.",42.33,+1.365,40.975,42.28,42.60
+"NTCT","NetScout Systems,",38.26,+0.3725,37.8975,37.92,38.62
+"NTES","NetEase, Inc.",104.93,+13.3192,91.6108,103.7005,106.30
+"NTGR","NETGEAR, Inc.",34.50,+1.7053,32.7947,34.21,34.83
+"NTIC","Northern Technolo",21.01,+2.0343,19.4556,20.9899,21.4899
+"NTK","Nortek Inc.",79.92,+1.5528,78.3772,79.50,80.49
+"NTLS","NTELOS Holdings C",8.96,-0.8071,9.7672,8.80,9.03
+"NTRI","NutriSystem Inc",18.68,+1.9436,16.7464,18.69,19.36
+"NTRS","Northern Trust Co",68.00,+2.2319,65.7781,67.71,69.15
+"NTRSP","Northern Trust Co",24.91,+0.1586,24.7614,24.88,24.92
+"NTWK","NetSol Technologi",3.95,+0.5756,3.3744,3.95,4.10
+"NUAN","Nuance Communicat",15.23,+0.2531,14.9819,15.165,15.55
+"NURO","NeuroMetrix, Inc.",1.70,+0.0228,1.6872,1.70,1.72
+"NUTR","Nutraceutical Int",21.68,-0.5228,22.2028,21.6601,22.16
+"NUVA","NuVasive, Inc.",43.47,+4.7425,38.7275,42.50,44.398
+"NVAX","Novavax, Inc.",5.11,+0.1556,4.9644,5.00,5.21
+"NVCN","Neovasc Inc.",6.18,+0.4492,5.7308,6.18,6.18
+"NVDA","NVIDIA Corporatio",20.47,+1.7042,18.7758,20.28,20.55
+"NVDQ","Novadaq Technolog",14.28,+0.8958,13.3942,14.04,14.76
+"NVEC","NVE Corporation",69.40,+0.7368,68.9231,69.27,70.87
+"NVEE","NV5 Holdings, Inc",12.28,+2.8445,9.4381,11.63,12.759
+"NVEEW","NV5 Holdings, Inc",5.10,N/A,0.00,5.00,5.10
+"NVFY","Nova Lifestyle, I",3.94,-0.257,4.1986,3.94,4.05
+"NVGN","Novogen Limited",1.82,-0.9572,2.77,1.78,1.94
+"NVMI","Nova Measuring In",10.39,+0.0997,10.3103,10.38,10.53
+"NVSL","Naugatuck Valley ",8.16,+0.3239,7.8761,8.10,8.20
+"NWBI","Northwest Bancsha",12.67,+0.1361,12.5389,12.61,12.93
+"NWBO","Northwest Biother",5.10,+0.1003,5.0097,4.91,5.35
+"NWBOW","Northwest Biother",2.80,+0.2795,2.8605,3.14,3.14
+"NWFL","Norwood Financial",28.65,+0.1162,28.5328,28.611,28.80
+"NWLI","National Western ",260.85,+5.593,254.667,259.24,267.10
+"NWPX","Northwest Pipe Co",33.53,+0.0483,33.5917,33.45,34.15
+"NWS","News Corporation",14.80,-0.1847,14.9847,14.80,14.99
+"NWSA","News Corporation",15.13,-0.1494,15.2844,15.075,15.36
+"NXPI","NXP Semiconductor",74.65,+7.4517,67.2283,73.81,75.84
+"NXST","Nexstar Broadcast",49.00,+6.4506,42.5494,47.25,49.76
+"NXTD","NXT-ID Inc.",2.11,-0.4872,2.5972,2.07,2.1501
+"NXTDW","NXT-ID Inc.",0.78,N/A,0.00,0.68,0.81
+"NXTM","NxStage Medical, ",17.43,+2.4522,15.0078,17.18,17.85
+"NYMT","New York Mortgage",7.77,+0.0267,7.7433,7.70,7.82
+"NYMTP","New York Mortgage",23.77,-0.2275,23.9975,23.70,23.84
+"NYMX","Nymox Pharmaceuti",0.6002,-2.7195,3.3283,0.58,0.6798
+"NYNY","Empire Resorts, I",7.27,+0.4367,6.8533,7.12,7.4275
+"OABC","OmniAmerican Banc",26.86,+0.0533,26.8767,26.86,27.25
+"OBAS","Optibase Ltd.",6.90,+0.1386,7.0614,N/A,N/A
+"OBCI","Ocean Bio-Chem, I",3.48,-0.4538,3.9339,3.47,3.5399
+"OCC","Optical Cable Cor",4.51,-0.0328,4.5428,4.51,4.55
+"OCFC","OceanFirst Financ",16.47,+0.2617,16.2683,16.16,16.67
+"OCLR","Oclaro, Inc.",1.75,+0.2306,1.5294,1.71,1.82
+"OCLS","Oculus Innovative",1.78,-0.0944,1.8844,1.74,1.845
+"OCRX","Ocera Therapeutic",5.80,+0.3403,5.4697,5.35,6.22
+"OCUL","Ocular Therapeuti",15.42,+0.5631,14.8769,15.31,15.90
+"ODFL","Old Dominion Frei",78.44,+6.9369,71.5131,78.16,79.165
+"ODP","Office Depot, Inc",6.86,+1.3106,5.5594,6.80,7.00
+"OFED","Oconee Federal Fi",18.90,+0.1823,18.7178,18.9001,18.9001
+"OFIX","Orthofix Internat",28.10,-0.9103,29.0203,27.93,28.50
+"OFLX","Omega Flex, Inc.",29.29,+5.7092,24.2008,29.91,30.72
+"OFS","OFS Capital Corpo",11.81,+0.0306,11.7794,11.79,11.99
+"OGXI","OncoGenex Pharmac",2.13,-0.1003,2.2303,2.07,2.15
+"OHAI","OHA Investment Co",6.31,-0.0625,6.3925,6.24,6.47
+"OHGI","One Horizon Group",2.41,-0.3333,2.8333,2.40,2.50
+"OHRP","Ohr Pharmaceutica",7.36,+0.1903,7.2097,7.34,7.58
+"OIIM","O2Micro Internati",1.99,-0.0742,2.0642,1.97,2.09
+"OKSB","Southwest Bancorp",17.21,+0.0167,17.2233,17.12,17.50
+"OLBK","Old Line Bancshar",15.63,+0.0358,15.5742,15.0601,15.815
+"OLED","Universal Display",28.17,-1.0228,29.2028,28.10,28.91
+"OMAB","Grupo Aeroportuar",39.25,+1.8258,37.4142,38.26,39.62
+"OMCL","Omnicell, Inc.",31.65,+2.0622,29.6178,31.50,32.15
+"OMED","OncoMed Pharmaceu",21.23,+1.2203,20.0997,21.08,22.00
+"OMER","Omeros Corporatio",20.07,+4.8803,15.2497,20.01,21.17
+"OMEX","Odyssey Marine Ex",1.17,+0.0924,1.0826,1.12,1.229
+"ONB","Old National Banc",14.50,+0.8492,13.6558,14.40,14.81
+"ONCY","Oncolytics Biotec",0.6951,+0.0815,0.6136,0.66,0.703
+"ONEQ","Fidelity Nasdaq C",185.09,+8.419,176.871,184.8906,187.44
+"ONFC","Oneida Financial ",12.93,-0.207,13.1814,12.9744,13.0499
+"ONNN","ON Semiconductor ",8.61,+0.5392,8.0708,8.47,8.62
+"ONTX","Onconova Therapeu",4.83,+0.3436,4.5064,4.72,4.92
+"ONTY","Oncothyreon Inc.",1.74,-0.06,1.81,1.67,1.76
+"ONVI","Onvia, Inc.",4.34,-0.0234,4.3444,4.321,4.5013
+"OPB","Opus Bank",26.96,-1.4082,28.4182,26.48,27.345
+"OPHC","OptimumBank Holdi",1.09,+0.0364,1.0836,1.07,1.15
+"OPHT","Ophthotech Corpor",40.90,+0.9969,39.9931,40.255,41.27
+"OPLK","Oplink Communicat",24.15,+5.5847,18.5753,24.14,24.19
+"OPOF","Old Point Financi",15.00,+0.0008,15.1592,15.16,15.16
+"OPTT","Ocean Power Techn",1.05,-0.0067,1.0667,1.042,1.11
+"OPXA","Opexa Therapeutic",0.82,-0.0858,0.9078,0.79,0.84
+"ORBC","ORBCOMM Inc.",6.39,+0.2086,6.1814,6.265,6.411
+"ORBK","Orbotech Ltd.",14.60,-0.5256,15.1256,14.50,14.79
+"OREX","Orexigen Therapeu",5.88,+1.5061,4.3739,5.77,6.04
+"ORIG","Ocean Rig UDW Inc",13.82,+0.3119,13.5181,13.35,13.84
+"ORIT","Oritani Financial",14.46,+0.1483,14.3117,14.39,14.70
+"ORLY","O'Reilly Automoti",179.03,+12.571,166.469,178.72,181.05
+"ORMP","Oramed Pharmaceut",6.41,-0.8584,7.2764,6.30,6.77
+"ORPN","Bio Blast Pharma ",4.52,-1.2803,5.7803,4.50,4.70
+"ORRF","Orrstown Financia",16.62,+0.3297,16.5303,16.71,16.87
+"OSBC","Old Second Bancor",4.71,-0.0244,4.7644,4.70,4.74
+"OSBCP","Old Second Bancor",9.99,-0.0267,10.0267,9.96,10.00
+"OSHC","Ocean Shore Holdi",13.93,-0.0511,14.0511,N/A,N/A
+"OSIR","Osiris Therapeuti",13.15,+0.0442,13.1158,13.00,13.29
+"OSIS","OSI Systems, Inc.",69.54,+3.4967,66.1433,69.31,70.35
+"OSM","SLM Corporation",24.70,+0.0525,24.6675,24.62,24.74
+"OSN","Ossen Innovation ",0.90,-0.0342,0.9342,0.88,0.9186
+"OSTK","Overstock.com, In",25.05,+4.433,20.6369,24.70,25.66
+"OSUR","OraSure Technolog",8.74,+0.2742,8.4658,8.61,8.90
+"OTEL","Otelco Inc.",5.15,+0.254,4.9172,5.06,5.25
+"OTEX","Open Text Corpora",57.46,+1.6875,55.7925,57.32,58.46
+"OTIC","Otonomy, Inc.",23.10,-0.2244,23.5544,22.22,23.87
+"OTIV","On Track Innovati",1.61,-0.6642,2.2742,1.60,1.6899
+"OTTR","Otter Tail Corpor",29.26,-0.0114,29.2714,29.00,29.83
+"OUTR","Outerwall Inc.",63.75,+5.2511,58.5089,63.39,64.84
+"OVAS","OvaScience Inc.",24.47,+5.6564,18.8136,24.15,24.85
+"OVBC","Ohio Valley Banc ",23.71,+0.7722,23.4178,24.1482,24.19
+"OVLY","Oak Valley Bancor",10.10,+0.0148,10.0853,10.10,10.1011
+"OVRL","Overland Storage,",3.75,+0.6064,3.1436,3.48,3.9595
+"OVTI","OmniVision Techno",27.11,+0.8108,26.3192,26.9135,27.62
+"OXBR","Oxbridge Re Holdi",6.75,-0.3138,7.0643,6.7505,6.98
+"OXBRW","Oxbridge Re Holdi",1.95,N/A,0.00,1.95,2.30
+"OXFD","Oxford Immunotec ",12.20,-2.4275,14.7175,12.11,12.60
+"OXGN","OXiGENE, Inc.",1.77,-0.3046,2.0811,1.75,1.83
+"OXLC","Oxford Lane Capit",16.39,+0.6631,15.7469,16.3201,16.50
+"OXLCN","Oxford Lane Capit",24.89,-0.3692,25.2592,24.80,24.96
+"OXLCO","Oxford Lane Capit",24.20,-0.0973,24.2983,24.201,24.281
+"OXLCP","Oxford Lane Capit",25.25,-0.3107,25.5647,25.14,25.3299
+"OZRK","Bank of the Ozark",35.49,+1.7619,33.7281,35.31,36.54
+"PAAS","Pan American Silv",10.48,+0.3094,10.1806,10.40,10.92
+"PACB","Pacific Bioscienc",6.89,+0.9381,5.9519,6.81,7.005
+"PACW","PacWest Bancorp",45.71,+3.3978,42.3122,45.59,46.24
+"PAGG","PowerShares Globa",30.37,+1.6785,28.6825,30.3298,30.49
+"PAHC","Phibro Animal Hea",30.86,+5.1774,25.6626,30.364,32.15
+"PANL","Pangaea Logistics",4.85,-1.4053,6.3253,4.829,5.00
+"PARN","Parnell Pharmaceu",4.30,-0.3651,4.8551,4.12,4.70
+"PATK","Patrick Industrie",43.64,+1.5075,42.2525,43.12,45.3865
+"PATR","Patriot Transport",37.08,-0.7933,37.8933,35.96,37.40
+"PAYX","Paychex, Inc.",47.35,+1.7425,45.6125,47.215,47.5999
+"PBCP","Polonia Bancorp, ",10.00,-0.0067,10.2067,10.15,10.20
+"PBCT","People's United F",14.78,+0.3286,14.4514,14.71,14.96
+"PBHC","Pathfinder Bancor",9.67,-0.0554,9.7354,9.66,9.68
+"PBIB","Porter Bancorp, I",0.6467,-0.21,0.8567,0.64,0.65
+"PBIP","Prudential Bancor",12.15,+0.0178,12.1322,12.15,12.20
+"PBMD","Prima BioMed Ltd",0.9324,-0.0472,0.9972,0.9312,0.9699
+"PBPB","Potbelly Corporat",12.98,+0.1081,12.8869,12.8301,13.25
+"PBSK","Poage Bankshares,",14.77,+0.1192,14.8808,14.77,15.00
+"PCAR","PACCAR Inc.",66.89,+4.8381,62.0519,66.89,67.62
+"PCBK","Pacific Continent",13.49,-0.3114,13.8014,13.27,13.70
+"PCCC","PC Connection, In",22.89,+0.4314,22.5686,22.67,23.35
+"PCH","Potlatch Corporat",41.59,-0.7925,42.3825,41.54,41.89
+"PCLN","The Priceline Gro",1151.74,+26.1799,1125.79,1149.4301,1166.91
+"PCMI","PCM, Inc.",9.56,+0.2161,9.3439,9.44,9.7699
+"PCO","Pendrell Corporat",1.44,+0.0019,1.4381,1.44,1.47
+"PCOM","Points Internatio",13.70,-0.7978,14.5378,13.70,13.85
+"PCRX","Pacira Pharmaceut",88.42,-7.4017,95.8392,88.43,93.59
+"PCTI","PC-Tel, Inc.",8.20,+0.5553,7.6447,8.05,8.33
+"PCTY","Paylocity Holding",29.88,+6.1506,23.7844,28.5001,30.22
+"PCYC","Pharmacyclics, In",139.68,+15.724,123.956,139.14,142.90
+"PCYG","Park City Group, ",9.00,+0.4969,8.5031,8.95,9.14
+"PCYO","Pure Cycle Corpor",5.38,-0.4964,5.8964,5.36,5.53
+"PDBC","PowerShares DB Op",24.95,+0.134,24.816,24.79,25.00
+"PDCE","PDC Energy, Inc.",42.56,-0.0361,42.6161,41.71,42.95
+"PDCO","Patterson Compani",46.75,+3.9944,42.7556,46.52,47.22
+"PDEX","Pro-Dex, Inc.",2.30,-0.0213,2.3261,2.30,2.38
+"PDFS","PDF Solutions, In",13.45,+0.6806,12.7794,13.41,13.74
+"PDII","PDI, Inc.",1.71,-0.0864,1.8364,1.6999,1.81
+"PDLI","PDL BioPharma, In",7.86,-0.1453,8.0053,7.83,7.96
+"PEBK","Peoples Bancorp o",18.10,+1.1207,17.3783,18.49,18.499
+"PEBO","Peoples Bancorp I",24.77,+0.0731,24.7569,24.405,25.28
+"PEGA","Pegasystems Inc.",21.17,+1.0342,20.1358,20.96,21.48
+"PEGI","Pattern Energy Gr",25.84,-2.3875,28.2375,25.74,26.49
+"PEIX","Pacific Ethanol, ",13.99,+1.2675,12.7275,13.54,14.85
+"PENN","Penn National Gam",13.89,+1.2894,12.6006,13.77,14.13
+"PENX","Penford Corporati",18.88,+1.9092,17.0108,18.81,18.99
+"PEOP","Peoples Federal B",21.12,+0.2753,20.9047,21.08,21.35
+"PERF","Perfumania Holdin",6.01,-0.0575,6.1575,6.10,6.1205
+"PERI","Perion Network Lt",5.64,+0.031,5.6147,5.60,5.91
+"PERY","Perry Ellis Inter",24.96,+3.7581,21.2019,24.39,25.20
+"PESI","Perma-Fix Environ",4.44,+0.3003,4.1497,4.41,4.65
+"PETM","PetSmart, Inc",78.43,+8.4389,69.9961,78.14,79.00
+"PETS","PetMed Express, I",13.55,+0.35,13.21,13.46,13.75
+"PETX","Aratana Therapeut",12.91,+1.8553,11.0647,12.56,13.05
+"PFBC","Preferred Bank",25.76,+0.6661,25.1539,25.82,26.25
+"PFBI","Premier Financial",15.25,+0.2433,15.0167,15.25,15.60
+"PFBX","Peoples Financial",12.80,-0.1006,13.0006,12.85,12.901
+"PFIE","Profire Energy, I",3.46,-0.125,3.595,3.36,3.50
+"PFIN","P & F Industries,",8.10,+0.1406,7.9594,8.10,8.12
+"PFIS","Peoples Financial",47.99,-0.0894,48.5594,47.50,48.50
+"PFLT","PennantPark Float",14.02,+0.1643,13.9256,14.00,14.30
+"PFMT","Performant Financ",6.99,-0.8542,7.8492,6.93,7.05
+"PFPT","Proofpoint, Inc.",42.39,+2.2797,40.1503,41.90,43.55
+"PFSW","PFSweb, Inc.",10.92,-0.1172,11.0472,10.81,11.02
+"PGC","Peapack-Gladstone",17.74,-0.5281,18.2781,17.5663,18.00
+"PGNX","Progenics Pharmac",6.81,+1.6464,5.1636,6.50,7.0476
+"PGTI","PGT, Inc.",9.26,-0.1558,9.4158,9.19,9.59
+"PHII","PHI, Inc.",42.50,+1.6731,40.9269,42.60,42.60
+"PHIIK","PHI, Inc.",43.42,+1.6261,42.0839,43.66,44.57
+"PHMD","PhotoMedex, Inc.",2.27,-1.7325,4.0025,2.27,2.59
+"PICO","PICO Holdings Inc",18.60,-2.085,20.705,18.59,19.615
+"PIH","1347 Property Ins",7.67,+0.0594,7.7106,7.74,7.80
+"PINC","Premier, Inc.",33.33,+1.155,32.165,33.08,34.23
+"PKBK","Parke Bancorp, In",11.22,+0.2246,11.0253,11.24,11.2868
+"PKOH","Park-Ohio Holding",56.64,+4.9347,51.8453,56.33,57.98
+"PKT","Procera Networks,",6.70,-0.5472,7.2522,6.63,6.79
+"PLAB","Photronics, Inc.",8.78,+0.2108,8.5692,8.73,9.01
+"PLAY","Dave & Buster's E",21.98,+2.133,19.907,21.11,22.50
+"PLBC","Plumas Bancorp",8.05,+0.0125,8.0375,8.05,8.05
+"PLCE","Children's Place,",54.68,+5.7186,48.9714,53.38,55.23
+"PLCM","Polycom, Inc.",13.18,+0.8389,12.3411,13.149,13.39
+"PLKI","Popeyes Louisiana",52.49,+6.6442,45.8658,51.98,53.16
+"PLMT","Palmetto Bancshar",15.41,+0.3133,15.0567,15.28,15.48
+"PLNR","Planar Systems, I",7.28,+2.6647,4.6153,7.28,7.7996
+"PLPC","Preformed Line Pr",47.53,-2.9359,51.7358,47.971,49.21
+"PLPM","Planet Payment, I",1.60,-0.0717,1.6617,1.56,1.63
+"PLTM","First Trust ISE G",11.10,+0.2331,10.8769,11.00,11.1499
+"PLUG","Plug Power, Inc.",3.93,-0.5427,4.4728,3.90,4.04
+"PLUS","ePlus inc.",68.37,+6.5211,61.9889,68.34,69.70
+"PLXS","Plexus Corp.",39.60,+1.2703,38.3397,39.373,40.27
+"PMBC","Pacific Mercantil",6.69,-0.1125,6.9025,6.70,7.00
+"PMCS","PMC",7.75,+0.4039,7.3611,7.68,7.78
+"PMD","Psychemedics Corp",14.78,+0.4923,14.3567,14.6401,15.00
+"PME","Pingtan Marine En",1.11,-0.4403,1.5519,1.03,1.15
+"PMFG","PMFG, Inc.",6.49,+0.954,5.5361,6.38,6.69
+"PNBK","Patriot National ",1.78,-0.0046,1.7847,1.78,1.80
+"PNFP","Pinnacle Financia",37.54,+0.3958,37.1442,37.38,38.66
+"PNNT","PennantPark Inves",10.83,+0.1053,10.7347,10.80,10.92
+"PNQI","PowerShares Nasda",68.22,+1.8343,66.4667,68.09,69.03
+"PNRA","Panera Bread Comp",166.79,+0.293,166.547,166.31,168.7153
+"PNRG","PrimeEnergy Corpo",65.00,+1.87,64.13,N/A,N/A
+"PNTR","Pointer Telocatio",8.19,+0.0658,8.1442,8.027,8.31
+"PODD","Insulet Corporati",45.44,+4.6603,40.7997,45.41,46.70
+"POOL","Pool Corporation",58.49,+0.8369,57.6631,58.31,59.46
+"POPE","Pope Resources",65.50,-0.8314,66.3314,65.20,65.80
+"POWI","Power Integration",50.30,+0.1536,50.1764,49.95,51.3495
+"POWL","Powell Industries",43.74,+0.3122,43.4178,43.3401,44.57
+"POZN","Pozen, Inc.",8.90,+0.2461,8.6539,8.80,9.0484
+"PPBI","Pacific Premier B",16.05,+0.6917,15.3733,16.05,16.39
+"PPC","Pilgrim's Pride C",31.54,+1.5811,29.9689,31.12,32.19
+"PPHM","Peregrine Pharmac",1.44,-0.01,1.45,1.41,1.45
+"PPHMP","Peregrine Pharmac",23.07,-0.5111,23.5811,23.07,23.1499
+"PPSI","Pioneer Power Sol",8.54,+1.1585,8.0315,N/A,N/A
+"PRAA","PRA Group, Inc.",58.39,-1.5669,59.9569,57.54,58.65
+"PRAH","PRA Health Scienc",21.15,+1.016,20.434,20.40,21.60
+"PRAN","Prana Biotechnolo",1.68,-0.1659,1.8558,1.68,1.76
+"PRCP","Perceptron, Inc.",10.07,+0.1264,9.9436,10.00,10.20
+"PRFT","Perficient, Inc.",16.95,+1.2175,15.7425,16.83,17.10
+"PRFZ","PowerShares FTSE ",99.62,+4.0786,95.6514,99.23,101.49
+"PRGN","Paragon Shipping ",3.51,+0.1194,3.4006,3.35,3.60
+"PRGNL","Paragon Shipping ",17.80,-0.6454,18.4454,17.80,18.19
+"PRGS","Progress Software",25.69,+0.2425,25.4575,25.70,26.28
+"PRGX","PRGX Global, Inc.",5.21,-0.3389,5.5689,5.20,5.38
+"PRIM","Primoris Services",27.07,+0.8111,26.2589,26.79,27.77
+"PRKR","ParkerVision, Inc",1.05,-0.0967,1.1567,1.03,1.10
+"PRLS","Peerless Systems ",4.65,+0.0511,4.5689,N/A,N/A
+"PRMW","Primo Water Corpo",4.25,+0.1335,4.1197,4.18,4.26
+"PROV","Provident Financi",14.66,+0.0394,14.6206,14.51,15.38
+"PRPH","ProPhase Labs, In",1.39,+0.0714,1.3686,1.38,1.45
+"PRQR","ProQR Therapeutic",14.69,+1.5094,13.2406,13.28,14.91
+"PRSC","The Providence Se",36.32,-4.2725,40.6925,36.24,37.355
+"PRSS","CafePress Inc.",2.17,-0.7836,2.9436,2.13,2.28
+"PRTA","Prothena Corporat",22.11,+1.2058,20.9542,22.00,22.70
+"PRTK","Paratek Pharmaceu",19.70,-1.4278,21.1778,19.41,20.00
+"PRTO","Proteon Therapeut",10.07,+0.051,10.119,10.06,10.29
+"PRTS","U.S. Auto Parts N",2.81,+0.0361,2.7739,2.75,2.84
+"PRXI","Premier Exhibitio",0.73,-0.0517,0.7817,0.71,0.81
+"PRXL","PAREXEL Internati",57.40,-1.0086,58.4086,56.82,57.92
+"PSAU","PowerShares Globa",16.97,+0.1325,16.9475,16.892,17.40
+"PSBH","PSB Holdings, Inc",7.30,-0.0453,7.4453,7.27,7.40
+"PSCC","PowerShares S&P S",53.35,+1.1872,52.1328,53.32,53.65
+"PSCD","PowerShares S&P S",49.20,+3.122,45.9881,49.1101,49.48
+"PSCE","PowerShares S&P S",37.50,+0.7391,36.8347,37.2599,37.75
+"PSCF","PowerShares S&P S",40.49,+1.0819,39.3581,40.42,40.8342
+"PSCH","PowerShares S&P S",58.28,+1.3191,57.0028,58.0901,58.96
+"PSCI","PowerShares S&P S",45.10,+2.0009,43.0892,45.0401,45.53
+"PSCM","PowerShares S&P S",43.35,+1.1814,42.1886,43.1401,44.18
+"PSCT","PowerShares S&P S",48.01,+2.3994,45.6306,47.86,48.55
+"PSCU","PowerShares S&P S",37.84,+1.2187,36.6933,37.6801,37.919
+"PSDV","pSivida Corp.",3.91,+0.0981,3.8219,3.82,3.94
+"PSEC","Prospect Capital ",9.60,+0.0053,9.5947,9.60,9.71
+"PSEM","Pericom Semicondu",12.35,+1.8369,10.5281,12.31,12.98
+"PSIX","Power Solutions I",70.23,+7.5914,62.7586,70.17,73.72
+"PSMI","Peregrine Semicon",12.43,+0.0228,12.4072,12.42,12.47
+"PSMT","PriceSmart, Inc.",94.05,+4.7275,89.4525,93.57,95.61
+"PSTB","Park Sterling Cor",7.09,-0.0662,7.1661,7.09,7.24
+"PSTI","Pluristem Therape",2.58,-0.2831,2.8731,2.58,2.675
+"PSTR","PostRock Energy C",0.71,-0.1094,0.8194,0.68,0.75
+"PSUN","Pacific Sunwear o",1.70,+0.0906,1.6094,1.58,1.72
+"PTC","PTC Inc.",38.32,+1.6286,36.7014,38.07,38.43
+"PTCT","PTC Therapeutics,",39.61,+0.2089,39.4211,38.97,40.25
+"PTEN","Patterson-UTI Ene",21.62,-2.2017,23.8267,21.395,22.53
+"PTIE","Pain Therapeutics",1.84,-1.0111,2.8611,1.71,1.86
+"PTLA","Portola Pharmaceu",27.23,+0.1867,27.1033,27.00,27.637
+"PTNR","Partner Communica",5.88,-0.7961,6.6861,5.82,6.07
+"PTNT","Internet Patents ",2.93,-0.0011,3.0011,N/A,N/A
+"PTRY","The Pantry, Inc.",25.96,+1.375,24.595,25.69,26.12
+"PTSI","P.A.M. Transporta",45.55,+5.5136,40.1064,42.59,46.17
+"PTSX","Point.360",0.26,-0.1169,0.3769,0.2511,0.26
+"PTX","Pernix Therapeuti",10.37,+0.9298,9.4503,10.36,10.81
+"PULB","Pulaski Financial",11.58,+0.0822,11.4978,11.58,11.74
+"PVTB","PrivateBancorp, I",31.20,+0.6594,30.5406,31.10,31.89
+"PVTBP","PrivateBancorp, I",26.58,+0.1969,26.5531,26.46,26.75
+"PWOD","Penns Woods Banco",44.74,-0.8958,45.8258,44.65,45.59
+"PWRD","Perfect World Co.",19.27,-1.1428,20.4128,19.02,19.60
+"PWX","Providence and Wo",19.00,+2.1696,17.7294,19.28,19.899
+"PXLW","Pixelworks, Inc.",4.89,-0.435,5.325,4.8732,4.98
+"PZZA","Papa John'S Inter",50.87,+5.6739,45.1961,50.73,51.9399
+"PZZI","Pizza Inn Holding",6.85,-0.1031,6.9531,6.68,6.88
+"QABA","First Trust NASDA",35.94,+0.8869,34.9731,35.85,36.49
+"QADA","QAD Inc.",19.72,-0.105,19.835,19.73,20.02
+"QADB","QAD Inc.",16.51,-0.1503,17.1503,N/A,N/A
+"QAT","iShares MSCI Qata",26.59,+0.6295,25.9605,26.58,26.59
+"QBAK","Qualstar Corporat",1.21,-0.0113,1.2272,1.20,1.24
+"QCCO","QC Holdings, Inc.",1.76,+0.0256,1.7764,1.73,1.856
+"QCLN","First Trust NASDA",17.97,+0.4833,17.4967,17.90,18.33
+"QCOM","QUALCOMM Incorpor",71.48,-1.86,73.34,70.69,71.82
+"QCRH","QCR Holdings, Inc",17.81,+0.0372,17.8128,17.81,17.88
+"QDEL","Quidel Corporatio",27.88,+0.4319,27.4681,27.07,28.58
+"QGEN","Qiagen N.V.",23.55,+0.605,22.945,23.55,23.815
+"QINC","First Trust RBA Q",21.36,+0.6442,20.6858,21.33,21.34
+"QIWI","QIWI plc",29.37,-0.1361,29.5061,28.99,29.64
+"QKLS","QKL Stores, Inc.",2.25,-1.4043,3.8043,N/A,N/A
+"QLGC","QLogic Corporatio",11.57,+0.6844,10.8906,11.47,11.71
+"QLIK","Qlik Technologies",30.06,+3.1661,26.9039,30.005,30.70
+"QLTI","QLT Inc.",3.98,-0.0192,4.0092,3.94,3.99
+"QLTY","Quality Distribut",12.26,+0.3672,11.9128,12.10,12.4999
+"QLYS","Qualys, Inc.",33.38,+2.3136,31.1064,33.14,34.33
+"QNST","QuinStreet, Inc.",4.51,+0.2544,4.2556,4.38,4.59
+"QQEW","First Trust NASDA",42.42,+2.3083,40.1417,42.34,42.74
+"QQQ","PowerShares QQQ T",103.80,+4.8887,98.9147,103.54,104.69
+"QQQC","Global X NASDAQ C",23.71,+1.0822,22.7278,23.55,23.81
+"QQQX","NASDAQ Premium In",20.41,+0.6242,19.7858,20.38,20.62
+"QQXT","First Trust NASDA",39.20,+1.8327,37.4228,39.24,39.65
+"QRHC","Quest Resource Ho",1.45,-0.0611,1.5111,1.44,1.49
+"QSII","Quality Systems, ",14.43,+0.1144,14.3156,14.14,14.67
+"QTEC","First Trust NASDA",43.54,+2.8544,40.7056,43.38,43.76
+"QTNT","Quotient Limited",13.05,+2.8881,10.1919,13.08,14.44
+"QTNTW","Quotient Limited",3.71,+1.0083,2.8117,3.82,4.14
+"QTWW","Quantum Fuel Syst",3.43,-0.3517,3.7867,3.4052,3.60
+"QUIK","QuickLogic Corpor",3.19,+0.305,2.895,3.19,3.28
+"QUMU","Qumu Corporation",14.41,+0.7158,13.8342,14.51,14.80
+"QUNR","Qunar Cayman Isla",26.34,-0.0878,26.4378,26.11,26.50
+"QURE","uniQure N.V.",11.93,+1.4503,10.5497,11.94,12.035
+"QVCA","Liberty Interacti",28.31,+2.4448,25.8752,28.16,28.88
+"QVCB","Liberty Interacti",28.28,+2.1706,26.2794,28.075,28.45
+"QYLD","Recon Capital NAS",23.81,-0.185,24.095,23.8539,24.28
+"RADA","Rada Electronics ",2.64,+0.2676,2.4125,2.50,2.71
+"RAIL","Freightcar Americ",31.66,-0.58,32.295,31.43,32.75
+"RAND","Rand Capital Corp",3.31,+0.3772,3.1028,3.31,3.50
+"RARE","Ultragenyx Pharma",43.95,-3.4294,47.5494,43.85,45.51
+"RAVN","Raven Industries,",22.87,-1.8492,24.7492,22.78,23.28
+"RBCAA","Republic Bancorp,",22.97,-0.7586,23.8086,23.01,23.60
+"RBCN","Rubicon Technolog",5.10,+0.7736,4.3264,4.90,5.15
+"RBPAA","Royal Bancshares ",1.78,+0.0006,1.7794,1.78,1.801
+"RCII","Rent-A-Center Inc",32.79,+1.7567,31.0433,32.44,33.12
+"RCKY","Rocky Brands, Inc",14.65,+0.7133,13.9767,14.54,14.70
+"RCMT","RCM Technologies,",8.05,+0.4581,7.5919,8.01,8.20
+"RCON","Recon Technology,",3.40,-1.1764,4.5964,3.40,3.55
+"RCPI","Rock Creek Pharma",0.1563,-0.0906,0.2486,0.1501,0.16
+"RCPT","Receptos, Inc.",119.00,+34.1142,84.9158,118.23,121.8799
+"RDCM","Radcom Ltd.",11.10,+3.6167,7.4833,10.61,11.25
+"RDEN","Elizabeth Arden, ",17.81,+0.7203,17.0997,17.6096,18.08
+"RDHL","Redhill Biopharma",8.50,-1.1539,9.7539,8.5101,9.48
+"RDI","Reading Internati",11.92,+2.2136,9.7264,11.81,12.12
+"RDIB","Reading Internati",11.47,+6.0083,6.3547,N/A,N/A
+"RDNT","RadNet, Inc.",8.03,-0.3349,8.3649,7.91,8.32
+"RDUS","Radius Health, In",22.06,+1.7656,20.4144,21.71,23.60
+"RDVY","First Trust NASDA",22.08,+0.977,21.102,22.07,22.189
+"RDWR","Radware Ltd.",20.11,+2.0078,18.1222,20.13,20.95
+"RECN","Resources Connect",14.85,+0.1064,14.7536,14.82,15.10
+"REDF","Rediff.com India ",1.98,-0.0812,2.0628,1.98,2.03
+"REFR","Research Frontier",4.90,-0.0683,4.9933,4.81,4.94
+"REGI","Renewable Energy ",10.66,+0.5103,10.1497,10.26,10.97
+"REGN","Regeneron Pharmac",403.44,+25.521,378.009,403.29,416.00
+"REIS","Reis, Inc",23.89,-0.0437,23.9633,23.85,24.63
+"RELL","Richardson Electr",9.98,+0.0753,9.9647,9.93,10.19
+"RELV","Reliv' Internatio",1.24,+0.0228,1.2272,1.24,1.30
+"REMY","Remy Internationa",17.57,-1.1067,18.7567,17.60,18.00
+"RENT","Rentrak Corporati",80.59,+5.8456,74.9344,80.13,82.99
+"REPH","Recro Pharma, Inc",2.68,-0.2029,2.8829,2.68,2.71
+"RESN","Resonant Inc.",8.82,+2.5548,6.3452,8.20,8.9999
+"REXI","Resource America,",9.22,-0.0667,9.3267,9.26,9.49
+"REXX","Rex Energy Corpor",8.33,-0.3558,8.6958,8.21,8.73
+"RFIL","RF Industries, Lt",4.42,-0.1021,4.5222,4.4101,4.4529
+"RFMD","RF Micro Devices,",14.23,+2.4526,11.7794,14.155,14.59
+"RGCO","RGC Resources Inc",21.48,+1.3319,20.4481,21.25,21.90
+"RGDO","Regado BioScience",0.84,-0.1741,1.0141,0.84,0.87
+"RGDX","Response Genetics",0.52,-0.1122,0.6322,0.50,0.54
+"RGEN","Repligen Corporat",22.90,-0.1442,23.0542,22.894,23.57
+"RGLD","Royal Gold, Inc.",70.46,+4.9994,65.4706,69.57,72.81
+"RGLS","Regulus Therapeut",16.03,+2.2578,13.7722,15.50,16.27
+"RGSE","Real Goods Solar,",0.8104,-0.2642,1.0792,0.80,0.89
+"RIBT","RiceBran Technolo",4.23,-0.1699,4.40,4.11,4.34
+"RIBTW","RiceBran Technolo",0.91,-0.2343,1.2343,1.00,1.001
+"RICK","RCI Hospitality H",10.02,-1.1475,11.1875,10.00,10.09
+"RIGL","Rigel Pharmaceuti",2.06,+0.2131,1.8569,1.98,2.10
+"RITT","RIT Technologies ",1.18,+0.0099,1.1717,1.1301,1.21
+"RITTW","RIT Technologies ",0.28,N/A,0.00,N/A,N/A
+"RIVR","River Valley Banc",20.90,-0.3161,21.2161,20.90,21.28
+"RJET","Republic Airways ",12.48,+0.6256,11.8744,12.37,12.91
+"RLJE","RLJ Entertainment",3.01,-0.65,3.74,2.93,3.47
+"RLOC","ReachLocal, Inc.",3.39,-0.5317,3.9317,3.3501,3.50
+"RLOG","Rand Logistics, I",4.32,-0.9817,5.3017,4.32,4.95
+"RLYP","Relypsa, Inc.",23.67,+3.7589,19.9461,22.90,24.30
+"RMBS","Rambus, Inc.",11.55,+0.4475,11.1125,11.41,11.78
+"RMCF","Rocky Mountain Ch",12.64,+0.4358,12.1942,12.5601,12.67
+"RMGN","RMG Networks Hold",1.20,-0.1064,1.3764,1.13,1.37
+"RMTI","Rockwell Medical,",8.98,-0.8692,9.8542,8.88,9.15
+"RNA","Prosensa Holding ",11.45,+0.3844,11.0656,11.45,11.91
+"RNET","RigNet, Inc.",45.00,+3.4681,41.5719,44.83,46.09
+"RNST","Renasant Corporat",28.79,+0.1086,28.6814,28.62,29.34
+"RNWK","RealNetworks, Inc",6.90,+0.2086,6.6964,6.75,6.97
+"ROBO","Robo-Stox Global ",26.33,+0.8189,25.5506,26.29,26.49
+"ROCK","Gibraltar Industr",14.72,+0.1842,14.5508,14.57,15.28
+"ROIA","Radio One, Inc.",1.84,-0.4731,2.3231,1.8399,1.89
+"ROIAK","Radio One, Inc.",1.86,-0.4838,2.3539,1.759,1.93
+"ROIC","Retail Opportunit",16.29,+0.5592,15.7408,16.205,16.51
+"ROIQ","ROI Acquisition C",9.66,-0.0439,9.6939,N/A,N/A
+"ROIQU","ROI Acquisition C",10.02,-0.0675,10.0875,N/A,N/A
+"ROIQW","ROI Acquisition C",0.20,+0.1431,0.0769,0.21,0.22
+"ROKA","Roka Bioscience, ",3.94,-3.8994,7.8494,3.90,4.08
+"ROLL","RBC Bearings Inco",63.39,+5.4525,58.0925,62.98,64.52
+"ROSE","Rosetta Resources",37.91,+0.1378,37.7872,37.18,38.67
+"ROSG","Rosetta Genomics ",2.40,-0.5067,2.9267,2.33,2.67
+"ROST","Ross Stores, Inc.",89.15,+9.5967,79.5583,88.00,89.48
+"ROVI","Rovi Corporation",22.18,+1.8656,20.3144,22.08,22.59
+"ROYL","Royale Energy, In",2.49,-0.0941,2.5925,2.49,2.56
+"RP","RealPage, Inc.",21.21,+2.5797,18.6303,21.11,21.89
+"RPRX","Repros Therapeuti",8.81,+0.5253,8.2847,8.80,9.18
+"RPRXW","Repros Therapeuti",0.0113,N/A,0.00,N/A,N/A
+"RPRXZ","Repros Therapeuti",6.17,N/A,0.00,N/A,N/A
+"RPTP","Raptor Pharmaceut",9.94,-0.3208,10.2608,9.75,10.12
+"RPXC","RPX Corporation",13.21,-0.8978,14.1178,13.21,13.40
+"RRD","R.R. Donnelley & ",16.67,+0.0697,16.6003,16.62,16.88
+"RRGB","Red Robin Gourmet",66.59,+9.3592,57.2408,66.36,67.77
+"RRST","RRSat Global Comm",7.82,+0.8367,6.9933,7.69,7.83
+"RSTI","Rofin-Sinar Techn",26.97,+4.2603,22.7197,26.76,27.38
+"RSYS","RadiSys Corporati",2.42,+0.0411,2.4089,2.42,2.45
+"RTGN","Ruthigen, Inc.",3.95,-0.5864,4.5564,3.91,4.13
+"RTIX","RTI Surgical, Inc",4.89,+0.38,4.52,4.86,5.02
+"RTK","Rentech, Inc.",1.38,-0.15,1.54,1.33,1.45
+"RTRX","Retrophin, Inc.",8.28,-1.6364,9.9364,8.14,9.13
+"RUDR","VelocityShares Ru",N/A,0.00,49.00,N/A,N/A
+"RUSHA","Rush Enterprises,",36.04,+1.1081,35.0019,35.6501,36.46
+"RUSHB","Rush Enterprises,",30.98,+0.8153,30.2247,30.85,31.42
+"RUTH","Ruth's Hospitalit",12.85,+1.0281,11.8219,12.80,13.05
+"RVBD","Riverbed Technolo",20.46,+1.8301,18.6389,20.34,20.89
+"RVLT","Revolution Lighti",1.46,-0.2497,1.7197,1.45,1.53
+"RVNC","Revance Therapeut",16.48,-1.3292,17.8092,16.05,16.59
+"RVSB","Riverview Bancorp",4.11,+0.0656,4.0344,4.0732,4.12
+"RWLK","ReWalk Robotics L",27.15,-1.48,28.63,26.7988,27.88
+"RXDX","Ignyta, Inc.",6.40,-0.3656,6.8456,6.40,6.50
+"RXII","RXi Pharmaceutica",1.83,-0.0729,1.9129,1.811,1.88
+"RYAAY","Ryanair Holdings ",61.68,+4.99,56.73,61.40,61.94
+"SAAS","inContact, Inc.",7.78,-0.5792,8.3642,7.69,8.02
+"SABR","Sabre Corporation",18.61,+1.4583,17.1717,18.44,18.66
+"SAEX","SAExploration Hol",3.92,-2.2837,6.2336,3.947,4.12
+"SAFM","Sanderson Farms, ",85.80,+1.0753,84.7397,85.62,89.71
+"SAFT","Safety Insurance ",60.58,+1.5103,59.2197,60.36,61.43
+"SAGE","Sage Therapeutics",37.20,+1.3869,35.9431,36.12,37.83
+"SAIA","Saia, Inc.",53.89,+3.6775,50.2725,53.43,54.51
+"SAJA","Sajan, Inc.",6.15,+0.4542,5.6958,5.90,6.24
+"SAL","Salisbury Bancorp",27.00,+1.10,27.29,28.39,28.40
+"SALE","RetailMeNot, Inc.",14.36,-2.1858,16.5558,14.35,14.72
+"SALM","Salem Communicati",7.73,+0.2383,7.5517,7.64,8.15
+"SAMG","Silvercrest Asset",14.38,+0.0083,14.5017,14.29,14.93
+"SANM","Sanmina Corporati",24.80,+2.8197,21.9803,24.58,25.12
+"SANW","S&W Seed Company",3.69,+0.3669,3.3331,3.6101,3.81
+"SANWZ","S&W Seed Company",0.21,-0.1044,0.2544,N/A,N/A
+"SAPE","Sapient Corporati",24.66,+6.1292,18.5358,24.66,24.71
+"SASR","Sandy Spring Banc",24.05,-0.0142,24.1842,23.9126,24.72
+"SATS","EchoStar Corporat",52.58,+5.6456,46.9844,52.05,52.89
+"SAVE","Spirit Airlines, ",74.97,+6.7525,68.2275,74.43,76.134
+"SBAC","SBA Communication",117.38,+6.121,111.274,115.88,117.60
+"SBBX","Sussex Bancorp",9.98,+0.0922,9.9578,10.05,10.10
+"SBCF","Seacoast Banking ",12.86,+0.5417,12.3183,12.85,13.19
+"SBCP","Sunshine Bancorp,",11.97,-0.0013,11.9613,11.96,12.15
+"SBFG","SB Financial Grou",9.53,+0.6087,8.9705,9.29,9.70
+"SBGI","Sinclair Broadcas",28.49,+1.4497,27.0503,27.69,28.58
+"SBLK","Star Bulk Carrier",8.06,-1.5242,9.6042,8.00,8.60
+"SBLKL","Star Bulk Carrier",24.26,-0.085,24.585,24.2601,24.80
+"SBNY","Signature Bank",120.37,+3.664,116.706,119.84,123.98
+"SBNYW","Signature Bank",90.14,+3.3661,86.0439,N/A,N/A
+"SBRA","Sabra Healthcare ",28.02,+1.3603,26.6697,27.84,28.10
+"SBRAP","Sabra Healthcare ",25.85,-0.0836,25.9336,25.85,25.98
+"SBSA","Spanish Broadcast",3.31,-0.3211,3.6411,3.29,3.45
+"SBSI","Southside Bancsha",32.33,-0.6528,33.1228,32.218,33.18
+"SBUX","Starbucks Corpora",79.87,+4.0597,75.8153,78.77,79.92
+"SCAI","Surgical Care Aff",30.75,+0.9022,29.9378,30.65,31.37
+"SCHL","Scholastic Corpor",35.05,+1.8144,33.2956,34.93,35.74
+"SCHN","Schnitzer Steel I",23.71,+0.61,23.11,23.5201,24.14
+"SCLN","SciClone Pharmace",8.58,+0.8439,7.7461,8.54,8.80
+"SCMP","Sucampo Pharmaceu",11.75,+3.1469,8.6681,11.60,11.98
+"SCOK","SinoCoking Coal a",2.82,-0.2041,3.0242,2.80,3.03
+"SCON","Superconductor Te",2.90,+0.1083,2.7917,2.90,2.95
+"SCOR","comScore, Inc.",42.53,+2.7403,39.7897,42.50,43.91
+"SCSC","ScanSource, Inc.",38.44,+2.5244,35.9056,38.07,38.844
+"SCSS","Select Comfort Co",26.18,+2.3431,23.8469,26.17,26.97
+"SCTY","SolarCity Corpora",55.00,+1.1058,53.9042,54.82,56.94
+"SCVL","Shoe Carnival, In",19.22,+1.0193,18.2406,19.13,19.5846
+"SCYX","SCYNEXIS, Inc.",9.41,+2.1815,7.9185,9.4495,10.10
+"SEAC","SeaChange Interna",6.58,-0.2083,6.7983,6.59,6.81
+"SEED","Origin Agritech L",1.64,-0.3297,1.9797,1.62,1.70
+"SEIC","SEI Investments C",39.10,+1.9833,37.1267,38.96,39.21
+"SEMI","SunEdison Semicon",16.42,-0.8314,17.3414,16.35,16.84
+"SENEA","Seneca Foods Corp",26.93,-0.5506,27.5906,26.81,27.34
+"SENEB","Seneca Foods Corp",30.50,-0.35,30.85,N/A,N/A
+"SEV","Sevcon, Inc.",7.62,+0.3017,7.4183,7.46,7.789
+"SFBC","Sound Financial B",18.15,+0.9086,17.8414,N/A,N/A
+"SFBS","ServisFirst Bancs",31.54,+1.9617,29.5783,30.29,31.60
+"SFLY","Shutterfly, Inc.",42.30,-0.7297,43.0497,42.09,42.78
+"SFM","Sprouts Farmers M",32.17,+2.4838,29.6872,31.50,32.19
+"SFNC","Simmons First Nat",40.19,+0.1594,40.1906,40.22,40.90
+"SFST","Southern First Ba",15.75,+1.4258,14.8242,16.20,16.25
+"SFXE","SFX Entertainment",4.10,-0.6964,4.7964,4.06,4.30
+"SGBK","Stonegate Bank",27.42,+0.5694,26.9206,27.31,28.10
+"SGC","Superior Uniform ",23.77,+1.0183,22.9817,23.773,24.17
+"SGEN","Seattle Genetics,",36.80,+1.4758,35.3442,36.42,37.80
+"SGI","Silicon Graphics ",9.25,+0.1328,9.1172,9.22,9.74
+"SGMA","SigmaTron Interna",7.36,+0.2492,7.1208,7.32,7.409
+"SGMO","Sangamo BioScienc",11.69,+0.5664,11.1336,11.5899,12.00
+"SGMS","Scientific Games ",13.78,+2.8978,10.8822,13.42,14.10
+"SGNL","Signal Genetics, ",3.00,-0.4322,3.4721,3.02,3.11
+"SGNT","Sagent Pharmaceut",27.37,-3.5603,30.9603,27.20,29.21
+"SGOC","SGOCO Group, Ltd",1.50,-0.0368,1.5369,1.50,1.57
+"SGRP","SPAR Group, Inc.",1.58,+0.0606,1.5194,1.58,1.67
+"SGYP","Synergy Pharmaceu",2.88,-0.0569,2.9469,2.82,2.99
+"SGYPU","Synergy Pharmaceu",6.21,+0.1744,6.8756,N/A,N/A
+"SGYPW","Synergy Pharmaceu",0.60,+0.0425,0.6775,0.7199,0.72
+"SHBI","Shore Bancshares ",9.36,+0.30,9.12,9.35,9.44
+"SHEN","Shenandoah Teleco",30.39,+3.7164,26.7436,29.97,30.96
+"SHIP","Seanergy Maritime",1.29,-0.1394,1.4442,1.28,1.31
+"SHLD","Sears Holdings Co",36.18,+3.8143,32.4057,35.835,37.35
+"SHLM","A. Schulman, Inc.",38.64,+4.5239,34.1661,38.02,39.355
+"SHLO","Shiloh Industries",16.46,-0.0622,16.5522,16.45,16.9099
+"SHOO","Steven Madden, Lt",33.32,+1.6431,31.6769,32.98,33.85
+"SHOR","ShoreTel, Inc.",7.66,+0.2706,7.3944,7.55,7.80
+"SHOS","Sears Hometown an",14.03,-0.7053,14.7553,13.95,14.65
+"SHPG","Shire plc",209.84,-0.553,210.403,208.19,210.7975
+"SIAL","Sigma-Aldrich Cor",135.84,+0.397,135.453,135.76,136.39
+"SIBC","State Investors B",15.80,+0.3667,16.3833,16.6787,16.75
+"SIEB","Siebert Financial",2.20,+0.0333,2.2667,2.30,2.40
+"SIEN","Sientra, Inc.",17.62,+0.0576,17.5624,17.138,17.87
+"SIFI","SI Financial Grou",11.24,+0.1328,11.1672,11.30,11.37
+"SIFY","Sify Technologies",1.56,-0.1875,1.7475,1.51,1.59
+"SIGA","SIGA Technologies",1.65,+0.1572,1.5028,1.64,1.74
+"SIGI","Selective Insuran",26.57,+1.9883,24.5817,26.33,26.85
+"SIGM","Sigma Designs, In",4.70,+0.6706,4.0394,4.37,4.72
+"SILC","Silicom Ltd",35.45,+4.0956,31.4044,34.70,36.00
+"SIMG","Silicon Image, In",5.60,+0.6536,4.9464,5.40,5.69
+"SIMO","Silicon Motion Te",23.63,-0.4103,24.0403,23.46,24.18
+"SINA","Sina Corporation",38.26,-1.5583,39.8183,38.05,38.78
+"SINO","Sino-Global Shipp",1.90,+0.1276,1.8214,1.87,2.07
+"SIRI","Sirius XM Holding",3.53,+0.1417,3.3983,3.53,3.58
+"SIRO","Sirona Dental Sys",84.17,+5.0803,79.0997,82.54,87.16
+"SIVB","SVB Financial Gro",108.38,+0.738,107.662,107.68,111.05
+"SIVBO","SVB Financial Gro",25.65,+0.0686,25.6914,N/A,N/A
+"SKBI","Skystar Bio-Pharm",4.15,-0.2025,4.3525,4.15,4.45
+"SKOR","FlexShares Credit",50.12,+0.0623,50.1177,50.1598,50.18
+"SKUL","Skullcandy, Inc.",9.00,+0.8683,8.1417,8.82,9.05
+"SKYS","Sky Solar Holding",10.65,+1.1167,9.6833,10.30,11.4999
+"SKYW","SkyWest, Inc.",11.72,+1.8456,9.8844,11.56,12.00
+"SKYY","First Trust ISE C",28.06,+1.1044,27.0092,28.0001,28.3999
+"SLAB","Silicon Laborator",45.23,+2.6994,42.5306,44.96,45.876
+"SLCT","Select Bancorp, I",6.75,-0.2031,6.9631,6.76,7.00
+"SLGN","Silgan Holdings I",49.43,+0.6856,48.7444,49.06,50.03
+"SLM","SLM Corporation",9.59,+0.287,9.3081,9.55,9.79
+"SLMAP","SLM Corporation",48.61,-0.1675,48.8175,48.60,48.9849
+"SLMBP","SLM Corporation",69.55,-1.2669,71.0169,69.75,70.00
+"SLP","Simulations Plus,",6.26,+0.0267,6.3133,6.27,6.38
+"SLRC","Solar Capital Ltd",18.48,-0.1025,18.5825,18.45,18.69
+"SLTC","Selectica, Inc.",5.06,-0.5611,5.7711,N/A,N/A
+"SLVO","Credit Suisse AG",11.80,-0.3489,12.1489,11.74,11.88
+"SLXP","Salix Pharmaceuti",102.86,-26.303,129.263,100.02,103.62
+"SMAC","Sino Mercury Acqu",9.90,+0.01,10.13,10.045,10.14
+"SMACR","Sino Mercury Acqu",0.35,N/A,0.00,N/A,N/A
+"SMACU","Sino Mercury Acqu",9.95,N/A,0.00,N/A,N/A
+"SMBC","Southern Missouri",37.00,+1.6225,36.3775,N/A,N/A
+"SMCI","Super Micro Compu",33.83,+4.3289,29.5211,33.70,34.60
+"SMED","Sharps Compliance",4.30,-0.1581,4.4881,4.28,4.37
+"SMIT","Schmitt Industrie",2.94,+0.0981,2.9419,2.96,3.10
+"SMLR","Semler Scientific",2.51,+0.1484,2.3016,N/A,N/A
+"SMMF","Summit Financial ",11.34,+0.5008,10.8392,11.01,11.7499
+"SMPL","Simplicity Bancor",16.24,-0.3267,16.5667,16.23,16.69
+"SMRT","Stein Mart, Inc.",14.15,+1.3064,12.8636,14.01,14.20
+"SMSI","Smith Micro Softw",0.95,+0.0774,0.8925,0.885,0.9699
+"SMT","SMART Technologie",1.28,-0.1603,1.4403,1.25,1.30
+"SMTC","Semtech Corporati",24.96,+0.3208,24.6492,24.37,24.99
+"SMTP","SMTP, Inc.",6.15,+0.1111,6.2789,6.10,6.40
+"SMTX","SMTC Corporation",1.74,+0.0419,1.7181,1.71,1.76
+"SNAK","Inventure Foods, ",13.37,+0.2075,13.1775,13.33,13.75
+"SNBC","Sun Bancorp, Inc.",18.71,-0.0783,18.7883,18.70,19.08
+"SNC","State National Co",10.91,-0.2461,11.5161,11.235,11.50
+"SNCR","Synchronoss Techn",43.00,-4.2242,47.2342,42.40,44.58
+"SNDK","SanDisk Corporati",101.07,+9.7561,91.3239,99.60,101.59
+"SNFCA","Security National",5.06,N/A,0.00,5.08,5.17
+"SNHY","Sun Hydraulics Co",40.86,+2.2236,38.6864,40.34,41.79
+"SNMX","Senomyx, Inc.",5.36,-1.6228,6.9878,5.30,5.52
+"SNPS","Synopsys, Inc.",42.55,+2.4392,40.1408,42.27,42.79
+"SNSS","Sunesis Pharmaceu",2.15,+0.2881,1.8719,2.081,2.21
+"SNTA","Synta Pharmaceuti",3.16,+0.1458,3.0242,3.06,3.17
+"SOCB","Southcoast Financ",6.86,-0.0005,7.00,6.731,7.00
+"SOCL","Global X Social M",19.08,+0.0962,18.9839,19.0741,19.38
+"SODA","SodaStream Intern",23.14,+0.8461,22.3039,23.01,23.60
+"SOFO","Sonic Foundry, In",8.60,-0.7394,9.2394,8.40,8.53
+"SOHO","Sotherly Hotels I",7.60,+0.008,7.6919,7.60,7.81
+"SOHOL","Sotherly Hotels L",26.20,-0.1141,26.2442,N/A,N/A
+"SOHU","Sohu.com Inc.",48.90,+1.8481,47.0519,48.50,49.50
+"SONA","Southern National",11.55,+0.2083,11.4617,11.51,11.823
+"SONC","Sonic Corp.",25.37,+1.0925,24.2775,25.25,25.66
+"SONS","Sonus Networks, I",3.60,+0.2444,3.3556,3.56,3.69
+"SORL","SORL Auto Parts, ",3.95,+0.2025,3.7775,3.81,3.98
+"SOXX","iShares PHLX SOX ",90.23,+6.2997,83.9603,89.65,90.63
+"SP","SP Plus Corporati",21.33,+0.2764,21.1036,21.17,21.70
+"SPAN","Span-America Medi",19.00,+0.3911,18.6089,18.85,19.11
+"SPAR","Spartan Motors, I",5.16,-0.0039,5.1739,5.15,5.41
+"SPCB","SuperCom, Ltd.",11.27,-0.2087,11.5286,11.21,11.45
+"SPDC","Speed Commerce, I",2.78,+0.0881,2.6919,2.75,2.86
+"SPEX","Spherix Incorpora",1.49,+0.2417,1.2483,1.44,1.5865
+"SPHS","Sophiris Bio, Inc",2.15,-0.6322,2.7822,2.04,2.26
+"SPIL","Siliconware Preci",7.52,+0.6719,6.8481,7.47,7.56
+"SPKE","Spark Energy, Inc",15.70,-0.9064,16.6064,15.60,16.27
+"SPLK","Splunk Inc.",67.13,+5.835,61.305,67.06,72.25
+"SPLS","Staples, Inc.",14.00,+1.4436,12.5614,13.95,14.13
+"SPNC","The Spectranetics",31.97,+2.4961,29.5139,31.42,32.165
+"SPNS","Sapiens Internati",7.56,+0.0781,7.5119,7.55,7.67
+"SPOK","Spok Holdings, In",16.29,+1.4547,14.8753,16.09,16.65
+"SPPI","Spectrum Pharmace",7.24,-0.2631,7.5031,7.21,7.44
+"SPPR","Supertel Hospital",2.47,+0.1436,2.3164,2.30,2.65
+"SPPRO","Supertel Hospital",19.50,+1.1806,20.3069,20.00,21.4875
+"SPPRP","Supertel Hospital",5.52,-0.8431,6.7931,5.95,5.95
+"SPRO","SmartPros Ltd.",1.49,-0.2939,1.8039,1.49,1.51
+"SPRT","support.com, Inc.",2.07,-0.0244,2.0944,2.07,2.16
+"SPSC","SPS Commerce, Inc",57.78,+0.6536,57.1264,57.73,59.692
+"SPTN","SpartanNash Compa",23.25,+1.6569,21.6131,23.13,23.50
+"SPU","SkyPeople Fruit J",1.06,+0.0574,1.0125,1.05,1.12
+"SPWH","Sportsman's Wareh",7.02,-0.0978,7.1278,6.91,7.2356
+"SPWR","SunPower Corporat",29.43,-0.6112,30.0447,29.05,29.88
+"SQBG","Sequential Brands",12.41,+0.1811,12.2389,12.12,12.81
+"SQBK","Square 1 Financia",21.50,+1.8656,19.6344,21.31,21.56
+"SQI","SciQuest, Inc.",14.93,-0.3206,15.2706,14.83,15.15
+"SQNM","Sequenom, Inc.",2.90,-0.1496,3.0517,2.83,2.987
+"SQQQ","ProShares UltraPr",30.13,-5.2889,35.4239,29.3701,30.36
+"SRCE","1st Source Corpor",30.86,+0.6697,30.2203,30.72,31.82
+"SRCL","Stericycle, Inc.",126.75,+3.974,122.776,126.11,128.24
+"SRDX","SurModics, Inc.",21.39,+0.6094,20.8406,21.32,21.65
+"SREV","ServiceSource Int",4.08,+0.5097,3.5803,4.04,4.27
+"SRNE","Sorrento Therapeu",3.81,-0.2906,4.1086,3.8096,3.95
+"SRPT","Sarepta Therapeut",15.76,-2.6422,18.4122,15.66,16.225
+"SRSC","Sears Canada Inc.",9.52,+0.1864,9.3336,9.49,9.60
+"SSB","South State Corpo",61.98,+2.6305,59.3595,61.50,62.53
+"SSBI","Summit State Bank",13.80,+0.6461,13.3039,13.93,13.95
+"SSFN","Stewardship Finan",4.62,+0.6094,4.3706,4.97,4.98
+"SSH","Sunshine Heart In",4.65,-0.4744,5.1444,4.65,4.73
+"SSNC","SS&C Technologies",50.65,+4.2567,46.4133,50.2201,51.39
+"SSRI","Silver Standard R",5.80,+0.5197,5.2808,5.71,6.13
+"SSYS","Stratasys, Ltd.",102.70,-9.134,111.894,101.72,103.50
+"STAA","STAAR Surgical Co",9.11,-0.9308,10.0608,8.67,9.27
+"STB","Student Transport",6.38,+0.1211,6.2689,6.37,6.417
+"STBA","S&T Bancorp, Inc.",27.58,+1.5475,26.0525,27.445,28.01
+"STBZ","State Bank Financ",18.97,+1.2672,17.7228,18.83,19.31
+"STCK","Stock Building Su",16.14,+1.165,14.975,16.11,16.40
+"STEM","StemCells, Inc.",1.16,-0.0358,1.1958,1.16,1.21
+"STFC","State Auto Financ",20.07,-1.0567,21.2067,20.00,20.54
+"STIM","EndoStim, Inc.",N/A,N/A,0.00,N/A,N/A
+"STKL","SunOpta, Inc.",12.11,-0.9942,13.1142,12.07,12.53
+"STLD","Steel Dynamics, I",22.95,+1.0989,21.8611,22.80,23.25
+"STLY","Stanley Furniture",2.85,+0.0114,2.8386,2.85,2.96
+"STML","Stemline Therapeu",13.95,+0.265,13.695,13.72,14.31
+"STMP","Stamps.com Inc.",45.85,+8.3714,37.5586,45.32,46.44
+"STNR","Steiner Leisure L",43.35,+3.5953,39.8447,43.31,44.24
+"STRA","Strayer Education",75.93,+7.0897,68.8403,75.65,77.92
+"STRL","Sterling Construc",6.39,-1.5006,7.9206,6.28,6.78
+"STRM","Streamline Health",4.01,+0.1867,3.8433,4.00,4.17
+"STRN","Sutron Corporatio",5.00,+0.0258,5.0942,5.09,5.12
+"STRS","Stratus Propertie",13.71,+0.3467,13.6533,13.68,14.00
+"STRT","Strattec Security",107.01,+14.8233,93.1167,106.34,110.00
+"STRZA","Starz",32.10,+0.80,31.30,31.76,32.31
+"STRZB","Starz",31.92,-0.7594,31.1394,N/A,N/A
+"STX","Seagate Technolog",64.93,+6.0658,58.8692,64.74,66.52
+"STXS","Stereotaxis, Inc.",1.80,-0.1149,1.915,1.7701,1.85
+"SUBK","Suffolk Bancorp",21.41,+0.1731,21.3769,21.51,21.69
+"SUMR","Summer Infant, In",2.78,-0.3207,3.1039,2.73,2.82
+"SUNS","Solar Senior Capi",15.25,-0.0539,15.3139,15.12,15.59
+"SUPN","Supernus Pharmace",8.90,+0.7853,8.1347,8.85,9.10
+"SURG","Synergetics USA, ",3.53,+0.1194,3.4206,3.49,3.65
+"SUSQ","Susquehanna Bancs",13.11,+2.6453,10.4747,13.05,13.25
+"SUTR","Sutor Technology ",0.77,+0.2117,0.5647,0.77,0.80
+"SVA","Sinovac Biotech, ",4.98,-0.1981,5.2081,4.96,5.06
+"SVBI","Severn Bancorp In",4.56,-0.0183,4.6283,4.55,4.61
+"SVVC","Firsthand Technol",22.50,-0.9596,23.4606,22.35,22.52
+"SWHC","Smith & Wesson Ho",9.59,-0.2469,9.8419,9.51,10.15
+"SWIR","Sierra Wireless, ",36.48,+7.1564,29.3236,36.32,38.849
+"SWKS","Skyworks Solution",64.32,+7.86,56.4644,64.05,65.35
+"SWSH","Swisher Hygiene, ",2.36,-0.5301,2.90,2.27,2.58
+"SXB","S1 Biopharma, Inc",N/A,N/A,0.00,N/A,N/A
+"SYBT","Stock Yards Banco",31.27,-0.3822,31.7722,31.26,31.99
+"SYKE","Sykes Enterprises",23.14,+1.4933,21.6567,22.5801,23.28
+"SYMC","Symantec Corporat",25.32,+1.2092,24.1108,25.29,25.65
+"SYMX","Synthesis Energy ",0.9452,-0.0873,1.0325,0.93,0.986
+"SYNA","Synaptics Incorpo",60.87,-6.498,67.358,59.45,62.19
+"SYNC","Synacor, Inc.",1.69,-0.0222,1.7122,1.69,1.74
+"SYNL","Synalloy Corporat",15.80,+0.0028,16.0072,15.64,16.05
+"SYNT","Syntel, Inc.",44.44,+1.4522,42.9978,43.69,44.62
+"SYPR","Sypris Solutions,",2.61,-0.4442,3.0942,2.60,2.71
+"SYRX","Sysorex Global Ho",1.25,-1.3261,2.6061,1.18,1.28
+"SYUT","Synutra Internati",5.53,-0.0725,5.6125,5.40,5.64
+"SZMK","Sizmek Inc.",6.05,+0.2267,5.8433,6.02,6.16
+"SZYM","Solazyme, Inc.",2.71,-3.0047,5.7147,2.67,3.01
+"TACT","TransAct Technolo",5.41,-0.323,5.7922,5.40,5.58
+"TAIT","Taitron Component",0.9901,-0.0167,1.0167,1.00,1.01
+"TAPR","Barclays PLC",39.82,-0.3405,40.6805,40.33,40.34
+"TASR","TASER Internation",19.36,+2.4853,16.8747,18.86,21.01
+"TAST","Carrols Restauran",7.53,+0.0917,7.4483,7.52,7.78
+"TATT","TAT Technologies ",6.70,-0.4044,7.1044,6.70,6.78
+"TAX","Liberty Tax, Inc.",38.81,+2.6517,36.1883,38.16,38.95
+"TAXI","Medallion Financi",11.14,-0.1808,11.3508,11.03,11.2399
+"TAYD","Taylor Devices, I",9.55,-0.2306,9.7806,9.52,9.72
+"TBBK","The Bancorp, Inc.",9.15,+0.1494,9.0006,9.10,9.58
+"TBIO","Transgenomic, Inc",2.31,-0.6183,3.0083,2.21,2.42
+"TBK","Triumph Bancorp, ",13.60,+0.832,12.788,12.7201,13.63
+"TBNK","Territorial Banco",20.76,-0.1997,21.0397,20.75,20.97
+"TBPH","Theravance Biopha",15.90,-3.4929,19.3929,15.83,16.55
+"TCBI","Texas Capital Ban",57.27,-0.7567,58.0367,56.79,58.405
+"TCBIL","Texas Capital Ban",24.52,+0.1447,24.3853,24.51,25.21
+"TCBIP","Texas Capital Ban",24.73,+0.114,24.775,24.72,25.00
+"TCBIW","Texas Capital Ban",42.33,+6.0083,38.7117,N/A,N/A
+"TCBK","TriCo Bancshares",25.21,+0.9144,24.3056,25.07,25.71
+"TCCO","Technical Communi",3.85,+0.1367,3.99,3.80,4.2199
+"TCFC","The Community Fin",20.75,-0.0742,20.7442,N/A,N/A
+"TCPC","TCP Capital Corp.",16.79,+0.4183,16.3817,16.75,16.93
+"TCRD","THL Credit, Inc.",13.22,+0.3883,12.8317,13.22,13.42
+"TCX","Tucows Inc.",17.34,+1.9019,15.4381,17.221,17.472
+"TDIV","First Trust Excha",27.97,+1.3486,26.6414,27.88,28.22
+"TEAR","TearLab Corporati",2.79,-0.1156,2.9056,2.53,2.80
+"TECD","Tech Data Corpora",62.56,+4.2114,58.3686,61.45,62.81
+"TECH","Bio-Techne Corp",90.44,-0.823,91.263,89.75,90.76
+"TECU","Tecumseh Products",3.22,-0.2958,3.5558,3.19,3.375
+"TEDU","Tarena Internatio",12.63,+0.2783,12.3717,12.61,13.16
+"TENX","Tenax Therapeutic",4.01,+0.2151,3.7849,3.831,4.10
+"TERP","TerraForm Power, ",32.09,+5.026,27.094,31.75,32.60
+"TESO","Tesco Corporation",16.45,-0.6822,17.1322,16.29,16.68
+"TESS","TESSCO Technologi",29.04,-1.4158,30.5958,29.00,29.72
+"TFM","The Fresh Market,",39.24,+2.9711,36.2739,37.66,39.93
+"TFSC","1347 Capital Corp",9.50,+0.02,9.54,N/A,N/A
+"TFSCR","1347 Capital Corp",0.3502,N/A,0.00,N/A,N/A
+"TFSCU","1347 Capital Corp",10.02,-0.0219,10.0319,N/A,N/A
+"TFSCW","1347 Capital Corp",0.22,N/A,0.00,0.22,0.22
+"TFSL","TFS Financial Cor",15.18,+0.5428,14.6372,15.16,15.30
+"TGA","Transglobe Energy",4.01,-0.5894,4.5994,3.89,4.07
+"TGE","TGC Industries, I",3.01,-0.2883,3.2983,2.99,3.10
+"TGEN","Tecogen Inc.",6.09,+0.1382,6.0618,6.08,6.36
+"TGLS","Tecnoglass Inc.",10.28,-0.1958,10.4758,10.26,10.28
+"TGTX","TG Therapeutics, ",14.76,+3.5011,11.2778,14.24,15.00
+"THFF","First Financial C",33.98,+0.9792,33.0408,33.69,34.36
+"THLD","Threshold Pharmac",3.01,-0.0114,3.0214,2.96,3.16
+"THOR","Thoratec Corporat",30.92,+3.8581,27.0819,30.40,31.105
+"THRM","Gentherm Inc",39.98,-0.6517,40.6517,39.98,41.25
+"THRX","Theravance, Inc.",14.01,-1.6517,15.6667,13.6801,14.48
+"THST","Truett-Hurst, Inc",3.87,-0.6539,4.5639,3.76,3.95
+"THTI","THT Heat Transfer",1.31,-0.1204,1.4403,1.24,1.3499
+"TIBX","TIBCO Software, I",23.74,+0.3289,23.4161,23.72,23.76
+"TICC","TICC Capital Corp",8.67,+0.0656,8.6144,8.66,8.78
+"TIGR","TigerLogic Corpor",0.87,+0.2785,0.5925,0.82,0.91
+"TILE","Interface, Inc.",15.72,+0.2317,15.4983,15.61,15.94
+"TINY","Harris & Harris G",2.79,-0.0381,2.8281,2.75,2.84
+"TIPT","Tiptree Financial",7.37,-0.1658,7.6558,7.39,7.55
+"TISA","Top Image Systems",3.40,-0.4791,3.8567,3.30,3.5619
+"TITN","Titan Machinery I",14.38,+0.37,14.03,14.17,14.67
+"TIVO","TiVo Inc.",12.99,+0.1989,12.7961,12.90,13.11
+"TKAI","Tokai Pharmaceuti",14.72,-0.0717,14.8017,14.54,15.15
+"TKMR","Tekmira Pharmaceu",16.05,-3.2958,19.3458,16.01,16.30
+"TLF","Tandy Leather Fac",9.28,-0.0333,9.4033,9.26,9.4376
+"TLMR","Talmer Bancorp, I",13.94,-0.0106,13.9506,13.85,14.12
+"TLOG","TetraLogic Pharma",4.98,+0.9832,4.0168,4.7501,5.17
+"TNAV","Telenav, Inc.",6.63,+0.2247,6.4353,6.59,6.93
+"TNDM","Tandem Diabetes C",14.35,-0.3019,14.6619,14.31,15.434
+"TNGO","Tangoe, Inc.",12.88,-0.77,13.68,12.80,13.17
+"TNXP","Tonix Pharmaceuti",7.07,+0.3544,6.7356,7.02,7.25
+"TOPS","TOP Ships Inc.",1.59,-0.1408,1.7208,1.55,1.66
+"TORM","TOR Minerals Inte",7.71,+0.5055,7.9944,8.4999,8.4999
+"TOUR","Tuniu Corporation",14.54,-2.4778,17.0778,14.26,14.96
+"TOWN","Towne Bank",14.47,-0.0092,14.5092,14.42,14.76
+"TQNT","TriQuint Semicond",23.67,+4.1067,19.5683,23.57,24.19
+"TQQQ","ProShares UltraPr",98.83,+12.6311,86.2089,98.08,101.32
+"TRAK","Dealertrack Techn",45.91,+2.2761,43.6639,45.45,46.66
+"TRCB","Two River Bancorp",8.15,+0.1145,8.1556,8.27,8.27
+"TRCH","Torchlight Energy",1.47,-0.6589,2.1489,1.33,1.50
+"TREE","Tree.com, Inc.",44.44,+5.2714,39.1836,44.20,45.00
+"TRGT","Targacept, Inc.",2.42,+0.0261,2.4039,2.42,2.49
+"TRIB","Trinity Biotech p",16.92,-0.4247,17.3547,16.87,17.245
+"TRIP","TripAdvisor, Inc.",71.45,-9.1391,80.6091,71.11,72.51
+"TRIV","TriVascular Techn",13.60,-0.0626,13.9026,13.36,14.44
+"TRMB","Trimble Navigatio",28.41,-0.2625,28.6725,28.28,28.77
+"TRMK","Trustmark Corpora",23.98,+0.1886,23.7914,23.95,24.77
+"TRNS","Transcat, Inc.",9.75,+0.0444,9.7306,9.69,9.775
+"TRNX","Tornier N.V.",26.03,+1.1658,24.8692,25.79,26.41
+"TROV","TrovaGene, Inc.",4.82,+0.3558,4.5142,4.795,5.00
+"TROVU","TrovaGene, Inc.",7.79,0.00,14.11,N/A,N/A
+"TROVW","TrovaGene, Inc.",2.88,-0.0241,3.3341,N/A,N/A
+"TROW","T. Rowe Price Gro",82.85,+3.5345,79.3255,82.48,83.17
+"TRS","TriMas Corporatio",31.76,+3.1225,28.6675,31.49,32.50
+"TRST","TrustCo Bank Corp",6.94,-0.0183,6.9683,6.91,7.114
+"TRTL","Terrapin 3 Acquis",9.60,0.00,9.55,N/A,N/A
+"TRTLU","Terrapin 3 Acquis",10.00,-0.0142,10.0542,N/A,N/A
+"TRTLW","Terrapin 3 Acquis",0.20,N/A,0.00,0.22,0.28
+"TRUE","TrueCar, Inc.",18.02,-0.4122,18.4422,17.50,18.50
+"TRVN","Trevena, Inc.",5.27,-0.2747,5.5447,5.20,5.496
+"TSBK","Timberland Bancor",10.55,+0.0753,10.5747,10.56,10.65
+"TSC","TriState Capital ",9.95,+0.3831,9.5669,9.92,10.07
+"TSCO","Tractor Supply Co",75.71,+8.0725,67.6375,75.34,76.47
+"TSEM","Tower Semiconduct",12.10,+2.2369,9.8681,11.82,12.18
+"TSLA","Tesla Motors, Inc",242.80,+0.686,242.224,242.17,252.78
+"TSRA","Tessera Technolog",33.54,+5.0625,28.4975,33.31,33.98
+"TSRE","Trade Street Resi",7.75,+0.6925,7.0575,7.66,7.79
+"TSRI","TSR, Inc.",3.35,+0.1575,3.2725,3.42,3.43
+"TSRO","TESARO, Inc.",30.52,+3.1589,27.3911,29.96,31.13
+"TST","TheStreet, Inc.",2.16,-0.0286,2.1986,2.1598,2.19
+"TSYS","TeleCommunication",2.87,-0.018,2.8881,2.85,2.94
+"TTEC","TeleTech Holdings",23.81,-0.5633,24.3733,23.73,24.40
+"TTEK","Tetra Tech, Inc.",27.28,+1.4297,25.8603,27.1501,27.74
+"TTGT","TechTarget, Inc.",10.24,+0.4455,9.8045,10.18,10.59
+"TTHI","Transition Therap",6.24,-0.06,6.40,6.24,6.41
+"TTMI","TTM Technologies,",6.77,+0.3458,6.4242,6.75,6.95
+"TTOO","T2 Biosystems, In",16.51,+1.3808,15.3092,15.19,16.75
+"TTPH","Tetraphase Pharma",22.01,-1.4258,23.4558,21.65,22.65
+"TTS","Tile Shop Hldgs, ",8.82,+0.1803,8.6497,8.75,9.35
+"TTWO","Take-Two Interact",26.88,+2.9658,23.9142,26.69,27.46
+"TUBE","TubeMogul, Inc.",14.75,+0.5756,14.2394,14.5628,15.67
+"TUES","Tuesday Morning C",21.77,+1.97,19.80,21.69,22.82
+"TVIX","Credit Suisse AG",2.40,-0.8056,3.2156,2.36,2.46
+"TVIZ","Credit Suisse AG",20.18,-2.5225,22.7125,19.97,20.43
+"TWER","Towerstream Corpo",1.55,+0.2564,1.3036,1.52,1.59
+"TWIN","Twin Disc, Incorp",22.84,-2.3017,25.1617,22.495,23.46
+"TWMC","Trans World Enter",3.21,-0.1836,3.3936,3.17,3.39
+"TWOU","2U, Inc.",17.66,+0.4814,17.1986,17.31,17.86
+"TXN","Texas Instruments",52.47,+4.4547,48.0153,52.04,52.98
+"TXRH","Texas Roadhouse, ",31.69,+2.3606,29.3394,31.31,31.81
+"TYPE","Monotype Imaging ",27.98,-0.12,28.10,27.90,28.69
+"TZOO","Travelzoo Inc.",12.53,-0.7969,13.3319,12.43,12.75
+"UACL","Universal Trucklo",26.45,+0.7669,25.7231,26.32,26.63
+"UAE","iShares MSCI UAE ",22.83,+0.2468,22.7431,22.76,22.9899
+"UBCP","United Bancorp, I",8.15,+0.1308,8.0192,8.15,8.15
+"UBFO","United Security B",5.41,-0.1647,5.5648,5.4001,5.60
+"UBIC","UBIC, Inc.",12.80,-1.1401,13.8901,12.75,12.75
+"UBNK","United Financial ",13.90,+0.2581,13.6419,13.82,14.22
+"UBNT","Ubiquiti Networks",29.97,-3.1492,33.1242,29.50,30.88
+"UBOH","United Bancshares",14.75,-0.0186,14.7686,14.51,14.95
+"UBSH","Union Bankshares ",23.08,+0.3397,22.7503,23.035,23.43
+"UBSI","United Bankshares",34.93,+1.6072,33.3228,34.75,35.71
+"UCBA","United Community ",11.89,+0.3367,11.8433,N/A,N/A
+"UCBI","United Community ",17.87,+0.7075,17.1625,17.76,18.47
+"UCFC","United Community ",5.09,+0.2039,4.8861,5.08,5.21
+"UCTT","Ultra Clean Holdi",8.49,+0.3261,8.1739,8.31,8.59
+"UDF","United Developmen",19.52,+0.0288,19.5025,19.38,19.60
+"UEIC","Universal Electro",60.05,+5.6256,54.4544,59.89,61.22
+"UEPS","Net 1 UEPS Techno",12.76,+0.7161,12.0489,12.516,12.835
+"UFCS","United Fire Group",28.53,-1.305,29.865,27.84,28.85
+"UFPI","Universal Forest ",49.20,+2.0017,47.3183,48.87,50.40
+"UFPT","UFP Technologies,",21.83,+0.0756,21.7744,21.795,22.08
+"UG","United-Guardian, ",20.00,-1.0106,21.0006,19.82,20.63
+"UGLD","Credit Suisse AG",11.91,-0.2088,12.1189,11.691,12.0855
+"UHAL","Amerco",280.26,+15.05,266.29,275.15,281.69
+"UIHC","United Insurance ",18.22,+0.7842,17.4358,18.18,19.06
+"ULBI","Ultralife Corpora",2.84,-0.2215,3.10,2.83,3.13
+"ULTA","Ulta Salon, Cosme",127.41,+8.308,119.132,127.03,128.62
+"ULTI","The Ultimate Soft",150.00,+6.922,143.078,149.4112,153.98
+"ULTR","Ultrapetrol (Baha",2.41,-0.5428,2.9528,2.40,2.6122
+"UMBF","UMB Financial Cor",57.03,+0.2342,56.7958,56.62,58.10
+"UMPQ","Umpqua Holdings C",17.17,+0.3603,16.8097,16.985,17.41
+"UNAM","Unico American Co",11.36,-0.0269,11.9164,11.3501,11.90
+"UNB","Union Bankshares,",23.62,+0.3753,24.0367,N/A,N/A
+"UNFI","United Natural Fo",74.53,+7.5369,66.9831,74.285,75.192
+"UNIS","Unilife Corporati",3.00,-0.2647,3.2647,2.92,3.0216
+"UNTD","United Online, In",13.13,+1.5708,11.5792,13.15,13.54
+"UNTY","Unity Bancorp, In",9.06,+0.0269,9.123,9.05,9.15
+"UNXL","Uni-Pixel, Inc.",5.37,+0.2217,5.1783,5.18,5.55
+"UPI","Uroplasty, Inc.",2.34,-0.0058,2.4158,2.41,2.50
+"UPIP","Unwired Planet, I",1.37,-0.1967,1.5667,1.36,1.40
+"UPLD","Upland Software, ",10.90,+0.1182,10.8718,10.701,11.19
+"URBN","Urban Outfitters,",31.53,-0.4806,32.0106,30.88,32.03
+"URRE","Uranium Resources",2.12,+0.2678,1.8522,2.12,2.2899
+"USAK","USA Truck, Inc.",18.79,+1.9197,16.9303,18.10,18.88
+"USAP","Universal Stainle",26.73,+1.1706,25.6294,25.96,27.25
+"USAT","USA Technologies,",1.55,-0.0978,1.6578,1.52,1.60
+"USATP","USA Technologies,",18.10,-0.8181,19.8681,N/A,N/A
+"USBI","United Security B",8.61,+0.1036,8.7464,8.66,8.85
+"USCR","U S Concrete, Inc",27.91,+3.0547,24.9253,27.89,28.9225
+"USEG","U.S. Energy Corp.",1.94,-0.5989,2.5489,1.93,1.98
+"USLM","United States Lim",71.74,+5.9094,66.2206,72.06,73.27
+"USLV","Credit Suisse AG",23.42,-1.6341,25.0342,22.734,24.12
+"USMD","USMD Holdings, In",7.20,-0.4961,7.6961,6.955,7.26
+"USTR","United Stationers",41.44,+1.1792,40.2608,41.07,42.62
+"UTEK","Ultratech, Inc.",18.84,-1.1208,19.9908,18.75,19.53
+"UTHR","United Therapeuti",129.95,+2.653,127.287,129.11,131.86
+"UTIW","UTi Worldwide Inc",11.46,+0.665,10.795,11.10,11.50
+"UTMD","Utah Medical Prod",57.51,+3.4853,54.0847,57.57,58.68
+"UTSI","UTStarcom Holding",2.63,-0.0519,2.6919,2.57,2.67
+"UVSP","Univest Corporati",19.76,+0.055,19.845,19.6648,20.29
+"VA","Virgin America In",34.10,+0.792,33.378,33.85,36.10
+"VALU","Value Line, Inc.",15.22,-0.0331,15.5931,15.05,15.80
+"VASC","Vascular Solution",24.93,-2.3922,27.3922,24.95,25.80
+"VBFC","Village Bank and ",22.00,+2.3478,19.2022,21.55,21.55
+"VBIV","VBI Vaccines Inc.",2.32,-0.1039,2.4139,2.28,2.43
+"VBLT","Vascular Biogenic",6.15,-0.1871,6.3371,6.15,6.75
+"VBND","Vident Core U.S. ",49.70,+0.0338,49.6862,49.655,49.72
+"VBTX","Veritex Holdings,",15.21,+1.1202,14.3498,14.52,16.16
+"VCIT","Vanguard Intermed",86.17,-0.2331,86.4331,86.00,86.20
+"VCLT","Vanguard Long-Ter",90.19,-0.6791,90.9392,89.87,90.349
+"VCSH","Vanguard Short-Te",80.00,-0.1013,80.1103,79.95,80.06
+"VCYT","Veracyte, Inc.",6.57,-1.4104,7.9804,6.50,6.75
+"VDSI","VASCO Data Securi",26.87,+4.3861,22.4839,26.87,27.8098
+"VECO","Veeco Instruments",35.81,+1.6489,34.1611,35.71,36.68
+"VGGL","Viggle Inc.",2.93,+0.0812,2.8489,2.85,3.34
+"VGIT","Vanguard Intermed",64.34,-0.0583,64.3983,64.301,64.3599
+"VGLT","Vanguard Long-Ter",74.49,+0.2292,74.2608,74.1935,74.56
+"VGSH","Vanguard Short-Te",61.03,+0.0043,61.0547,61.02,61.06
+"VIA","Viacom Inc.",73.94,+2.1097,71.8403,73.50,75.18
+"VIAB","Viacom Inc.",73.82,+2.2144,71.6156,73.29,74.94
+"VIAS","Viasystems Group,",15.66,+0.2797,15.5203,15.75,16.08
+"VICL","Vical Incorporate",1.09,-0.0761,1.1661,1.09,1.13
+"VICR","Vicor Corporation",11.79,+0.36,11.435,11.56,11.93
+"VIDE","Video Display Cor",2.88,-0.0452,2.9853,2.82,2.97
+"VIDI","Vident Internatio",24.51,+0.5828,23.9572,24.48,24.59
+"VIEW","Viewtran Group, I",1.56,-0.1272,1.6872,1.55,1.59
+"VIIX","Credit Suisse AG",37.54,-5.5883,43.1883,37.40,37.98
+"VIIZ","Credit Suisse AG",17.28,-0.9478,18.1978,17.11,17.36
+"VIMC","Vimicro Internati",8.71,-0.7211,9.4311,8.71,9.15
+"VIP","VimpelCom Ltd.",5.91,-0.1647,6.0747,5.87,6.00
+"VIRC","Virco Manufacturi",2.60,+0.0031,2.4869,2.49,2.49
+"VISN","VisionChina Media",10.52,+0.0889,10.4711,10.56,10.81
+"VIVO","Meridian Bioscien",16.03,-1.5033,17.5433,15.80,16.34
+"VLCCF","Knightsbridge Shi",6.45,-1.2033,7.6533,6.35,7.15
+"VLGEA","Village Super Mar",25.33,-0.0394,25.3294,25.29,25.75
+"VLTC","Voltari Corporati",1.15,-0.2793,1.4483,1.11,1.19
+"VLYWW","Valley National B",0.15,+0.0806,0.1194,0.10,0.20
+"VMBS","Vanguard Mortgage",53.04,+0.1347,52.9353,53.0198,53.09
+"VNDA","Vanda Pharmaceuti",12.56,+1.5661,10.9939,12.05,12.65
+"VNET","21Vianet Group, I",19.37,-0.0758,19.4458,19.235,20.75
+"VNOM","Viper Energy Part",19.87,-0.3772,20.3072,19.49,19.99
+"VNQI","Vanguard Global e",56.15,+1.3316,54.8331,55.91,56.41
+"VNR","Vanguard Natural ",25.74,+0.9292,24.8308,25.60,26.88
+"VNRAP","Vanguard Natural ",23.79,-0.7083,24.5567,23.70,23.9277
+"VNRBP","Vanguard Natural ",22.42,-1.025,23.4351,22.35,22.5396
+"VNRCP","Vanguard Natural ",22.70,-0.9782,23.715,22.52,22.90
+"VOD","Vodafone Group Pl",35.54,+2.7819,32.7681,35.35,35.85
+"VOLC","Volcano Corporati",11.21,+0.4575,10.7525,11.09,11.2975
+"VONE","Vanguard Russell ",95.07,+4.1567,90.9533,94.8501,95.75
+"VONG","Vanguard Russell ",98.68,+4.4814,94.2972,98.55,99.39
+"VONV","Vanguard Russell ",91.61,+3.9397,87.7203,91.491,92.01
+"VOXX","VOXX Internationa",8.38,+0.0742,8.3058,8.23,8.47
+"VPCO","Vapor Corp.",1.58,-0.1685,1.7517,1.58,1.62
+"VPFG","ViewPoint Financi",25.31,-0.4494,25.7894,25.10,26.14
+"VRA","Vera Bradley, Inc",22.71,+0.9947,21.7228,22.12,23.14
+"VRML","Vermillion, Inc.",1.46,-0.0942,1.5742,1.436,1.563
+"VRNG","Vringo, Inc.",0.9297,+0.0026,0.9272,0.892,0.95
+"VRNGW","Vringo, Inc.",0.087,N/A,0.00,0.087,0.0997
+"VRNS","Varonis Systems, ",23.97,+3.5078,20.4922,23.11,24.30
+"VRNT","Verint Systems In",58.93,+2.8794,56.0606,58.78,60.25
+"VRSK","Verisk Analytics,",62.24,+0.7408,61.4992,62.23,63.24
+"VRSN","VeriSign, Inc.",59.95,+2.4019,57.5581,59.81,60.35
+"VRTA","Vestin Realty Mor",1.30,+0.0078,1.3422,1.30,1.53
+"VRTB","Vestin Realty Mor",4.91,+0.4219,4.4933,4.77,5.03
+"VRTS","Virtus Investment",154.90,-16.854,171.854,154.58,157.50
+"VRTU","Virtusa Corporati",39.67,+2.1506,37.5894,39.24,39.95
+"VRTX","Vertex Pharmaceut",111.33,+1.764,109.596,110.62,114.43
+"VSAR","Versartis, Inc.",18.00,-1.5608,19.5608,17.94,19.01
+"VSAT","ViaSat, Inc.",66.00,+6.8969,59.1331,65.70,66.90
+"VSCI","Vision-Sciences, ",1.03,+0.0469,0.9831,1.03,1.0799
+"VSCP","VirtualScopics, I",3.56,-0.5258,4.1594,3.6336,3.949
+"VSEC","VSE Corporation",55.38,+0.4389,55.4511,55.8401,56.95
+"VSTM","Verastem, Inc.",8.95,-0.1853,9.1353,8.79,9.085
+"VTAE","Vitae Pharmaceuti",17.31,+5.9633,11.2967,16.8412,17.99
+"VTHR","Vanguard Russell ",95.06,+4.1414,90.9486,94.95,95.42
+"VTIP","Vanguard Short-Te",49.40,-0.0343,49.4495,49.38,49.43
+"VTL","Vital Therapies, ",18.60,+1.5125,17.0875,18.26,19.49
+"VTNR","Vertex Energy, In",3.98,-1.8592,5.8592,3.90,4.15
+"VTSS","Vitesse Semicondu",3.42,+0.1361,3.2939,3.38,3.5292
+"VTWG","Vanguard Russell ",100.55,+4.4092,96.3008,100.2251,101.52
+"VTWO","Vanguard Russell ",93.96,+3.7098,90.283,93.55,95.05
+"VTWV","Vanguard Russell ",87.55,+3.197,84.333,87.53,88.98
+"VUSE","Vident Core US Eq",26.79,+1.1464,25.6836,26.79,26.92
+"VVTV","ValueVision Media",N/A,+0.6972,5.3828,N/A,N/A
+"VVUS","VIVUS, Inc.",3.39,+0.0464,3.3536,3.1922,3.45
+"VWOB","Vanguard Emerging",78.85,-0.1767,79.0367,78.86,79.273
+"VWR","VWR Corporation",25.78,+3.4735,22.3065,25.44,26.04
+"VXUS","Vanguard Total In",50.95,+1.2047,49.7553,50.78,51.0999
+"VYFC","Valley Financial ",19.75,+6.2253,13.5147,19.70,19.99
+"WABC","Westamerica Banco",49.04,+1.2839,47.7861,48.67,50.00
+"WAFD","Washington Federa",21.82,+0.8272,20.9928,21.68,22.16
+"WAFDW","Washington Federa",5.22,+0.2683,5.0917,5.36,5.46
+"WASH","Washington Trust ",36.65,+0.765,36.145,36.66,37.54
+"WATT","Energous Corporat",9.63,-0.1309,9.8409,9.25,9.71
+"WAVX","Wave Systems Corp",1.00,-0.0878,1.0878,1.00,1.0299
+"WAYN","Wayne Savings Ban",13.01,+0.6118,12.7481,13.06,13.3599
+"WB","Weibo Corporation",18.35,-0.0008,18.3508,18.10,18.44
+"WBB","Westbury Bancorp,",15.10,+0.1036,15.0464,15.15,15.24
+"WBKC","Wolverine Bancorp",22.60,+0.225,22.68,N/A,N/A
+"WBMD","WebMD Health Corp",37.52,-1.2886,38.8186,37.529,38.7999
+"WDC","Western Digital C",101.50,+7.0558,94.4442,100.83,103.48
+"WDFC","WD-40 Company",75.78,+2.4792,73.4908,75.15,76.90
+"WEBK","Wellesley Bancorp",18.56,-0.1971,18.7181,18.521,18.521
+"WEN","Wendy's Company (",8.56,+0.35,8.215,8.53,8.64
+"WERN","Werner Enterprise",29.10,+2.7122,26.3978,28.70,29.39
+"WETF","WisdomTree Invest",15.57,+2.7072,12.8728,15.49,15.95
+"WEYS","Weyco Group, Inc.",28.00,+0.1922,27.8078,27.36,28.14
+"WFBI","WashingtonFirst B",15.00,+0.0418,15.0822,15.10,15.29
+"WFD","Westfield Financi",7.29,+0.1933,7.1267,7.27,7.41
+"WFM","Whole Foods Marke",48.21,+7.3922,40.8178,47.65,48.40
+"WGBS","WaferGen Bio-syst",3.98,+0.0842,3.9058,3.85,4.003
+"WHF","WhiteHorse Financ",12.43,-0.4297,12.8797,12.33,12.74
+"WHFBL","WhiteHorse Financ",25.12,+0.0075,25.2225,25.12,25.239
+"WHLM","Wilhelmina Intern",5.70,-0.0858,5.8858,5.70,5.80
+"WHLR","Wheeler Real Esta",4.29,-0.1257,4.4277,4.255,4.36
+"WHLRP","Wheeler Real Esta",22.75,N/A,0.00,22.84,23.20
+"WHLRW","Wheeler Real Esta",0.27,-0.0683,0.3383,0.27,0.28
+"WIBC","Wilshire Bancorp,",9.72,+0.0692,9.6508,9.69,9.99
+"WIFI","Boingo Wireless, ",7.60,+0.485,7.115,7.58,7.75
+"WILC","G. Willi-Food Int",6.54,-0.0961,6.6161,6.51,6.74
+"WILN","Wi-LAN Inc",3.32,+0.1206,3.2094,3.2932,3.35
+"WIN","Windstream Holdin",9.97,-0.1719,10.1419,9.77,10.02
+"WINA","Winmark Corporati",81.35,+1.6428,79.8467,80.80,81.99
+"WIRE","Encore Wire Corpo",37.84,-0.1939,38.0539,37.7499,38.63
+"WIX","Wix.com Ltd.",21.32,+3.7581,17.5819,20.60,21.78
+"WLB","Westmoreland Coal",39.51,+3.8917,35.6783,38.83,40.99
+"WLBPZ","Westmoreland Coal",47.83,+3.0394,61.9506,N/A,N/A
+"WLDN","Willdan Group, In",17.12,+2.7356,14.4244,17.01,17.739
+"WLFC","Willis Lease Fina",21.85,+0.7714,21.1686,21.6501,21.97
+"WLRH","WL Ross Holding C",10.00,N/A,0.00,10.07,10.1999
+"WLRHU","WL Ross Holding C",10.95,+0.1739,10.7761,10.8999,11.019
+"WLRHW","WL Ross Holding C",0.80,N/A,0.00,0.95,0.99
+"WMAR","West Marine, Inc.",10.41,+0.8417,9.6283,10.30,10.58
+"WMGI","Wright Medical Gr",28.48,-1.6617,30.1417,28.34,28.91
+"WMGIZ","Wright Medical Gr",4.31,+1.1506,3.1994,4.21,4.50
+"WOOD","iShares S&P Globa",51.76,+1.5658,50.2642,51.82,52.07
+"WOOF","VCA Inc. ",46.23,+3.4039,42.8361,46.04,46.63
+"WPCS","WPCS Internationa",0.521,-0.1522,0.6889,0.51,0.54
+"WPPGY","WPP plc",102.73,+6.4653,96.3247,102.46,103.12
+"WPRT","Westport Innovati",5.67,-0.4244,6.1044,5.668,5.85
+"WRES","Warren Resources,",3.01,-0.4883,3.4983,2.98,3.14
+"WRLD","World Acceptance ",76.80,+5.7256,71.0844,76.41,78.01
+"WSBC","WesBanco, Inc.",33.45,+0.4942,32.9658,33.33,34.33
+"WSBF","Waterstone Financ",12.24,+0.2078,12.0372,12.17,12.47
+"WSCI","WSI Industries In",6.30,-0.1496,6.4603,6.301,6.43
+"WSFS","WSFS Financial Co",76.66,+1.7397,75.1203,76.07,78.04
+"WSFSL","WSFS Financial Co",26.51,-0.1066,26.6067,N/A,N/A
+"WSTC","West Corporation",30.09,+0.2958,29.8542,29.99,30.74
+"WSTG","Wayside Technolog",17.28,+0.6872,16.5928,17.10,17.5411
+"WSTL","Westell Technolog",1.33,-0.1669,1.5069,1.33,1.36
+"WTBA","West Bancorporati",15.87,+0.3503,15.6197,15.88,16.00
+"WTFC","Wintrust Financia",44.91,-0.2519,45.1619,44.76,45.81
+"WTFCW","Wintrust Financia",22.08,+0.1097,22.4103,22.52,22.61
+"WTSL","The Wet Seal, Inc",0.3495,-0.052,0.4019,0.332,0.38
+"WVFC","WVS Financial Cor",10.85,+0.0157,10.9342,N/A,N/A
+"WVVI","Willamette Valley",5.62,+0.2283,5.5017,5.67,5.801
+"WWD","Woodward, Inc.",52.10,+3.1153,48.9847,51.69,52.33
+"WWWW","Web.com Group, In",17.65,-0.6686,18.3186,17.08,17.807
+"WYNN","Wynn Resorts, Lim",179.21,-2.426,181.661,179.235,182.45
+"XBKS","Xenith Bankshares",6.45,+0.0931,6.4069,6.4101,6.50
+"XCRA","Xcerra Corporatio",8.05,-0.265,8.325,8.03,8.36
+"XENE","Xenon Pharmaceuti",12.68,-0.9064,13.7764,12.55,13.70
+"XENT","Intersect ENT, In",17.36,+0.081,17.429,17.10,18.18
+"XGTI","XG Technology, In",1.35,-0.2167,1.5667,1.33,1.4199
+"XGTIW","XG Technology, In",0.61,-0.02,0.69,0.6173,0.67
+"XIV","Credit Suisse AG",38.02,+3.4607,34.5594,37.57,38.29
+"XLNX","Xilinx, Inc.",44.75,+2.6488,42.1111,44.29,44.85
+"XLRN","Acceleron Pharma ",34.69,+2.565,32.135,33.65,35.47
+"XNCR","Xencor, Inc.",10.64,+0.1868,10.5432,10.26,10.73
+"XNET","Xunlei Limited",9.71,-0.3019,10.0119,9.57,10.60
+"XNPT","XenoPort, Inc.",7.90,+1.2181,6.6919,7.71,7.96
+"XOMA","XOMA Corporation",4.58,+0.4792,4.1108,4.50,4.73
+"XONE","The ExOne Company",21.23,+0.0006,21.2094,20.70,21.70
+"XOOM","Xoom Corporation",14.40,-2.9497,17.3497,14.21,14.80
+"XPLR","Xplore Technologi",5.40,+0.1378,5.3622,5.30,5.65
+"XRAY","DENTSPLY Internat",53.96,+5.5003,48.4597,53.08,54.15
+"XTLB","XTL Biopharmaceut",2.21,+0.2867,2.0733,2.17,2.42
+"XWES","World Energy Solu",5.45,+0.8853,4.5647,5.44,5.46
+"XXIA","Ixia",10.41,+1.0378,9.3722,10.34,10.52
+"YDIV","First Trust Inter",20.29,+0.2881,20.1119,20.3101,20.45
+"YDLE","Yodlee, Inc.",12.44,-0.9886,13.4286,12.30,12.73
+"YHOO","Yahoo! Inc.",51.13,+6.5139,44.6211,51.11,52.25
+"YNDX","Yandex N.V.",26.67,+0.015,26.655,26.30,26.99
+"YOD","You On Demand Hol",2.10,+0.0436,2.0564,2.10,2.20
+"YORW","The York Water Co",20.45,-0.5625,21.0425,20.40,20.91
+"YPRO","AdvisorShares Yie",24.00,-0.4106,24.4016,23.991,24.15
+"YRCW","YRC Worldwide, In",23.20,+3.2525,19.9525,22.61,23.42
+"YY","YY Inc.",74.14,-2.9411,77.0911,74.0624,76.82
+"Z","Zillow, Inc.",114.75,+6.582,108.198,114.53,117.8299
+"ZAGG","ZAGG Inc",5.75,-0.0242,5.7742,5.67,5.80
+"ZAZA","ZaZa Energy Corpo",3.01,+0.2933,2.7267,2.96,3.25
+"ZBRA","Zebra Technologie",72.60,+3.3413,69.2767,72.29,74.50
+"ZEUS","Olympic Steel, In",18.04,-0.9525,18.9925,17.72,18.31
+"ZFGN","Zafgen, Inc.",20.71,+1.7972,19.0428,20.44,20.97
+"ZGNX","Zogenix, Inc.",1.19,-0.0808,1.2808,1.18,1.22
+"ZHNE","Zhone Technologie",2.20,-0.1043,2.3044,2.17,2.23
+"ZINC","Horsehead Holding",16.18,+0.7675,15.42,15.82,16.38
+"ZION","Zions Bancorporat",29.27,+1.0008,28.2692,29.08,29.46
+"ZIONW","Zions Bancorporat",4.76,+0.2392,4.5708,4.67,4.81
+"ZIONZ","Zions Bancorporat",3.05,N/A,0.00,N/A,N/A
+"ZIOP","ZIOPHARM Oncology",3.81,+0.8296,2.9903,3.65,3.85
+"ZIV","Credit Suisse AG",44.68,+1.7825,42.9875,44.50,45.37
+"ZIXI","Zix Corporation",3.30,-0.1131,3.4131,3.25,3.36
+"ZJZZT","ZJZZT",N/A,N/A,N/A,N/A,N/A
+"ZLTQ","ZELTIQ Aesthetics",28.30,+3.685,24.625,28.23,29.31
+"ZN","Zion Oil & Gas In",1.64,-0.0506,1.6922,1.64,1.65
+"ZNGA","Zynga Inc.",2.68,+0.2047,2.4853,2.68,2.7301
+"ZSPH","ZS Pharma, Inc.",41.01,+5.2108,35.9192,38.95,41.48
+"ZU","zulily, inc.",28.84,-5.3828,34.2328,28.13,28.93
+"ZUMZ","Zumiez Inc.",35.87,+3.2611,32.6889,35.70,36.90
+"ZVZZT","ZVZZT",N/A,N/A,N/A,N/A,N/A
+"ZWZZT","ZWZZT",N/A,N/A,N/A,N/A,N/A
+"ZXYZ.A","ZXYZ.A",N/A,N/A,N/A,N/A,N/A
+"ZXZZT","ZXZZT",N/A,N/A,N/A,N/A,N/A

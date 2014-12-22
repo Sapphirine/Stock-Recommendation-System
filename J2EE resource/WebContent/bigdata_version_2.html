@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Big Data Project</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+
+<script> 
+
+$(document).ready(function(){
+
+  //title 
+  $(function(){
+    $("#img").animate({height:'50%',opacity:'1.0'},2000);
+    $("#title").animate({height:'50%',opacity:'1.0'},2000);
+
+  })
+  
+  //showtable
+  $("#searchbutton").click(function(){
+    $("#realTable").slideToggle(500);
+  });
+  
+  $("#button").click(function(){
+	    $("#outputTable").slideToggle(500);
+	    $("#calculate").slideToggle(500);
+	  });
+  
+  $("#calculate").click(function(){
+	    $("#calTable").slideToggle(500);
+	  });
+
+
+
+ });
+ 
+
+
+function stockController($scope,$http) {
+
+      $scope.count=0;
+      $scope.Mar='G';
+      $scope.Tes='N';   
+      $scope.fin='N';
+      $scope.$symbol;
+
+        //$http.get("stock.php?q=G&t=N&f=N")
+       /* $http.get("stock.php?q="+$scope.Mar+'&t='+$scope.Tes+'&f='+$scope.fin)
+        .success(function(response) {$scope.names = response;
+        document.getElementById("trying").innerHTML=response;
+        });*/
+        //$http.get("http://localhost/stock.php")
+        $scope.submit=function(){$http.get("http://localhost/stock.php?q="+$scope.Mar+'&t='+$scope.Tes+'&f='+$scope.fin)
+        .success(function(response) {$scope.names = response;
+        });}
+    }
+    
+    
+function outputController($scope,$http) {
+
+      $scope.submit=function(){
+    	  $.ajax(
+  	    		{type:"POST",
+  	    	url:'InputServlet',
+  	    	async: false,
+  	    	cache: false,
+  	    	data: {"recom":$("#box").serialize()},
+  	    	success: function(data){
+  	    		$scope.data=data;
+  	    		$scope.block0=data[0].similarityBlock;
+  	    		$scope.block1=data[1].similarityBlock;
+  	    		$scope.block2=data[2].similarityBlock;
+  	    		$scope.block3=data[3].similarityBlock;
+  	    		$scope.block4=data[4].similarityBlock;
+  	    		$scope.block5=data[5].similarityBlock;
+  	    		$scope.block6=data[6].similarityBlock;
+  	    		$scope.block7=data[7].similarityBlock;
+  	    		$scope.block8=data[8].similarityBlock;
+  	    		$scope.block9=data[9].similarityBlock;
+  	    	}
+  	    });
+      }
+  }
+  
+function calController($scope,$http) {
+
+    $scope.submit=function(){
+      $.ajax(
+          {type:"POST",
+        url:'calServlet',
+        async: false,
+        cache: false,
+        data: {"recom":$("#box").serialize()},
+        success: function(data){
+          $scope.data=data;
+          $scope.block0=data[0].calculationBlock;
+          $scope.block1=data[1].calculationBlock;
+          $scope.block2=data[2].calculationBlock;
+          $scope.block3=data[3].calculationBlock;
+          $scope.block4=data[4].calculationBlock;
+          $scope.block5=data[5].calculationBlock;
+          $scope.block6=data[6].calculationBlock;
+          $scope.block7=data[7].calculationBlock;
+          $scope.block8=data[8].calculationBlock;
+          $scope.block9=data[9].calculationBlock;
+        }
+      });
+    }
+}
+  
+    
+
+    function like(a){
+      var cell=document.getElementById("t02").rows[a].cells;
+      document.getElementById("append").value+='  '+cell[0].innerHTML;
+    }
+
+     function getInfo(a){
+      	//var $symbol=document.getElementById("t02").rows[a].Symbol;
+      	//var value=cell[0].innerHTML; /* show the results in info */
+        /*$scope.submit=function(){$http.get("http://localhost/stock.php?q="+$scope.Mar+'&t='+$scope.Tes+'&f='+$scope.fin)
+            .success(function(response) {$scope.names = response;
+            });}*////////////
+        //$scope.symbol=function(){$http.get("http://localhost/stock.php
+    	////////$(document).ready(function(){
+    		////$("button").click(function(){
+    	$.get("http://localhost/save.php",$symbol);
+    			      
+    			 //// });
+    			/////});
+        /*
+          $.ajax(
+          {type:"POST",
+        url:'stockInfoServlet',
+        async: false,
+        cache: false,
+        data: {"recom":value},
+        success: function(data){
+          document.getElementById("info1").innerHTML=data.recStockName;
+          document.getElementById("info2").innerHTML=data.recStockBid;
+          document.getElementById("info3").innerHTML=data.recStockChangeMA;
+          document.getElementById("info4").innerHTML=data.recStockMavg;
+          document.getElementById("info5").innerHTML=data.recStockDL;
+          document.getElementById("info6").innerHTML=data.recStockDH;
+           //alert(data.length); 
+        }
+      });
+        */
+          $( "#stockimg" ).dialog();
+    }
+     
+    
+    
+    function change1(id){
+        document.getElementById("menu1").innerHTML=document.getElementById(id).innerHTML;
+      }
+
+      function change2(id){
+        document.getElementById("menu2").innerHTML=document.getElementById(id).innerHTML;
+      }
+
+      function change3(id){
+        document.getElementById("menu3").innerHTML=document.getElementById(id).innerHTML;
+      }
+    
+    
+    	
+     /* function searchController($scope,$http) {
+
+        $scope.submit=function(){
+    	  alert($("#box").serialize()); 
+    	  $.ajax(
+    	    	{type:"POST",
+    	    	url:'InputServlet',
+    	    	async: false,
+    	    	cache: false,
+    	    	data: {"recom":$("#box").serialize()},
+    	    	success: function(data){
+    	    		text="";    		
+    	    	  for(var k=0;k<2;k++){
+    	    		  text+=data[k].stockName+"<br>";
+    	    		 for (var i=0;i<10;i++) {
+    	    			text+=data[k].similarityBlock[i].recStockName+"--->"+data[k].similarityBlock[i].similarity+"<br>";
+    	    		}
+    	    		// test+=""+"<br>";
+    	    	  }	 
+    	    		document.getElementById("stockOutput").innerHTML = text;
+    	    		alert(data[1].stockName); 
+    	    		 //alert(data.length); 
+    	    	}
+    	    });    
+    	}
+      }  */	    
+    
+    
+      function searchController($scope,$http) {
+
+          $scope.submit=function(){
+        	$.ajax(
+    	    		{type:"POST",
+    	    	url:'searchInfoServlet',
+    	    	async: false,
+    	    	cache: false,
+    	    	data: {"recom":$("#searchBox").serialize()},
+    	    	success: function(data){
+    	    		document.getElementById("sear1").innerHTML=data.recStockName;
+    	    		document.getElementById("sear2").innerHTML=data.recStockBid;
+    	    		document.getElementById("sear3").innerHTML=data.recStockChangeMA;
+    	    		document.getElementById("sear4").innerHTML=data.recStockMavg;
+    	    		document.getElementById("sear5").innerHTML=data.recStockDL;
+    	    		document.getElementById("sear6").innerHTML=data.recStockDH;
+    	    		 //alert(data.length); 
+    	    	}
+    	    });
+        	$( "#t06" ).dialog({width: 715});
+          }
+          }
+    
+
+</script>
+
+    <style>
+    #calculate{
+    display:none;
+    }
+    
+
+     #table{
+     display:none;
+     }
+
+     #realTable{
+     display:none;
+     width:80%;
+     }
+     #outputTable{
+     display:none;
+     }
+     #calTable{
+     display:none;
+     }
+     #infoTable{
+     display:none;
+     }
+     #searTable{
+     display:none;
+     }
+
+    .table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: lavender;
+}
+  
+    
+    table, th, td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    text-align: center;
+    padding:5px;
+    }
+    th, td {
+    text-align: center
+    text-align: left;
+    }
+
+
+
+   #t02   tr:nth-child(even) {
+    background-color: #eee;
+    padding:5px;
+    }
+   #t02  tr:nth-child(odd) {
+   background-color:#fff;
+   padding:5px;
+    }
+   #t02   th  {
+    background-color: #3B3B33;
+    color: white;
+    padding:5px;
+}
+
+ #t03   tr:nth-child(even) {
+    background-color: #eee;
+    padding:5px;
+    }
+   #t03  tr:nth-child(odd) {
+   background-color:#fff;
+   padding:5px;
+    }
+   #t03   th  {
+    background-color: #3B3B33;
+    color: white;
+    padding:5px;
+}
+
+#t04   tr:nth-child(even) {
+    background-color: #eee;
+    padding:5px;
+    }
+   #t04  tr:nth-child(odd) {
+   background-color:#fff;
+   padding:5px;
+    }
+   #t04   th  {
+    background-color: #3B3B33;
+    color: white;
+    padding:5px;
+}
+
+   #t05  tr:nth-child(even) {
+    background-color: #fff;
+    padding:5px;
+    }
+   #t05 tr:nth-child(odd) {
+   background-color:#eee;
+   padding:5px;
+    }
+   #t05   th  {
+    background-color: lavender;
+    color: black;
+    padding:5px;
+}
+
+  #t06  tr:nth-child(even) {
+    background-color: #fff;
+    padding:5px;
+    }
+   #t06 tr:nth-child(odd) {
+   background-color:#eee;
+   padding:5px;
+    }
+   #t06   th  {
+    background-color: lavender;
+    color: black;
+    padding:5px;
+}
+
+
+    </style>
+  </head>
+
+  <body>
+  
+    <div ng-app="" >
+    <!-- title and image -->
+    <div class="container">
+    
+      <!--search bar-->
+     <div ng-controller="searchController">
+      <form class="navbar-form navbar-right"  role="form"  id="searchBox" >
+         <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search" name="filter">    
+        <button  id="searchbar" class="btn btn-default" ng-click="submit()"><span class="glyphicon glyphicon-search"></span></button>
+        </div>
+      </form>
+      <br>
+      </div>
+
+      <!--title-->
+      <center>
+      <br>
+      <h1 id="title" style="color:#8D8D86;opacity:0.1">Stock Recommendation</h1>  
+      <br>
+      <!--title figure-->
+      <img id="img" src="stock.jpg" class="img-circle" alt="Cinque Terre" width="40%" height="40%" style="margin: 2px solid lightgrey; opacity:0.1">
+      <img id="stockimg" src="stockimg.jpg" class="img-circle" alt="Cinque Terre" width="40%" height="40%" style="margin: 2px solid lightgrey; opacity:0.1">
+      <br>
+    </center>
+  </div>
+    <br>
+
+    <!-- dropdown button -->
+    <div ng-controller="stockController">
+    <center>
+    <div class="container">
+      <ul style="display:inline;list-style-type: none;">
+      <li><div class="dropdown" style="float: left; left:10%">
+        <button class="btn btn-primary dropdown-toggle btn-lg" type="button" id="menu1" data-toggle="dropdown" style="width:250px;font-size:15px;">Market Category
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="menu1" >
+          <li role="presentation"><a id="menu1.1" role="menuitem" tabindex="-1" href="#" onclick="change1(this.id)" ng-click="Mar='Q'">Global Select MarketSM(Q)</a></li>
+          <li role="presentation"><a id="menu1.2" role="menuitem" tabindex="-1" href="#" onclick="change1(this.id)" ng-click="Mar='G'">Global MarketSM(G)</a></li>
+          <li role="presentation"><a id="menu1.3" role="menuitem" tabindex="-1" href="#" onclick="change1(this.id)" ng-click="Mar='S'">Capital Market(S)</a></li>
+          <li role="presentation" class="divider"></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="#">More</a></li>
+        </ul>
+       </div> </li>
+      
+
+       <li><div class="dropdown" style="float: left; left:15%;">
+        <button class="btn btn-warning dropdown-toggle btn-lg" type="button" id="menu2" data-toggle="dropdown" style="width:250px;font-size:15px;">Test Issue
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="menu2" >
+          <li role="presentation"><a id="menu2.1" role="menuitem" tabindex="-1" href="#" onclick="change2(this.id)" ng-click="Tes='Y'">Yes(Y)</a></li>
+          <li role="presentation"><a id="menu2.2" role="menuitem" tabindex="-1" href="#" onclick="change2(this.id)" ng-click="Tes='N'">No(N)</a></li>
+          <!--<li role="presentation"><a id="menu2.3" role="menuitem" tabindex="-1" href="#" onclick="change2(this.id)">North America</a></li>
+          <li role="presentation" class="divider"></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="#">More</a></li>-->
+        </ul>
+      </div></li>
+
+
+      <li><div class="dropdown" style="float: left; left:20%">
+        <button class="btn btn-danger dropdown-toggle btn-lg" type="button" id="menu3" data-toggle="dropdown" style="width:250px;font-size:15px;">Financial Status
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="menu3">
+          <li role="presentation"><a id="menu3.1" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='D'">Deficient(D)</a></li>
+          <li role="presentation"><a id="menu3.2" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='E'">Delinquent(E)</a></li>
+          <li role="presentation"><a id="menu3.3" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='Q'">Bankrupt(Q)</a></li>
+          <li role="presentation"><a id="menu3.4" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='N'">Normal(N)</a></li>
+          <li role="presentation"><a id="menu3.5" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='G'">Deficient and Bankrupt(G)</a></li>
+          <li role="presentation"><a id="menu3.6" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='H'">Deficient and Delinquent(H)</a></li>
+          <li role="presentation"><a id="menu3.7" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='J'">Delinquent and Bankrupt(J)</a></li>
+          <li role="presentation"><a id="menu3.8" role="menuitem" tabindex="-1" href="#" onclick="change3(this.id)" ng-click="fin='K'">Deficient, Delinquent, Bankrupt(K)</a></li>
+          <!--<li role="presentation" class="divider"></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="#">More</a></li>-->
+        </ul>
+      </div></li>
+      <li><div class="dropdown" style="float: left; left:25%">
+      <button id="searchbutton" class="btn btn-default btn-lg" type="button" style="border-radius: 50%;" ng-click="submit()"><span class="glyphicon glyphicon-search" ></span> </button>
+    </div></li>
+    
+     
+  </ul>
+     </div> 
+   </center>
+    <br><br>
+
+
+
+   <!-- database table-->
+<center>
+    <div class="container" id="realTable">
+  <table id="t02" class="table table-hover">
+  <tr>
+    <th>Symbol</th>
+    <th>Security_Name</th>    
+    <th>Market_Category</th>
+    <th>Test_Issue</th>
+    <th>Financial_Status</th>
+    <th>Round_Lot_Size</th>
+    <th>Action</th>
+  </tr>
+  <tr ng-repeat="x in names">
+    <td>{{ x.Symbol }}</td>
+    <td>{{ x.Security_Name }}</td>
+    <td>{{ x.Market_Category }}</td>
+    <td>{{ x.Test_Issue }}</td>
+    <td>{{ x.Financial_Status }}</td>
+    <td>{{ x.Round_Lot_Size }}</td>
+   <td style="width:100px"><button id='{{$index+1}}' class="btn btn-info  btn-xs" type="button" onclick="getInfo(this.id)">Info</button> <button  id='{{$index+1}}' onclick="like(this.id)" class="btn btn-info btn-xs" type="button" style="margin-left: 10px;"><span class="glyphicon glyphicon-heart-empty"></span></button> </td>
+  </tr>
+ </table>
+    </div>
+   </center>
+ </div>
+
+<!-- recommender-->
+<div ng-controller="outputController">
+  <center>
+<div class="container">
+  <form role="form" id="box">
+   <div class="form-group" > 
+    <input id="append" name="filter"  type="text" class="form-control" placeholder="Enter favorite" style="width:40%;float:left;margin-left:250px" >
+    <button id="button" value="search" type="button" ng-click="submit()" class="btn btn-success dropdown-toggle btn-md" style="float:left; margin-left:10px" >Recommend</button> 
+   </div>
+  </form>
+</div>
+</center> 
+
+<br><br>
+
+<!--plot picture-->
+<div id="dialog" title="Stock trend" style="display:none" width="40%" height="50%">
+  <img src="pic.jpg" alt="Placeholder Image" s/>
+</div>
+
+<br>
+<!--
+ <script src="jquery/jquery-1.11.1.min.js"></script> 
+<div ng-controller="outputController">
+<form id="box"> 
+Keyword: <input type="text" name="filter" value="try!" />
+  <input id="button" value="search" type="button" ng-click="submit()"/>
+</form>
+-->
+
+<!--  print recommend result -->
+<center>
+<div>
+    <p id="stockOutput"></p>
+</div>
+</center>
+
+<!-- output table -->
+  
+
+ <center>
+    <div class="container" id="outputTable">
+  <table id="t03" class="table table-hover" style="width:88%">
+  <tr>
+    <th>Your Choice</th>
+    <th>Recommendation</th>   
+    <th>Similarity</th>
+    <th>Todays Bid</th>
+    <th>Change of 50 Mov Avg</th>
+    <th>50 Moving Avg</th>
+    <th>Todays Low</th>
+    <th>Todays High</th>
+  </tr>
+  <tr ng-repeat="x in block0">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+    <tr ng-repeat="x in block1">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+    <tr ng-repeat="x in block2">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block3">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block4">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block5">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block6">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block7">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block8">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+     <tr ng-repeat="x in block9">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.recStockBid }}</td>
+    <td>{{ x.recStockChangeMA }}</td>
+    <td>{{ x.recStockMavg }}</td>
+    <td>{{ x.recStockDH }}</td>
+    <td>{{ x.recStockDL }}</td>
+    </tr>
+    </table>
+    </div>
+</center>
+</div>
+
+<!-- calculation check-->
+<div ng-controller="calController">
+ <center>
+<div class="container">
+  <form role="form" id="calculation">
+   <div class="form-group" > 
+      <button id="calculate" value="search" type="button" ng-click="submit()" class="btn btn-default btn-md" style="float:right;  display:none; margin-right:6%" >Show/Hide Calculation</button> 
+   </div>
+  </form>
+</div>
+</center> 
+
+<br><br>
+
+<!--
+ <script src="jquery/jquery-1.11.1.min.js"></script> 
+<div ng-controller="outputController">
+<form id="box"> 
+Keyword: <input type="text" name="filter" value="try!" />
+  <input id="button" value="search" type="button" ng-click="submit()"/>
+</form>
+-->
+
+<!-- output table -->
+  
+
+ <center>
+    <div class="container" id="calTable">
+  <table id="t04" class="table table-hover" style="width:88%">
+  <tr>
+    <th>Your Choice</th>
+    <th>Recommendation</th>   
+    <th>Similarity</th>
+    <th>Bid Distance</th>
+    <th>Change of Mov Avg Distance</th>
+    <th>50 Moving Avg Distance</th>
+    <th>Daily change</th>
+    <th>Distance</th>
+  </tr>
+  <tr ng-repeat="x in block0">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.calStockBid }}</td>
+    <td>{{ x.calStockChangeMA }}</td>
+    <td>{{ x.calStockMavg }}</td>
+    <td>{{ x.calStockDchange }}</td>
+    <td>{{ x.distance }}</td>
+    </tr>
+     <tr ng-repeat="x in block1">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.calStockBid }}</td>
+    <td>{{ x.calStockChangeMA }}</td>
+    <td>{{ x.calStockMavg }}</td>
+    <td>{{ x.calStockDchange }}</td>
+    <td>{{ x.distance }}</td>
+    </tr>
+     <tr ng-repeat="x in block2">
+    <td>{{ x.stockName }}</td>
+    <td>{{ x.recStockName }}</td>
+    <td>{{ x.similarity }}</td>
+    <td>{{ x.calStockBid }}</td>
+    <td>{{ x.calStockChangeMA }}</td>
+    <td>{{ x.calStockMavg }}</td>
+    <td>{{ x.calStockDchange }}</td>
+    <td>{{ x.distance }}</td>
+    </tr>
+    </table>
+    </div>
+</center>
+</div>
+
+
+
+
+<center>
+    <div class="container" id="infoTable">
+  <table id="t05" title="Stock Trend" class="table table-hover" style="width:88%">
+  <tr>
+    <th>Stock Symbol</th> 
+    <th>Bid</th>
+    <th>Change of 50 Mov Avg</th>
+    <th>50 Moving Avg </th>
+    <th>Day High</th>
+    <th>Day Low</th>
+  </tr>
+  <tr>
+    <td id="info1"></td>
+    <td id="info2"></td>
+    <td id="info3"></td>
+    <td id="info4"></td>
+    <td id="info5"></td>
+    <td id="info6"></td>
+    </tr>
+    </table>
+    </div>
+</center>
+
+<center>
+    <div class="container" id="searTable">
+  <table id="t06" title="Stock Trend" class="table table-hover" style="width:88%">
+  <tr>
+    <th>Stock Symbol</th> 
+    <th>Bid</th>
+    <th>Change of 50 Mov Avg</th>
+    <th>50 Moving Avg </th>
+    <th>Day High</th>
+    <th>Day Low</th>
+  </tr>
+  <tr>
+    <td id="sear1"></td>
+    <td id="sear2"></td>
+    <td id="sear3"></td>
+    <td id="sear4"></td>
+    <td id="sear5"></td>
+    <td id="sear6"></td>
+    </tr>
+    </table>
+    </div>
+</center>
+
+</div>
+
+   
+  </body>
+</html>
