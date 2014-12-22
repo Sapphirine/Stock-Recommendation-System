@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bare_conf.aux
+The style file: plain.bst
+Database file #1: bare_conf.bib
+Too many commas in name 1 of "Marcos Vinicius Naves Bedo, Davi Pereira dos Santos, Daniel S. Kaster, Caetano Traina Jr." for entry Similarity
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1049 of file plain.bst
+Warning--can't use both volume and number fields in Fast
+Warning--empty title in Forecasting
+Too many commas in name 1 of "Marcos Vinicius Naves Bedo, Davi Pereira dos Santos, Daniel S. Kaster, Caetano Traina Jr." for entry Similarity
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Martinez, L.C., da Hora, D.N., de, J.R., Palotti, M.Meira, W., Pappa, G.L." for entry From
+while executing---line 1090 of file plain.bst
+Warning--can't use both volume and number fields in Mining
+You've used 11 entries,
+            2118 wiz_defined-function locations,
+            570 strings with 5945 characters,
+and the built_in function-call counts, 3807 in all, are:
+= -- 375
+> -- 160
+< -- 6
++ -- 65
+- -- 52
+* -- 237
+:= -- 609
+add.period$ -- 36
+call.type$ -- 11
+change.case$ -- 53
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 170
+empty$ -- 317
+format.name$ -- 52
+if$ -- 831
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 16
+newline$ -- 57
+num.names$ -- 22
+pop$ -- 85
+preamble$ -- 1
+purify$ -- 48
+quote$ -- 0
+skip$ -- 113
+stack$ -- 0
+substring$ -- 200
+swap$ -- 51
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 34
+warning$ -- 3
+while$ -- 37
+width$ -- 13
+write$ -- 122
+(There were 18 error messages)

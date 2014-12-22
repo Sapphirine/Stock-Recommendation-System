@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{Arch}
+Tim Bollerslev, Ray~Y Chou, and Kenneth~F Kroner.
+\newblock Arch modeling in finance: A review of the theory and empirical
+  evidence.
+\newblock {\em Journal of econometrics}, 52(1):5--59, 1992.
+
+\bibitem{Time}
+B{\'e}la Bollob{\'a}s, Gautam Das, Dimitrios Gunopulos, and Heikki Mannila.
+\newblock Time-series similarity problems and well-separated geometric sets.
+\newblock In {\em Proceedings of the thirteenth annual symposium on
+  Computational geometry}, pages 454--456. ACM, 1997.
+
+\bibitem{Identifying}
+Abhi Dattasharma, Praveen~Kumar Tripathi, and G~Sridhar.
+\newblock Identifying stock similarity based on multi-event episodes.
+\newblock In {\em Proceedings of the 7th Australasian Data Mining
+  Conference-Volume 87}, pages 153--162. Australian Computer Society, Inc.,
+  2008.
+
+\bibitem{Fast}
+Christos Faloutsos, Mudumbai Ranganathan, and Yannis Manolopoulos.
+\newblock {\em Fast subsequence matching in time-series databases}, volume~23.
+\newblock ACM, 1994.
+
+\bibitem{Which}
+Martin Gavrilov, Dragomir Anguelov, Piotr Indyk, and Rajeev Motwani.
+\newblock Mining the stock market (extended abstract): which measure is best?
+\newblock In {\em Proceedings of the sixth ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 487--496. ACM, 2000.
+
+\bibitem{Forecasting}
+C.W.J. Granger.
+\newblock {\em International Journal of Forecasting}, 8:3--13, 1992.
+
+\bibitem{Principles}
+Jan Komorowski and Jan Zytkow.
+\newblock {\em Principles of data mining and knowledge discovery}.
+\newblock Springer, 1997.
+
+\bibitem{Similarity}
+Daniel S. Kaster Caetano Traina~Jr. Marcos Vinicius Naves~Bedo, Davi Pereira
+  dos~Santos.
+\newblock {\em A Similarity-Based Approach for Financial Time Series Analysis
+  and Forecasting}.
+\newblock Springer Berlin Heidelberg, 2013.
+
+\bibitem{From}
+da~Hora D.N. de J.R. Palotti M.Meira W. Pappa~G.L. Martinez, L.C.
+\newblock {\em From an artificial neural network to a stock market day-trading
+  system:a case study on the bm&f bovespa}.
+\newblock IEEE Press, 2009.
+
+\bibitem{Econometric}
+Terence~C Mills and Raphael~N Markellos.
+\newblock {\em The econometric modelling of financial time series}.
+\newblock Cambridge University Press, 2008.
+
+\bibitem{Mining}
+Ramakrishnan Srikant and Rakesh Agrawal.
+\newblock Mining quantitative association rules in large relational tables.
+\newblock In {\em ACM SIGMOD Record}, volume~25, pages 1--12. ACM, 1996.
+
+\end{thebibliography}
